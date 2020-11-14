@@ -1,0 +1,1197 @@
+Human f_whether:1 f_its:1 f_blind:1 f_luck:1 f_or:1 f_damn:1 f_fool:1 f_courage:1 f_in:1 f_all:1 f_my:1 f_years:1 f_ive:1 f_never:1 f_seen:1 f_anything:1 f_like:1 f_what:1 f_you:1 f_two:1 f_jokers:1 f_have:1 f_pulled:1 f_off:1
+NotHuman f_interesting:1
+NotHuman f_she:1 f_must:1 f_not:1 f_wake:1 f_the:1 f_ancient:1
+NotHuman f_for:1 f_the:2 f_protoss:1 f_too:1 f_were:1 f_created:1 f_by:1 f_xelnaga:1
+NotHuman f_you:2 f_will:2 f_have:1 f_your:1 f_power:1 f_and:1 f_lose:1 f_yourself:1
+NotHuman f_when:1 f_we:1 f_are:1 f_done:1 f_here:1 f_i:1 f_will:1 f_return:1 f_to:1 f_my:1 f_own:1 f_people:1 f_and:1 f_accept:1 f_their:1 f_judgement:1
+Human f_focus:1 f_on:1 f_the:1 f_largest:1 f_ones:1 f_first:1
+NotHuman f_completely:1 f_different:1 f_at:1 f_core:1
+NotHuman f_and:1 f_i:1 f_am:1 f_reunited:1 f_with:1 f_the:1 f_dearest:1 f_of:1 f_friends:1
+Human f_jim:1
+NotHuman f_my:1 f_brethren:1 f_hear:1 f_me:1 f_for:1 f_there:1 f_is:1 f_little:1 f_time:1 f_left:1
+Human f_jim:1 f_are:1 f_you:1 f_out:1 f_there:1
+NotHuman f_the:1 f_infinite:1 f_cycles:1 f_have:1 f_come:1 f_to:1 f_their:1 f_end:1
+NotHuman f_it:1 f_is:1 f_and:1 f_a:2 f_terrible:1 f_fate:1 f_for:1 f_strong:1 f_primal:1 f_zerg:1
+Human f_spare:1 f_me:1 f_your:1 f_self:1 f_pity:1 f_zeratul:1
+NotHuman f_fight:1 f_kerrigan:1
+NotHuman f_the:2 f_desiccated:1 f_remains:1 f_of:1 f_overmind:1 f_were:1 f_still:1 f_there:1
+NotHuman f_kraith:1 f_will:1 f_crush:1 f_you:1
+Human f_sarah:1
+NotHuman f_an:1 f_adanium:1 f_shell:1 f_composed:1 f_of:1 f_a:1 f_trillic:1 f_compression:1 f_mesh:1
+Human f_fenix:1
+Human f_iff:1 f_negative:1
+Human f_what:1 f_heart:1
+NotHuman f_evolve:1
+Human f_you:1 f_dont:1 f_even:1 f_know:1 f_what:1 f_youre:1 f_talking:1 f_about:1 f_jim:1
+Human f_and:2 f_as:1 f_i:2 f_killed:1 f_each:1 f_every:1 f_one:1 f_of:1 f_them:1 f_knew:1 f_what:1 f_they:1 f_were:1 f_thinking:1 f_fear:1
+NotHuman f_do:1 f_you:1 f_know:1 f_about:1 f_the:1 f_experimentation:1 f_done:1 f_on:1 f_glacius:1
+NotHuman f_it:1 f_is:1 f_time:1
+Human f_zeratul:1
+NotHuman f_chuckles:1 f_so:1 f_you:1 f_do:1 f_understand:1 f_my:1 f_culture:1 f_after:1 f_all:1
+NotHuman f_all:1 f_i:1 f_behold:1 f_is:1 f_an:1 f_abomination:1
+Human f_quickly:1 f_destroy:1 f_the:1 f_eggs:1 f_before:1 f_they:1 f_hatch:1
+Human f_of:1 f_using:1 f_aliens:1 f_to:1
+Human f_i:3 f_guess:1 f_can:2 f_hardly:1 f_pass:1 f_that:1 f_up:1 f_now:1 f_tychus:1
+NotHuman f_you:1 f_are:1 f_zerg:1
+Human f_what:1 f_did:1 f_the:1 f_fallen:1 f_xelnaga:1 f_amon:1 f_do:1 f_to:1 f_us:1
+Human f_it:1 f_wont:1 f_last:1 f_you:1 f_forever:1
+Human f_after:1 f_everything:1 f_that:2 f_weve:1 f_been:1 f_through:1 f_past:1 f_all:1 f_the:3 f_fire:1 f_and:1 f_fury:1 f_one:1 f_thing:1 f_i:1 f_know:1 f_is:1 f_we:1 f_can:1 f_count:1 f_on:1 f_each:1 f_other:1 f_to:1 f_get:1 f_job:1 f_done:1
+Human f_everyone:1 f_has:1 f_to:1 f_make:1 f_peace:1 f_with:1 f_their:1 f_own:1 f_choices:1
+Human f_always:1
+Human f_all:1 f_batteries:1 f_concentrate:1 f_forward:1 f_firepower:1
+NotHuman f_important:1 f_must:1 f_collect:1
+Human f_now:1 f_thats:1 f_the:1 f_commander:1 f_ive:1 f_been:1 f_waiting:1 f_on:1
+NotHuman f_walks:1 f_towards:1 f_her:1
+Human f_he:2 f_was:2 f_about:2 f_to:1 f_have:1 f_his:1 f_throat:1 f_slit:1 f_and:1 f_worried:1 f_waffles:1
+NotHuman f_and:1 f_so:1 f_he:1 f_bound:1 f_the:1 f_zerg:1 f_to:1 f_a:1 f_single:1 f_overriding:1 f_will:1
+NotHuman f_you:1 f_must:1 f_come:1 f_to:1 f_me:1
+Human f_ah:1 f_to:1 f_hell:1 f_with:1 f_you:1
+Human f_you:1 f_will:1 f_help:1 f_me:1
+Human f_why:1 f_are:1 f_you:1 f_doing:1 f_this:1 f_kerrigan:1
+NotHuman f_kerrigan:1
+NotHuman f_here:1 f_i:1 f_am:1 f_prisoner:1
+NotHuman f_the:3 f_xelnaga:1 f_wish:1 f_you:1 f_restored:1 f_as:1 f_leader:1 f_of:1 f_swarm:1
+NotHuman f_can:1 f_use:1
+Human f_general:1 f_you:1 f_know:1 f_ive:1 f_always:1 f_got:1 f_a:1 f_card:1 f_to:1 f_play:1
+NotHuman f_there:1 f_you:1 f_will:1 f_be:1 f_tested:1
+NotHuman f_yet:1 f_some:1 f_of:1 f_us:1 f_were:1 f_hidden:1 f_overlooked:1
+Human f_there:1 f_will:1 f_be:1 f_ruin:1 f_destruction:1 f_millions:1 f_could:1 f_die:1 f_amid:1 f_the:1 f_chaos:1
+Human f_and:1 f_you:1
+NotHuman f_is:1 f_this:1 f_not:1 f_a:1 f_glorious:1 f_day:1
+Human f_but:1 f_you:1 f_said:1 f_revenge:1 f_was:1 f_secondary:1 f_to:1 f_defeating:1 f_the:1 f_ued:1
+Human f_i:1 f_will:1 f_not:1 f_be:1 f_stopped:1
+Human f_one:1 f_of:1 f_the:1 f_techs:1 f_had:2 f_skipped:1 f_breakfast:1 f_and:1 f_he:1 f_was:1 f_really:1 f_regretting:1 f_not:1 f_having:1 f_waffles:1
+Human f_i:2 f_liberated:1 f_this:1 f_planet:1 f_because:2 f_it:1 f_was:2 f_the:1 f_ueds:1 f_primary:1 f_staging:1 f_point:1 f_not:1 f_under:1 f_any:1 f_obligation:1 f_to:1 f_you:1
+NotHuman f_essence:1 f_useful:1 f_must:1 f_acquire:1
+NotHuman f_not:1 f_all:1 f_of:1 f_us:1 f_may:1 f_survive:1 f_the:1 f_coming:1 f_conflict:1
+Human f_defend:1 f_the:1 f_hive:1 f_cluster:1
+NotHuman f_yet:1 f_death:1 f_may:1 f_be:1 f_a:1 f_blessing:1 f_should:1 f_we:1 f_fail:1 f_here:1
+Human f_everything:1
+NotHuman f_hmm:1 f_very:1 f_well:1
+Human f_once:1 f_again:1 f_i:1 f_stand:1 f_atop:1 f_the:1 f_broken:1 f_bodies:1 f_of:1 f_my:1 f_enemies:1 f_victorious:1 f_but:1 f_not:1 f_unscarred:1
+Human f_and:1 f_that:1 f_allowed:1 f_me:1 f_to:1 f_become:1 f_something:1 f_greater:1
+NotHuman f_yagdra:1 f_has:1 f_sent:1 f_a:1 f_force:1 f_of:1 f_primal:1 f_fliers:1 f_to:1 f_attack:1 f_the:1 f_chrysalis:1
+Human f_theyre:1 f_in:1 f_the:1 f_state:1 f_of:1 f_constant:1 f_evolution:1
+Human f_i:1 f_hear:1 f_sarah:1
+NotHuman f_have:1 f_made:1 f_important:1 f_discovery:1
+Human f_uh:1 f_a:1 f_little:1 f_help:1 f_here:1
+NotHuman f_thenceforth:1 f_shall:1 f_all:1 f_feel:1 f_the:3 f_wrath:1 f_of:2 f_eternal:1 f_swarm:1 f_for:1 f_hour:1 f_judgement:1 f_is:1 f_come:1
+NotHuman f_you:1 f_have:1 f_a:1 f_battle:1 f_to:1 f_win:1 f_first:1
+NotHuman f_ulnar:1
+NotHuman f_without:1 f_the:1 f_khala:1 f_what:1 f_will:1 f_we:1 f_become:1
+NotHuman f_we:1 f_have:1 f_waited:1 f_long:1 f_enough:1 f_within:1 f_this:1 f_accursed:1 f_realm:1
+NotHuman f_malash:1
+NotHuman f_we:1 f_will:1 f_grow:1 f_stronger:1 f_here:1
+NotHuman f_and:1 f_we:1 f_were:1 f_the:1 f_second:1 f_creation:1 f_blessed:1 f_with:1 f_a:1 f_purity:1 f_of:1 f_essence:1
+NotHuman f_destroy:1 f_primal:1 f_zerg:1
+Human f_never:1 f_left:1 f_you:1 f_hanging:1 f_before:1 f_sir:1
+Human f_breakfast:1
+Human f_psi:1 f_emitter:1 f_in:1 f_place:1
+NotHuman f_ahhh:1 f_the:1 f_queen:1 f_of:1 f_blades:1
+NotHuman f_this:1 f_is:1 f_a:1 f_betrayal:1 f_most:1 f_foul:1 f_kerrigan:1
+NotHuman f_primal:1 f_organism:1 f_detected:1
+NotHuman f_one:1 f_devoured:1 f_another:1 f_and:1 f_became:1 f_stronger:1
+Human f_none:1 f_shall:1 f_ever:1 f_dispute:1 f_my:1 f_rule:1 f_again:1
+Human f_but:1 f_now:1
+Human f_damn:1 f_jimmy:1 f_youve:1 f_been:1 f_holdin:1 f_out:1 f_on:1 f_me:1
+Human f_hes:1 f_in:1 f_the:1 f_medbay:1
+Human f_i:1 f_have:1 f_a:1 f_high:1 f_degree:1 f_of:1 f_confidence:1 f_in:1 f_the:1 f_lieutenant:1
+Human f_if:1 f_you:1 f_try:1 f_to:1 f_get:1 f_in:1 f_my:1 f_way—:1
+Human f_such:1 f_little:1 f_faith:1 f_for:1 f_a:1 f_templar:1
+NotHuman f_source:1 f_personality:1
+NotHuman f_we:1 f_will:1 f_have:1 f_to:1 f_cross:1 f_the:1 f_battle:1 f_between:1 f_brakk:1 f_and:1 f_yagdras:1 f_packs:1
+Human f_belay:1 f_that:1 f_order:1
+Human f_i:1 f_am:1 f_here:1 f_to:1 f_make:1 f_sure:1 f_your:1 f_reign:1 f_is:1 f_shortlived:1
+Human f_heard:1 f_you:1 f_boys:1 f_needed:1 f_some:1 f_help:1
+NotHuman f_i:1 f_will:1 f_melt:1 f_the:1 f_fleshes:1 f_from:1 f_your:1 f_bones:1
+NotHuman f_even:1 f_zerg:1
+NotHuman f_dark:1 f_templar:1
+Human f_who:1 f_the:2 f_what:1 f_hell:1 f_are:1 f_you:1
+NotHuman f_you:1 f_are:1 f_the:2 f_will:1 f_of:1 f_swarm:1
+Human f_char:1
+NotHuman f_if:1 f_you:2 f_seek:1 f_our:1 f_power:1 f_must:1 f_become:1 f_primal:1 f_zerg:1
+NotHuman f_our:1 f_master:1 f_has:1 f_already:1 f_won:1 f_alarak:1
+Human f_are:1 f_you:1 f_goin:1 f_to:1 f_kill:1 f_me:1 f_now:1 f_darlin:1
+NotHuman f_i:1 f_will:1 f_turn:1 f_the:1 f_chosen:1 f_against:1 f_him:1
+NotHuman f_the:1 f_end:1 f_of:1 f_all:1 f_things:1
+Human f_ive:1 f_just:1 f_received:1 f_a:1 f_report:1 f_that:1 f_youve:1 f_taken:1 f_half:1 f_of:1 f_the:1 f_fleet:1
+NotHuman f_our:1 f_kind:1 f_once:1 f_stood:1 f_as:1 f_stewards:1 f_of:2 f_a:1 f_galaxy:1 f_full:1 f_promise:1
+NotHuman f_broodmother:1 f_kilysa:1 f_relayed:1 f_this:1 f_to:1 f_us:1
+Human f_the:1 f_xelnaga:1 f_artifacts:1 f_been:1 f_assembled:1
+Human f_hopelessness:1
+Human f_there:1 f_is:1 f_a:1 f_gateway:1 f_to:1 f_the:1 f_void:1 f_within:1 f_ulnar:1
+NotHuman f_with:1 f_the:1 f_last:1 f_of:1 f_our:1 f_essence:1 f_a:1 f_new:1 f_eternity:1 f_dawns:1
+Human f_theyre:1 f_dead:1 f_artanis:1
+Human f_hes:1 f_alive:1
+NotHuman f_how:1 f_can:1 f_this:1 f_be:1 f_hierarch:1 f_we:1 f_are:1 f_receiving:1 f_an:1 f_unauthorized:1 f_transmission:1
+Human f_im:1 f_far:1 f_more:1 f_than:1 f_i:1 f_once:1 f_was:1 f_jim:1
+NotHuman f_what:1 f_a:1 f_pleasant:1 f_surprise:1
+NotHuman f_do:1 f_not:1 f_test:1 f_me:1 f_taldarim:1
+Human f_now:1 f_youll:1 f_do:1 f_exactly:1 f_as:1 f_i:1 f_tell:1 f_you:2 f_if:1 f_care:1 f_at:1 f_all:1 f_about:1 f_jim:1 f_raynor:1
+NotHuman f_brakks:1 f_forces:1 f_are:1 f_destroying:1 f_quillgor:1 f_biomass:1
+NotHuman f_we:1 f_will:1 f_gather:1 f_the:1 f_survivors:1 f_rebuild:1 f_our:1 f_cities:1
+NotHuman f_your:1 f_appearance:1 f_does:1 f_not:1 f_matter:1
+Human f_minutes:1 f_ago:1 f_the:1 f_zerg:1 f_attacked:1 f_a:1 f_dominion:1 f_military:1 f_research:1 f_facility:1
+NotHuman f_it:1 f_lies:1 f_far:1 f_beyond:1 f_koprulu:1 f_sector:1 f_where:1 f_no:1 f_terran:1 f_has:1 f_ventured:1
+NotHuman f_the:1 f_battle:1 f_is:1 f_already:1 f_won:1
+Human f_youre:1 f_right:1 f_fenix:1
+NotHuman f_savage:1
+NotHuman f_these:1 f_are:1 f_lies:1 f_artanis:1
+Human f_you:1 f_have:1 f_more:1 f_cause:1 f_to:1 f_hate:1 f_me:1 f_than:1 f_most:1
+Human f_you:1 f_readin:1 f_all:1 f_this:1
+Human f_but:1 f_as:1 f_youll:1 f_soon:1 f_learn:1 f_even:1 f_freedom:1 f_has:1 f_a:1 f_price:1
+NotHuman f_it:1 f_lies:1 f_far:1 f_beyond:1 f_the:1 f_koprulu:1 f_sector:1 f_outside:1 f_known:1 f_space:1
+Human f_we:1 f_have:1 f_to:1 f_go:1 f_now:1 f_jim:1
+NotHuman f_prepare:1 f_for:1 f_a:1 f_pincer:1 f_attack:1
+NotHuman f_saw:1 f_ranged:1 f_primal:1 f_zerg:1 f_creatures:1 f_on:1 f_battlefield:1
+Human f_narud:1
+NotHuman f_listen:1 f_and:1 f_obey:1
+Human f_i:1 f_said:1 f_leave:1 f_it:1 f_alone:1
+NotHuman f_for:1 f_aiur:1
+Human f_ive:1 f_sacrificed:1 f_too:1 f_much:1 f_to:1 f_let:1 f_this:1 f_fall:1 f_apart:1
+NotHuman f_then:1 f_that:1 f_is:1 f_enough:1
+NotHuman f_stukov:1
+Human f_youre:1 f_taking:1 f_us:1 f_back:1 f_to:1 f_char:1
+Human f_tough:1 f_talk:1 f_jimmy:1 f_but:1 f_i:1 f_dont:1 f_think:1 f_you:1 f_have:1 f_what:1 f_it:1 f_takes:1 f_to:1 f_be:1 f_a:1 f_killer:1
+NotHuman f_you:1 f_must:1 f_halt:1 f_this:1 f_invasion:1 f_at:1 f_once:1
+Human f_little:1 f_jimmy:1 f_raynor:1 f_the:1 f_peoples:1 f_hero:1
+Human f_theyll:1 f_kill:1 f_you:1
+NotHuman f_all:1 f_zerus:1 f_feel:1 f_it:1
+Human f_thats:1 f_why:1 f_they:1 f_spread:1 f_their:1 f_lies:1 f_and:1 f_misinformation:1
+Human f_if:1 f_he:1 f_is:1 f_alive:1 f_nothing:1 f_in:1 f_this:1 f_universe:1 f_will:1 f_stop:1 f_me:1 f_from:1 f_finding:1 f_him:1
+NotHuman f_a:1 f_form:1 f_i:1 f_chose:1 f_to:1 f_inspire:1 f_action:1 f_in:2 f_the:1 f_one:1 f_called:1 f_zeratul:1 f_you:1
+NotHuman f_my:1 f_queen:1 f_enemy:1 f_primals:1 f_are:1 f_massing:1 f_nearby:1
+NotHuman f_do:1 f_not:1 f_let:1 f_the:1 f_terrazine:1 f_cloud:1 f_your:1 f_judgment:1
+NotHuman f_struggle:1 f_it:1 f_only:1 f_makes:1 f_you:1 f_taste:1 f_smear:1
+Human f_i:1 f_made:1 f_you:1 f_into:1 f_a:1 f_monster:1 f_kerrigan:1
+Human f_go:2 f_jim:1
+Human f_of:1 f_course:1
+Human f_we:1 f_need:1 f_to:1 f_harvest:1 f_this:1 f_biomass:1 f_quickly:1
+Human f_im:1 f_glad:1 f_we:1 f_understand:1 f_each:1 f_other:1
+Human f_you:1 f_made:1 f_us:1 f_all:1 f_into:1 f_monsters:1
+Human f_im:1 f_general:1 f_edmund:1 f_duke:1 f_of:1 f_the:1 f_dominion:1 f_armada:1
+Human f_to:1 f_an:1 f_extent:1
+NotHuman f_it:1 f_is:1 f_dangerous:1 f_to:1 f_harvest:1 f_from:1 f_multiple:1 f_corpses:1
+NotHuman f_slivan:1 f_the:1 f_eternal:1 f_mother:1 f_hollow:1 f_and:1 f_destructive:1
+NotHuman f_uh:1 f_excuse:1 f_me:1 f_admiral:1 f_but:1 f_id:1 f_like:1 f_to:2 f_introduce:1 f_someone:1 f_you:1
+Human f_you:2 f_might:1 f_be:1 f_a:1 f_damn:1 f_pirate:1 f_raynor:1 f_but:1 f_whatever:1 f_happens:1 f_saved:1 f_my:1 f_boys:1 f_today:1
+NotHuman f_i:1 f_see:1
+NotHuman f_leave:1 f_her:1 f_nothing:1
+Human f_youre:1 f_nothing:1
+NotHuman f_harvest:1 f_successful:1
+Human f_i:1 f_was:1 f_wrong:1 f_about:1 f_you:1 f_valerian:1
+NotHuman f_they:1 f_kill:1
+NotHuman f_alone:1 f_it:1 f_is:1 f_said:1 f_that:1 f_those:1 f_of:2 f_our:1 f_kind:1 f_suffer:1 f_separated:1 f_from:1 f_the:2 f_glory:1 f_khala:1
+Human f_i:1 f_joined:1 f_this:1 f_outfit:1 f_to:1 f_fight:1 f_the:1 f_dominion:1 f_not:1 f_work:1 f_for:1 f_them:1
+Human f_and:1 f_you:1 f_threw:1 f_it:1 f_away:1
+NotHuman f_i:1 f_claim:1 f_their:2 f_territory:1 f_and:1 f_essence:1
+Human f_the:1 f_hell:1 f_with:1 f_him:1
+NotHuman f_but:1 f_you:1 f_will:1 f_not:1 f_be:1 f_so:1 f_fortunate:1
+Human f_i:1 f_feel:1 f_the:1 f_swarm:1
+NotHuman f_he:1 f_has:1 f_corrupted:1 f_the:1 f_khala:1
+NotHuman f_you:1 f_wished:1 f_to:1 f_see:1 f_me:1 f_phasesmith:1
+Human f_dont:1 f_ever:1 f_try:1 f_abathur:1
+NotHuman f_the:1 f_answers:1 f_you:1 f_seek:1 f_lie:1 f_within:1
+Human f_i:1
+Human f_we:1 f_had:1 f_a:1 f_deal:1
+NotHuman f_your:1 f_empty:1 f_minions:1 f_are:1 f_no:1 f_match:1 f_for:1 f_the:2 f_might:1 f_of:1 f_primal:1 f_zerg:1
+NotHuman f_i:1 f_thought:1 f_well:1 f_draws:1 f_artanis:1 f_up:1 f_close:1 f_he:2 f_believes:1 f_was:1 f_brought:1 f_from:1 f_stasis:1 f_and:1 f_made:1 f_a:1 f_dragoon:1
+NotHuman f_the:2 f_biomass:1 f_is:1 f_in:1 f_transit:1 f_to:1 f_ancient:1 f_one:1
+Human f_i:1 f_wonder:1 f_how:1 f_well:1 f_do:1 f_you:1 f_know:1 f_yourself:1
+Human f_i:1 f_need:1 f_to:1 f_cleanse:1 f_it:1
+Human f_so:1 f_youll:1 f_keep:1 f_your:1 f_swarm:1 f_away:2 f_from:2 f_korhal:1 f_and:1 f_me:1 f_or:1 f_he:1 f_dies:1
+Human f_is:1 f_it:1 f_that:1 f_simple:1
+NotHuman f_it:1 f_is:1 f_finished:1 f_judicator:1
+NotHuman f_just:1 f_as:1 f_when:1 f_the:1 f_terran:1 f_jim:1 f_raynor:1 f_came:1 f_to:3 f_char:1 f_return:1 f_you:1 f_your:1 f_original:1 f_form:1
+Human f_you:1 f_swore:1 f_youd:1 f_kill:1 f_the:1 f_queen:1 f_of:1 f_blades:1
+Human f_im:1 f_going:1 f_to:1 f_korhal:1
+NotHuman f_its:1 f_hope:1 f_was:1 f_a:1 f_lie:1
+Human f_im:1 f_guessing:1 f_youre:1 f_about:1 f_to:1 f_tell:1 f_me:1
+Human f_the:1 f_zerg:1 f_swarm:1 f_launched:1 f_a:1 f_fullscale:1 f_attack:1
+Human f_i:1 f_know:1 f_all:1 f_about:1 f_the:1 f_zerg:1 f_gerard:1
+Human f_ill:1 f_see:1 f_you:1 f_dead:1 f_for:1 f_this:1 f_kerrigan:1
+NotHuman f_oh:1 f_thats:1 f_hardly:1 f_a:1 f_way:1 f_to:1 f_speak:1 f_of:1 f_one:1 f_whom:1 f_saved:1 f_your:1 f_masters:1 f_life:1
+Human f_mother:1 f_of:1 f_god:1 f_kerrigan:1 f_what:1 f_have:1 f_they:1 f_done:1 f_to:1 f_you:1
+Human f_jim:1 f_is:1 f_doing:1 f_well:1
+Human f_veritable:1 f_firestorm:1 f_of:1 f_antimengsk:1 f_sentiment:1
+Human f_worlds:1 f_will:1 f_burn:1
+Human f_izsha:1
+NotHuman f_lower:1 f_your:1 f_blades:1
+Human f_youve:1 f_been:1 f_nothing:1 f_but:1 f_poison:1 f_since:1 f_you:1 f_got:1 f_on:1 f_this:1 f_crate:1
+Human f_so:1
+NotHuman f_primal:1 f_forces:1 f_eliminated:1
+Human f_but:1 f_the:1 f_dreams:1
+Human f_its:1 f_called:1 f_a:1 f_gambleits:1 f_something:1 f_terrans:1 f_do:1 f_when:1 f_their:1 f_instincts:1 f_tell:1 f_them:1 f_the:1 f_time:1 f_is:1 f_right:1
+Human f_i:1 f_had:1 f_expected:1 f_your:1 f_forces:1 f_to:1 f_arrive:1 f_sooner:1
+Human f_you:1 f_let:1 f_those:1 f_shuttles:1 f_go:1
+Human f_ancient:1 f_one:1
+Human f_the:1 f_hive:1 f_mind:1
+NotHuman f_i:1 f_will:1 f_use:1 f_them:1 f_both:1 f_to:1 f_avenge:1 f_amons:1 f_betrayal:1
+Human f_i:2 f_want:2 f_you:3 f_to:4 f_live:1 f_see:1 f_me:2 f_rise:1 f_power:1 f_and:1 f_always:1 f_remember:1 f_in:2 f_your:1 f_most:1 f_private:1 f_moments:1 f_that:1 f_it:1 f_was:1 f_who:1 f_let:1 f_loose:1 f_the:1 f_first:1 f_place:1
+Human f_were:1 f_almost:1 f_there:1
+Human f_our:1 f_forces:1 f_can:1 f_intercept:1 f_their:1 f_raiding:1 f_parties:1
+NotHuman f_we:1 f_need:1 f_more:2 f_swarm:1 f_hosts:1 f_morph:1 f_from:1 f_the:1 f_larvae:1 f_at:1 f_our:1 f_hatchery:1
+Human f_their:1 f_swarm:1 f_is:1 f_shattered:1 f_and:1 f_leaderless:1
+Human f_yes:2 f_i:1 f_am:1 f_prepared:1 f_to:1 f_go:1 f_all:1 f_the:1 f_way:1 f_my:1 f_good:1 f_admiral:1
+NotHuman f_strike:1 f_as:1 f_one:1 f_will:1
+NotHuman f_confront:1 f_the:1 f_remaining:1 f_pack:1 f_leaders:1
+Human f_you:1 f_cant:1 f_plan:1 f_for:1 f_the:1 f_zerg:1 f_general:1
+NotHuman f_must:1 f_take:1 f_sample:1
+NotHuman f_and:1 f_now:1 f_it:1 f_has:1 f_reached:1 f_the:1 f_end:1 f_of:1 f_its:1 f_long:1 f_journey:1
+NotHuman f_now:1 f_shall:1 f_the:1 f_events:1 f_set:1 f_into:1 f_motion:1 f_so:1 f_long:1 f_ago:1 f_be:1 f_made:1 f_complete:1
+NotHuman f_it:2 f_is:2 f_your:1 f_custom:1 f_to:1 f_shake:1 f_the:1 f_hand:1 f_of:1 f_a:1 f_friend:1 f_not:1
+Human f_but:1 f_you:1 f_cant:1 f_let:1 f_your:2 f_past:1 f_cloud:1 f_judgement:1
+Human f_were:1 f_all:1 f_aware:1 f_of:1 f_your:1 f_victories:1 f_general:1
+NotHuman f_dark:1 f_energies:1 f_pour:1 f_from:1 f_within:1 f_and:2 f_they:1 f_will:1 f_consume:1 f_your:1 f_precious:1 f_leader:1 f_any:1 f_who:1 f_oppose:1 f_amon:1
+NotHuman f_kill:1 f_them:1 f_and:1 f_you:1 f_will:1 f_command:1 f_the:2 f_whole:1 f_of:1 f_zerg:1
+Human f_cuttin:1 f_it:1 f_pretty:1 f_close:1 f_there:1 f_matt:1
+NotHuman f_i:1 f_bring:1 f_tidings:1 f_of:1 f_doom:1
+Human f_were:1 f_all:1 f_covered:1 f_in:1 f_blood:1
+NotHuman f_learn:1 f_its:2 f_secrets:1 f_and:1 f_take:1 f_power:1
+NotHuman f_my:1 f_queen:1 f_why:1 f_did:1 f_we:1 f_wake:1 f_the:1 f_ancient:1 f_one:1
+Human f_same:1 f_thing:1 f_as:1 f_you:1 f_brother:1
+Human f_as:1 f_for:2 f_my:1 f_unlikely:1 f_allies:1 f_i:3 f_think:1 f_that:1 f_shall:1 f_allow:1 f_them:1 f_a:1 f_reprieve:1 f_in:1 f_time:1 f_will:1 f_seek:1 f_to:1 f_test:1 f_their:2 f_resolve:1 f_and:1 f_strengths:1
+Human f_do:1 f_your:1 f_worst:1 f_then:1 f_girl:1
+Human f_youre:1 f_not:1 f_like:1 f_your:1 f_father:1
+NotHuman f_the:1 f_cycle:1 f_must:1 f_not:1 f_be:1 f_broken:1
+Human f_do:1 f_as:1 f_he:1 f_says:1
+NotHuman f_tassadar:1
+NotHuman f_ah:1 f_tassadar:1 f_have:1 f_you:1 f_fallen:1 f_so:1 f_far:1
+NotHuman f_we:1 f_will:1 f_reject:1 f_our:1 f_old:1 f_divisions:1 f_and:1 f_forge:1 f_a:1 f_new:1 f_society:1
+NotHuman f_and:1 f_what:1 f_is:1 f_it:1 f_you:1 f_suggest:1 f_we:1 f_do:1 f_kerrigan:1
+Human f_we:1 f_have:1 f_been:1 f_sent:1 f_here:1 f_to:1 f_take:1 f_control:1 f_of:2 f_this:1 f_sector:1 f_for:1 f_the:1 f_betterment:1 f_mankind:1
+Human f_man:1 f_do:1 f_you:1 f_even:1 f_see:1 f_what:1 f_youre:1 f_becoming:1
+NotHuman f_it:1 f_is:1 f_my:1 f_former:1 f_master:1 f_tassadar:1
+Human f_theres:1 f_no:1 f_way:1 f_out:1
+NotHuman f_behold:1 f_the:1 f_culmination:1 f_of:1 f_your:1 f_history:1
+Human f_and:1 f_incredibly:1 f_dangerous:1
+NotHuman f_i:1 f_would:1 f_sooner:1 f_die:1 f_dark:1 f_one:1 f_than:1 f_tarnish:1 f_the:1 f_memory:1 f_of:1 f_aiur:1 f_by:1 f_joining:1 f_with:1 f_you:1
+NotHuman f_you:1 f_have:1 f_questions:1
+Human f_youve:1 f_killed:1 f_your:1 f_own:1 f_matriarch:1
+NotHuman f_must:1 f_be:1 f_wiped:1 f_clean:1
+Human f_because:1 f_i:1 f_can:1 f_offer:1 f_you:1 f_what:1 f_youve:1 f_always:1 f_wanted:1
+NotHuman f_enemy:1 f_of:1 f_amon:1
+Human f_then:1 f_ill:1 f_show:1 f_you:1 f_what:1 f_the:1 f_zerg:1 f_are:1 f_really:1 f_capable:1 f_of:1
+Human f_im:1 f_looking:1 f_through:1 f_the:1 f_eyes:1 f_of:1 f_my:1 f_overlords:1
+NotHuman f_i:1 f_sensed:1 f_another:1 f_pack:1 f_of:1 f_primal:1 f_zerg:1 f_gathering:1 f_at:1 f_across:1 f_basin:1
+Human f_ive:1 f_been:1 f_waiting:1 f_for:1 f_you:1
+Human f_by:1 f_this:1 f_act:1 f_the:1 f_people:1 f_will:1 f_finally:1 f_know:1 f_that:1 f_i:1 f_am:1 f_a:1 f_worthy:1 f_successor:1 f_to:1 f_you:1
+NotHuman f_do:1 f_not:1 f_forget:1 f_that:2 f_it:1 f_was:1 f_his:1 f_interference:1 f_brought:1 f_ruin:1 f_to:1 f_aiur:1
+Human f_i:1 f_will:1 f_become:1 f_more:1 f_powerful:1 f_than:1 f_the:1 f_old:1 f_queen:1 f_of:1 f_blades:1
+Human f_good:1
+Human f_its:1 f_a:1 f_miracle:1
+Human f_destroy:1 f_them:1
+NotHuman f_it:1 f_is:1 f_not:1 f_in:1 f_my:1 f_place:1 f_to:1 f_question:1 f_the:1 f_order:1 f_of:1 f_a:1 f_judicator:1
+Human f_you:1 f_plan:1 f_to:1 f_kill:1 f_my:1 f_father:1
+Human f_proud:1 f_dominion:1 f_citizens:1 f_at:1 f_long:1 f_last:1 f_our:1 f_nightmare:1 f_is:1 f_over:1
+NotHuman f_they:1 f_will:1 f_stand:1 f_against:1 f_the:1 f_wind:1
+Human f_i:1 f_am:1 f_kerrigan:1
+Human f_i:1 f_think:1 f_ill:1 f_leave:1 f_you:1 f_here:1 f_arcturus:1 f_among:1 f_the:1 f_ashes:1 f_of:1 f_your:1 f_precious:1 f_dominion:1
+Human f_i:1 f_cant:1 f_sense:1 f_jim:1 f_out:1 f_there:1
+Human f_looks:1 f_over:1 f_at:1 f_the:1 f_others:1 f_artanis:1 f_jim:1
+NotHuman f_they:1 f_seek:1 f_power:1
+NotHuman f_have:1 f_you:1 f_any:1 f_conception:1 f_of:1 f_what:1 f_youve:1 f_created:1 f_here:1
+NotHuman f_warning:1
+Human f_fifty:1 f_years:1 f_and:1 f_no:1 f_ones:1 f_ever:1 f_escaped:1 f_from:1 f_new:1 f_folsom:1 f_but:1 f_we:1 f_broke:1 f_it:1 f_open:1 f_in:1 f_an:1 f_afternoon:1
+Human f_i:1 f_gave:1 f_the:2 f_orders:1 f_for:2 f_operation:1 f_before:1 f_we:1 f_sat:1 f_down:1 f_our:1 f_first:1 f_game:1
+NotHuman f_today:1 f_that:1 f_lie:1 f_must:2 f_come:1 f_to:1 f_its:1 f_end:1 f_and:2 f_with:1 f_it:1 f_our:1 f_prejudice:1 f_arrogance:1 f_become:1 f_a:1 f_thing:1 f_of:1 f_the:1 f_past:1
+NotHuman f_no:1 f_simple:1 f_matter:1
+Human f_after:1 f_killing:1 f_of:1 f_the:1 f_primal:1 f_zerg:1
+NotHuman f_no:1 f_trace:1 f_left:1
+Human f_no:1 f_thats:1 f_just:1 f_it:1
+Human f_then:1 f_find:1 f_more:1 f_quillgor:1 f_izsha:1
+Human f_youll:1 f_never:1 f_be:1 f_able:1 f_to:2 f_forgive:1 f_yourself:1 f_for:1 f_what:1 f_ive:1 f_forced:1 f_you:1 f_do:1
+NotHuman f_zeratul:1 f_looking:1 f_at:1 f_the:3 f_carvings:1 f_further:1 f_shakuras:1 f_now:1 f_sees:1 f_another:1 f_familiar:1 f_form:1 f_of:2 f_kerrigan:1 f_queen:1 f_blades:1
+NotHuman f_and:1 f_may:1 f_the:1 f_khalas:1 f_light:1 f_guide:1 f_us:1
+NotHuman f_we:1 f_have:2 f_been:1 f_through:1 f_much:1 f_together:1 f_zeratul:1 f_but:1 f_far:1 f_too:1 f_many:1 f_sacrificed:1 f_in:1 f_the:1 f_hopes:1 f_that:1 f_this:1 f_moment:1 f_could:1 f_come:1 f_to:1 f_pass:1
+NotHuman f_now:1 f_you:1 f_have:1 f_come:1 f_to:1 f_this:1 f_realm:1
+Human f_just:1 f_a:1 f_friendly:1 f_business:1 f_proposition:1
+NotHuman f_they:1 f_fight:1
+Human f_i:1 f_am:1 f_not:1 f_your:1 f_enemy:1
+Human f_and:1 f_if:1 f_i:1 f_survive:1 f_it:1 f_will:1 f_remake:1 f_me:1
+Human f_were:1 f_not:1 f_gonna:1 f_make:1 f_it:1
+Human f_what:1
+NotHuman f_this:1 f_heretic:1 f_cannot:1 f_be:1 f_trusted:1
+Human f_zerus:1 f_may:1 f_prove:1 f_more:1 f_dangerous:1 f_than:1 f_any:1 f_world:1 f_weve:1 f_known:1
+NotHuman f_looks:1 f_up:1 f_out:1 f_into:1 f_space:1 f_it:1 f_is:1 f_kerrigan:1
+Human f_this:1 f_is:1 f_my:1 f_destiny:1
+Human f_realizes:1 f_that:1 f_kerrigan:1 f_has:1 f_reverted:1 f_to:1 f_zerg:1 f_form:1 f_no:1
+NotHuman f_forgive:1 f_me:1
+Human f_i:1 f_was:1
+Human f_kerrigan:1 f_you:1 f_murdering:1 f_bitch:1
+NotHuman f_my:1 f_pack:1 f_arrives:1
+Human f_the:1 f_queens:1 f_hate:1 f_is:1 f_strong:1 f_enough:1
+Human f_grabs:1 f_swann:1 f_by:1 f_the:1 f_shirt:1 f_who:1 f_struggles:1 f_to:1 f_escape:1 f_pathetic:1
+Human f_you:1 f_need:1 f_to:1 f_see:1 f_this:1
+NotHuman f_from:1 f_my:1 f_experience:1 f_overconfidence:1 f_is:1 f_your:1 f_opponents:1 f_greatest:1 f_ally:1
+NotHuman f_rid:1 f_yourselves:1 f_of:1 f_amon:1
+NotHuman f_defend:1
+NotHuman f_the:1 f_overmind:1 f_has:1 f_come:1 f_to:1 f_destroy:1 f_all:1 f_that:1 f_we:1 f_hold:1 f_dear:1 f_and:1 f_assimilate:1 f_us:1 f_into:1 f_itself:1
+Human f_let:1 f_all:1 f_those:1 f_who:1 f_oppose:1 f_the:3 f_overmind:1 f_feel:1 f_wrath:1 f_of:1 f_swarm:1
+Human f_what:1 f_the:1 f_hell:1 f_happened:1
+NotHuman f_hear:1 f_me:1
+Human f_now:1 f_are:1 f_you:1 f_prepared:1 f_to:1 f_die:1 f_a:1 f_second:1 f_time:1
+NotHuman f_it:1 f_calls:1 f_to:1 f_you:1
+NotHuman f_your:1 f_swarm:1 f_bears:1 f_the:2 f_mark:1 f_of:1 f_amon:1 f_fallen:1 f_xelnaga:1 f_who:1 f_came:1 f_to:1 f_zerus:1 f_long:1 f_ago:1
+Human f_vengeance:1 f_doesnt:1 f_factor:1 f_into:1 f_this:1
+Human f_let:1 f_him:1 f_go:1 f_kerrigan:1
+NotHuman f_it:1 f_was:2 f_his:1 f_cloned:1 f_personality:1 f_that:1 f_used:1 f_for:1 f_the:1 f_purifier:1 f_prototype:1
+Human f_look:1 f_i:2 f_know:1 f_about:1 f_your:1 f_past:1 f_mean:1 f_ive:1 f_heard:1 f_the:1 f_rumors:1
+Human f_you:2 f_do:1 f_know:1 f_never:1 f_hand:1 f_a:1 f_chance:1 f_right:1
+Human f_dont:1 f_give:1 f_up:1
+NotHuman f_watch:2 f_your:1 f_words:1 f_or:1 f_my:1 f_blade:1 f_will:1 f_them:1 f_for:1 f_you:1
+NotHuman f_broodmother:1 f_zagara:1
+NotHuman f_through:2 f_the:2 f_breath:1 f_of:1 f_creation:1 f_i:1 f_peer:1 f_veil:1
+Human f_i:1 f_hope:1 f_youre:1 f_right:1 f_darling:1
+NotHuman f_let:1 f_our:1 f_last:1 f_stand:1 f_burn:1 f_a:1 f_memory:1 f_so:1 f_bright:1 f_that:1 f_we:1 f_will:1 f_be:1 f_known:1 f_throughout:1 f_eternity:1
+Human f_ill:1 f_give:1 f_you:1 f_your:1 f_chance:1
+Human f_ive:1 f_invited:1 f_commander:1 f_raynor:1 f_here:1 f_to:1 f_assist:1 f_us:1 f_with:1 f_any:1 f_unforeseen:1 f_contingencies:1
+Human f_hello:1 f_kerrigan:1
+Human f_once:1 f_we:2 f_dealt:1 f_with:1 f_the:2 f_protoss:1 f_can:1 f_do:1 f_something:1 f_about:1 f_zerg:1
+NotHuman f_i:1 f_am:1 f_everything:1 f_you:1 f_never:1 f_had:1
+Human f_because:1 f_some:1 f_things:1 f_are:1 f_just:1 f_worth:1 f_fighting:1 f_for:1
+NotHuman f_what:1 f_is:2 f_relevant:1 f_that:1 f_amon:1 f_has:1 f_opened:1 f_a:1 f_gateway:1 f_to:1 f_the:1 f_void:1
+NotHuman f_selendis:1 f_templar:1
+NotHuman f_you:1 f_grow:1 f_greedy:1
+Human f_gentlemen:1 f_youve:1 f_done:1 f_very:1 f_well:1 f_but:1 f_remember:1 f_that:1 f_weve:1 f_still:1 f_got:1 f_a:1 f_job:1 f_to:1 f_do:1
+NotHuman f_returns:1 f_to:1 f_analyze:1 f_fenix:1 f_his:1 f_construction:1 f_is:1 f_highly:1 f_advanced:1
+NotHuman f_the:1 f_first:1 f_spawning:1 f_pool:1
+NotHuman f_only:1 f_the:1 f_strongest:1 f_survive:1
+NotHuman f_it:1 f_ends:1 f_in:1 f_utter:1 f_darkness:1
+Human f_cause:1 f_here:1 f_we:2 f_are:1 f_in:1 f_the:1 f_mouth:1 f_of:1 f_hell:1 f_and:1 f_made:1 f_it:1 f_this:1 f_far:1 f_by:1 f_leaning:1 f_on:1 f_each:1 f_other:1
+NotHuman f_en:1 f_taro:1 f_zeratul:1
+NotHuman f_char:1 f_is:1 f_far:1 f_superior:1
+Human f_i:1 f_stand:1 f_for:1 f_my:1 f_people:1
+Human f_digging:1 f_up:1 f_alien:1 f_artifacts:1 f_old:1 f_buddy:1
+NotHuman f_you:1 f_must:1 f_feel:1 f_the:1 f_power:1
+Human f_i:1 f_sense:1 f_something:1
+Human f_this:1 f_voice:1 f_is:1 f_not:1 f_his:1
+Human f_today:1 f_i:1 f_will:1 f_defeat:1 f_the:2 f_queen:1 f_of:1 f_blades:1 f_and:1 f_secure:1 f_peace:1 f_throughout:1 f_dominion:1
+Human f_i´m:1 f_at:1 f_the:1 f_rendezvous:1 f_it´s:1 f_all:1 f_clear:1 f_here:1
+Human f_ive:1 f_come:1 f_to:1 f_say:1 f_good:1 f_night:1 f_you:1 f_son:1 f_of:1 f_a:1 f_bitch:1
+NotHuman f_i:1 f_am:1 f_everything:1 f_you:1 f_lost:1
+Human f_but:1 f_its:1 f_a:1 f_chance:1 f_to:1 f_save:1 f_those:1 f_people:1
+Human f_you:2 f_may:1 f_find:1 f_that:1 f_difficult:1 f_abomination:1 f_seeing:1 f_as:1 f_how:1 f_i:1 f_have:1 f_the:2 f_means:1 f_to:1 f_disrupt:1 f_your:1 f_control:1 f_of:1 f_zerg:1
+Human f_just:1 f_see:1 f_to:1 f_those:1 f_wounded:1
+Human f_my:1 f_way:1
+Human f_auir:1 f_what:1 f_was:1 f_he:1 f_looking:1 f_for:1
+NotHuman f_my:1 f_pack:1 f_will:1 f_feast:1 f_upon:1 f_your:1 f_essence:1
+Human f_with:1 f_his:1 f_death:1 f_comes:1 f_a:1 f_new:1 f_era:1 f_of:1 f_peace:1
+Human f_care:1 f_to:1 f_explain:1 f_yourself:1 f_boy:1
+Human f_perhaps:1 f_not:1 f_to:1 f_you:1
+NotHuman f_zeratul:1 f_comes:1 f_to:1 f_his:1 f_feet:1 f_you:1 f_shall:1 f_not:1 f_stand:1 f_against:1 f_me:1
+NotHuman f_you:1 f_are:1 f_close:1
+NotHuman f_i:1 f_kill:1
+NotHuman f_brakk:1 f_speaks:1 f_now:1
+Human f_pays:1 f_to:1 f_be:1 f_prepared:1
+NotHuman f_know:1 f_that:2 f_i:1 f_am:1 f_the:3 f_overmind:1 f_eternal:1 f_will:1 f_of:1 f_swarm:1 f_and:1 f_you:1 f_have:1 f_been:1 f_created:1 f_to:1 f_serve:1 f_me:1
+Human f_no:2 f_dammit:1 f_sarah:1
+Human f_for:1 f_the:2 f_first:1 f_time:1 f_since:1 f_my:1 f_transfiguration:1 f_i:1 f_am:1 f_wearied:1 f_of:1 f_slaughter:1
+NotHuman f_the:2 f_primals:1 f_has:1 f_broken:1 f_through:1 f_barricades:1
+Human f_betray:1 f_me:1 f_and:1 f_ill:1 f_collect:1 f_your:1 f_essence:1
+Human f_these:1 f_moments:1 f_together:1 f_they:1 f_will:1 f_always:1 f_be:1 f_with:1 f_me:1
+NotHuman f_we:1 f_are:1 f_the:1 f_daelaam:1 f_united:1 f_as:1 f_never:1 f_before:1
+NotHuman f_with:1 f_the:2 f_essence:1 f_of:1 f_great:1 f_betrayer:1 f_your:1 f_people:1 f_fulfill:1 f_their:1 f_purpose:1
+Human f_let:1 f_no:1 f_human:1 f_deny:1 f_the:1 f_perils:1 f_of:1 f_our:1 f_time:1
+NotHuman f_here:1 f_i:1 f_live:1 f_on:1
+Human f_xelnaga:1
+NotHuman f_more:1 f_roaches:1
+NotHuman f_you:1 f_must:1 f_go:1 f_to:1 f_that:1 f_ancient:1 f_place:1 f_kerrigan:1
+Human f_why:1 f_hed:1 f_be:1 f_first:1 f_in:1 f_line:1 f_to:1 f_kill:1 f_you:1
+NotHuman f_executor:1 f_tassadar:1
+Human f_time:1 f_to:1 f_make:1 f_a:1 f_stand:1 f_magistrate:1
+Human f_i:1 f_am:1 f_here:1 f_for:1 f_the:1 f_power:1 f_of:1 f_zerus:1
+NotHuman f_the:1 f_pack:1 f_leaders:1 f_are:1 f_slain:1 f_their:1 f_packs:1 f_join:1 f_your:1 f_swarm:1 f_and:1 f_here:1 f_you:1 f_stand:1
+Human f_a:1 f_monster:1
+Human f_ive:1 f_led:1 f_five:1 f_separate:1 f_invasions:1 f_against:1 f_the:1 f_swarm:1
+Human f_now:1 f_at:1 f_last:1 f_on:1 f_this:1 f_world:1 f_vengeance:1 f_shall:1 f_be:1 f_mine:1
+NotHuman f_quillgor:1 f_biomass:1 f_are:1 f_under:1 f_attack:1
+NotHuman f_our:1 f_queens:1 f_metamorphosis:1 f_is:1 f_half:1 f_way:1 f_complete:1
+Human f_this:1 f_aint:1 f_about:1 f_the:1 f_dominion:1
+NotHuman f_each:1 f_has:1 f_sent:1 f_most:1 f_of:1 f_its:1 f_pack:1 f_against:1 f_your:1 f_swarm:1 f_leaving:1 f_themselves:1 f_vulnerable:1
+Human f_whats:1 f_so:1 f_urgent:1 f_you:1 f_got:1 f_us:1 f_all:1 f_here:1 f_for:1
+NotHuman f_by:1 f_the:1 f_rite:1 f_of:1 f_rakshir:1 f_i:1 f_am:1 f_your:1 f_highlord:1
+Human f_i:1 f_thought:1 f_youd:1 f_like:1 f_them:1
+NotHuman f_your:1 f_violence:1 f_young:1 f_prodigal:1 f_is:1 f_typical:1
+Human f_lets:1 f_move:1 f_out:1
+Human
+NotHuman f_as:1 f_do:1 f_i:1
+Human f_gives:1 f_kerrigan:1 f_another:1 f_jolt:1 f_clearly:1 f_you:1 f_are:1 f_my:1 f_greatest:1 f_failure:1
+NotHuman f_we:1 f_remain:1 f_pure:1
+NotHuman f_the:1 f_swarm:1 f_will:1 f_prevail:1
+NotHuman f_can:1 f_we:1 f_now:1
+Human f_through:1 f_them:1 f_i:1 f_own:1 f_you:1 f_as:1 f_well:1
+NotHuman f_messy:1
+NotHuman f_the:1 f_xelnaga:1
+NotHuman f_to:1 f_think:1 f_that:1 f_you:1 f_were:1 f_our:2 f_brightest:1 f_hope:1 f_most:1 f_beloved:1 f_son:1
+NotHuman f_morethere:1 f_must:1 f_be:1 f_more:1
+Human f_way:1 f_i:1 f_see:1 f_it:1 f_if:1 f_zeratul:1 f_believed:1 f_you:1 f_could:1 f_make:1 f_a:1 f_difference:1 f_in:1 f_all:1 f_this:2 f_then:1 f_fights:1 f_just:1 f_begun:1
+Human f_im:1 f_going:1 f_to:1 f_make:1 f_you:1 f_an:1 f_offer:1 f_magistrate:1
+Human f_ill:1 f_get:1 f_out:1 f_another:1 f_way:1
+NotHuman f_the:1 f_process:1 f_is:1 f_slow:1 f_and:1 f_our:1 f_drone:1 f_will:1 f_be:1 f_vulnerable:1
+Human f_i:2 f_hear:1 f_you:1 f_tychus:1 f_but:1 f_if:1 f_was:1 f_banking:1 f_everything:1 f_on:1 f_that:1 f_id:1 f_be:1 f_quit:1 f_already:1
+Human f_no:1 f_one:1 f_is:1 f_going:1 f_anywhere:1 f_until:1 f_i:1 f_see:1 f_jim:1
+NotHuman f_you:1 f_must:1 f_know:1 f_your:1 f_enemies:1
+Human f_scramble:1 f_tac:1 f_response:1 f_squads:1 f_three:1 f_through:1 f_nine:1
+Human f_leave:1 f_it:1 f_alone:1 f_matt:1
+Human f_you:1 f_understand:1 f_that:1 f_im:1 f_going:1 f_to:1 f_korhal:1 f_soon:1
+Human f_multiple:1 f_hostiles:1 f_inside:1 f_the:1 f_perimeter:1
+NotHuman f_the:1 f_zealots:1 f_around:1 f_artanis:1 f_and:2 f_selendis:1 f_scream:1 f_hold:1 f_their:1 f_heads:1 f_in:1 f_pain:1
+NotHuman f_new:1 f_form:1 f_can:1 f_twist:1 f_essence:1 f_mend:1 f_wounds:1
+NotHuman f_the:2 f_primals:1 f_are:1 f_attacking:1 f_chrysalis:1
+NotHuman f_what:1 f_matters:1 f_is:1 f_that:1 f_they:1 f_obey:1
+NotHuman f_quillgor:1 f_located:1
+NotHuman f_is:1 f_that:1 f_not:1 f_enough:1
+Human f_turns:1 f_on:1 f_a:1 f_holotransmission:1 f_of:1 f_arcturus:1 f_mengsk:1
+Human f_what:1 f_do:1 f_you:1 f_think:1 f_of:1 f_the:1 f_primal:1 f_zerg:1
+Human f_now:1 f_i:1 f_am:1 f_the:1 f_swarm:1
+NotHuman f_arise:1 f_kerrigan:1
+NotHuman f_spawn:1 f_many:1 f_locusts:1 f_to:1 f_defend:1 f_hive:1 f_cluster:1 f_from:1 f_primal:1 f_attacks:1
+Human f_shes:1 f_the:2 f_one:1 f_thats:1 f_going:1 f_to:1 f_destroy:1 f_universe:1
+Human f_apparently:1 f_arcturus:1 f_sent:1 f_duke:1 f_here:1 f_to:1 f_reclaim:1 f_me:1
+Human f_zurvan:1
+NotHuman f_alarak:1
+Human f_for:1 f_what:1
+NotHuman f_it:2 f_seems:1 f_fate:1 f_has:1 f_drawn:1 f_us:1 f_together:1 f_you:1 f_should:1 f_not:1 f_tempt:1 f_further:1
+NotHuman f_will:1 f_it:1 f_not:1 f_destroy:1 f_us:1
+NotHuman f_we:1 f_sprang:1 f_from:1 f_these:1 f_primal:1 f_zerg:1
+Human f_pirate:1
+Human f_today:1 f_you:1 f_go:1 f_free:1
+Human f_mark:1
+NotHuman f_death:1 f_is:1 f_the:1 f_fate:2 f_of:1 f_all:1 f_warriors:1 f_a:1 f_we:1 f_too:1 f_may:1 f_soon:1 f_embrace:1
+NotHuman f_you:1 f_are:1 f_lost:1 f_to:1 f_us:1
+NotHuman f_your:1 f_swarm:1 f_is:1 f_mindless:1
+Human f_im:1 f_glad:1 f_you:1 f_saved:1 f_me:1 f_the:1 f_trouble:1 f_of:1 f_killing:1 f_him:1
+NotHuman f_i:1 f_will:1 f_feast:1 f_upon:1 f_your:1 f_flesh:1
+NotHuman f_primal:1 f_zerg:1
+Human f_all:1 f_units:1 f_fire:1 f_at:1 f_will:1
+NotHuman f_these:1 f_ones:1 f_explode:1 f_when:1 f_they:1 f_sense:1 f_you:1
+Human f_that:1 f_aint:1 f_fair:1
+Human f_my:1 f_pleasure:1 f_darlin:1
+NotHuman f_ravasaur:1 f_fights:1 f_with:1 f_acid:1
+NotHuman f_i:1
+Human f_amon:1 f_must:1 f_have:1 f_died:1 f_before:1 f_i:1 f_was:1 f_infested:1
+Human f_our:1 f_war:1 f_has:1 f_always:1 f_been:1 f_about:1 f_saving:1 f_lives:1
+NotHuman f_this:1 f_is:1 f_the:1 f_destiny:1 f_of:1 f_all:1 f_primal:1 f_zerg:1
+NotHuman f_you:2 f_can:1 f_destroy:1 f_all:1 f_of:1 f_the:1 f_specimens:1 f_here:1 f_it:1 f_will:1 f_do:1 f_no:1 f_good:1
+Human f_i:1 f_hope:1 f_to:1 f_god:1 f_it:2 f_does:2 f_what:1 f_we:1 f_think:1
+NotHuman f_a:1 f_primal:1 f_pack:1 f_leader:1 f_of:1 f_boundless:1 f_power:1
+Human f_that:1 f_man:1 f_sacrificed:1 f_everything:1 f_to:1 f_give:1 f_you:1 f_back:1 f_your:1 f_humanity:1
+Human f_we:1 f_all:1 f_got:1 f_our:1 f_choices:1 f_to:1 f_make:1
+Human f_this:1 f_pack:1 f_of:1 f_quillgor:1 f_is:1 f_our:1 f_first:1 f_target:1
+Human f_my:1 f_name:1 f_is:1 f_arcturus:1 f_mengsk:1 f_and:1 f_i:1 f_represent:1 f_the:1 f_sons:1 f_of:1 f_korhal:1
+Human f_i:1 f_know:1
+Human f_awaiting:1 f_orders:1
+Human f_i:1 f_go:1 f_free:1
+Human f_how:1 f_many:1 f_more:1 f_have:1 f_to:1 f_die:1
+NotHuman f_i:1 f_had:1 f_expected:1 f_so:1 f_much:1 f_more:1
+NotHuman f_today:1 f_we:2 f_will:1 f_retake:1 f_what:1 f_have:1 f_lost:1 f_and:1 f_reclaim:1 f_our:1 f_homeworld:1
+NotHuman f_she:1 f_is:1 f_xelnaga:1
+Human f_so:1 f_to:1 f_what:1 f_do:1 f_i:1 f_owe:1 f_the:1 f_pleasure:1
+Human f_while:1 f_i:2 f_was:1 f_in:1 f_the:1 f_chrysalis:1 f_instinctively:1 f_reached:1 f_out:1 f_to:1 f_you:1 f_and:1 f_arcturus:1 f_telepathically:1
+NotHuman f_most:1 f_wise:1
+NotHuman f_the:1 f_chrysalis:1 f_is:1 f_under:1 f_attack:1
+NotHuman f_to:1 f_reach:1 f_it:1 f_we:1 f_must:1 f_cross:1 f_the:1 f_battle:1 f_between:1 f_brakk:1 f_and:1 f_yagdras:1 f_packs:1
+NotHuman f_i:1 f_hope:1 f_it:1 f_is:1 f_so:1
+Human f_what:1 f_happened:1 f_to:1 f_kerrigan:1 f_wasnt:1 f_your:1 f_fault:1
+Human f_i:1 f_lied:1
+Human f_kerrigan:1
+Human f_good:1 f_huntin:1
+NotHuman f_is:1 f_that:1 f_what:1 f_you:1 f_think:1
+Human f_doesnt:1 f_look:1 f_like:1 f_i:1 f_have:1 f_much:1 f_choice:1
+NotHuman f_all:1 f_shall:1
+Human f_ill:1 f_let:1 f_you:1 f_live:1 f_because:1 f_i:1 f_know:1 f_that:1 f_from:1 f_now:1 f_on:1 f_your:1 f_every:1 f_waking:1 f_moment:1 f_will:1 f_be:1 f_torture:1
+NotHuman f_my:1 f_queen:1
+Human f_were:1 f_gone:1
+Human f_admiral:1 f_dugalle:1 f_ive:1 f_heard:1 f_a:1 f_lot:1 f_about:1 f_you:1
+Human f_i:1 f_heard:1 f_they:1 f_put:1 f_you:1 f_on:1 f_ice:1
+Human f_you:1 f_shouldnt:1 f_have:1 f_come:1 f_here:1
+Human f_jim:2 f_wheres:1
+NotHuman f_they:2 f_know:1 f_now:1 f_that:1 f_cannot:1 f_deny:1 f_the:2 f_necessity:1 f_or:1 f_valiancy:1 f_of:1 f_your:1 f_actions:1
+NotHuman f_we:1 f_must:1 f_remain:1 f_focused:1 f_on:1 f_protecting:1 f_the:1 f_chrysalis:1
+Human f_they:1 f_show:1 f_no:1 f_signs:1 f_of:1 f_age:1
+Human f_just:1 f_get:1 f_us:1 f_the:1 f_hell:1 f_out:1 f_of:1 f_here:1
+NotHuman f_they:1 f_evolve:1
+NotHuman f_the:1 f_ground:1 f_betrays:1 f_you:1
+Human f_your:2 f_forces:1 f_are:1 f_prepared:1 f_and:1 f_awaiting:1 f_orders:1 f_commander:1
+Human f_i:1 f_will:1 f_not:1 f_be:1 f_a:1 f_pawn:1 f_in:1 f_your:1 f_prophecies:1
+Human f_the:1 f_fleet:1 f_is:1 f_prepped:1 f_and:1 f_ready:1 f_commander:1
+Human f_he:1 f_aint:1 f_alone:1 f_arcturus:1
+NotHuman f_you:1 f_must:1 f_free:1 f_me:1 f_from:1 f_his:1 f_grasp:1
+NotHuman f_speak:1 f_your:1 f_piece:1 f_alarak:1
+Human f_why:1 f_are:1 f_you:1 f_telling:1 f_us:1 f_this:1 f_kerrigan:1
+Human f_ive:1 f_been:1 f_cleaning:1 f_up:1 f_after:1 f_you:1 f_a:1 f_lot:1 f_lately:1
+Human f_my:1 f_need:1 f_to:1 f_see:1 f_mengsk:1 f_dead:1 f_called:1 f_me:1 f_here:1
+Human f_i:1 f_felt:1 f_an:1 f_influence:1
+NotHuman f_they:3 f_fight:1 f_kill:1 f_evolve:1
+Human f_how:1 f_many:1 f_innocents:1 f_have:1 f_you:1 f_killed:1
+Human f_carry:1 f_out:1 f_your:1 f_orders:1 f_lieutenant:1
+NotHuman f_kraith:1 f_comes:1 f_for:1 f_you:1
+Human f_only:1 f_person:1 f_you:1 f_can:1 f_trust:1 f_is:1 f_yourself:1
+Human f_your:1 f_great:1 f_shining:1 f_dream:1 f_of:1 f_the:1 f_future:1 f_is:1 f_just:1 f_an:1 f_illusion:1
+NotHuman f_in:2 f_my:1 f_minds:1 f_eye:1 f_i:1 f_have:1 f_delivered:1 f_the:1 f_killing:1 f_blow:1 f_a:1 f_thousand:1 f_ways:1
+NotHuman f_our:1 f_queen:1 f_is:1 f_close:1 f_to:1 f_waking:1
+NotHuman f_you:1 f_choose:1 f_to:1 f_rule:1 f_differently:1 f_than:1 f_i:1 f_alarak:1
+NotHuman f_the:1 f_power:1 f_of:1 f_zerus:1 f_called:1 f_you:1 f_here:1
+NotHuman f_zeratul:1 f_looks:1 f_away:1 f_grimly:1 f_executor:1 f_commence:1 f_the:1 f_invasion:1
+Human f_hello:1 f_duran:1
+Human f_his:1 f_hatred:1 f_festers:1 f_in:1 f_the:1 f_void:1 f_and:1 f_he:1 f_already:1 f_plans:1 f_to:1 f_return:1
+Human f_i:1 f_look:1 f_like:1 f_the:2 f_leader:1 f_of:1 f_swarm:1 f_now:1
+NotHuman f_until:1 f_they:1 f_are:1 f_killed:1 f_by:1 f_another:1 f_primal:1
+NotHuman f_i:1 f_am:1 f_templar:1
+Human f_prep:1 f_all:1 f_stations:1 f_for:1 f_jump:1
+NotHuman f_swarm:1 f_efficient:1 f_careful:1 f_improvements:1
+Human f_if:1 f_you:1 f_decide:1 f_to:1 f_accept:1 f_our:1 f_help:1 f_youll:1 f_be:1 f_branded:1 f_as:1 f_an:1 f_outlaw:1 f_too:1
+Human f_you:1 f_know:1 f_matt:1 f_someday:1 f_youre:1 f_gonna:1 f_wind:1 f_up:1 f_leading:1 f_this:1 f_bunch:1 f_of:1 f_misfits:1
+NotHuman f_hear:1 f_me:1 f_broken:1 f_zerg:1
+Human f_nothing:1 f_stands:1 f_in:1 f_the:2 f_way:1 f_of:1 f_swarm:1
+NotHuman f_we:1 f_seek:1 f_now:1 f_to:1 f_destroy:1 f_a:1 f_foe:1 f_that:1 f_has:1 f_ravaged:1 f_its:2 f_way:1 f_across:1 f_the:1 f_universe:1 f_consuming:1 f_all:1 f_in:1 f_path:1
+NotHuman f_is:1 f_that:1 f_how:1 f_you:1 f_justify:1 f_this:1
+NotHuman f_and:1 f_i:1 f_say:1 f_to:2 f_thee:1 f_this:1 f_shall:1 f_not:1 f_come:1 f_pass:1
+Human f_sarahs:1 f_right:1
+NotHuman f_youve:1 f_already:1 f_lost:1 f_voice:1 f_shifts:1 f_back:1 f_to:1 f_narud:1 f_amon:1 f_lives:1
+NotHuman f_if:1 f_your:1 f_rage:1 f_makes:1 f_you:1 f_strong:1 f_enough:1 f_the:1 f_power:1 f_of:1 f_zerus:1 f_will:1 f_be:1 f_yours:1
+NotHuman f_submit:1
+NotHuman f_we:2 f_claim:1 f_essence:1 f_devour:1
+Human f_duran:1
+NotHuman f_kerrigan:1 f_ignites:1 f_his:1 f_psi:1 f_blade:1 f_as:1 f_well:1
+Human f_what:1 f_is:1 f_a:1 f_primal:1 f_zerg:1 f_doing:1 f_on:1 f_my:1 f_leviathan:1
+NotHuman f_my:1 f_will:1 f_is:1 f_not:1 f_so:1 f_easily:1 f_broken:1 f_amon:1
+Human f_i:1 f_love:1 f_you:1 f_jim:1
+Human f_jim:1 f_raynors:1 f_nothing:1 f_but:1 f_a:1 f_spineless:1 f_coward:1
+Human f_that:1 f_will:1 f_give:1 f_us:1 f_time:1 f_to:1 f_evacuate:1
+Human f_i:1 f_am:1 f_a:1 f_ghost:1 f_remember:1
+Human f_ive:1 f_saved:1 f_your:1 f_butt:1 f_plenty:1 f_of:1 f_times:1
+Human f_you:1 f_about:1 f_ready:1 f_to:1 f_get:1 f_out:1 f_of:1 f_here:1 f_cowboy:1
+Human f_i:1 f_dont:1 f_need:1 f_to:1 f_be:1 f_rescued:1
+NotHuman f_the:1 f_merging:1 f_of:3 f_purity:2 f_essence:1 f_and:1 f_form:1 f_must:1 f_continue:1
+Human f_the:1 f_emperor:1 f_held:1 f_a:1 f_news:1 f_conference:1 f_earlier:1 f_today:1
+Human f_dominion:1 f_fleet:1 f_this:1 f_is:1 f_hyperion:1
+NotHuman f_if:1 f_our:1 f_origins:1 f_are:1 f_on:1 f_this:1 f_world:1 f_we:1 f_have:1 f_clearly:1 f_evolved:1 f_a:1 f_great:1 f_deal:1
+Human f_perhaps:1 f_this:1 f_will:1 f_help:1 f_bring:1 f_more:1 f_broodmothers:1 f_back:1 f_into:1 f_the:1 f_fold:1
+NotHuman f_heal:1 f_nearby:1 f_zerg:1 f_and:1 f_self:1
+NotHuman f_karax:1 f_these:1 f_tests:1 f_are:1 f_no:1 f_longer:1 f_needed:1
+NotHuman f_fenix:1 f_welcome:1 f_aboard:1 f_the:1 f_spear:1 f_of:1 f_adun:1
+NotHuman f_a:1 f_force:1 f_of:1 f_primal:1 f_zerg:1 f_fliers:1 f_is:1 f_preparing:1 f_to:1 f_assault:1 f_the:1 f_hive:1 f_cluster:1
+Human f_or:1 f_die:1 f_trying:1 f_if:1 f_thats:1 f_what:1 f_it:1 f_takes:1
+NotHuman f_you:2 f_represent:1 f_what:1 f_is:1 f_greatest:1 f_in:1 f_us:1 f_all:2 f_and:1 f_our:1 f_hopes:1 f_go:1 f_with:1
+NotHuman f_the:1 f_swarm:1 f_brought:1 f_ruin:1 f_to:1 f_our:1 f_world:1
+NotHuman f_the:2 f_taldarim:1 f_death:1 f_fleet:1 f_amasses:1 f_at:1 f_slayn:1 f_awaiting:1 f_start:1 f_of:1 f_a:1 f_full:1 f_scale:1 f_invasion:1
+Human f_youre:1 f_not:1 f_even:1 f_human:1 f_anymore:1
+NotHuman f_sever:1 f_your:1 f_nerve:1 f_cords:1
+Human f_you:1 f_have:1 f_your:1 f_orders:1 f_mr:1 f_findlay:1
+Human f_i:2 f_feel:1 f_as:1 f_can:1 f_rip:1 f_worlds:1 f_apart:1
+NotHuman f_you:1 f_will:1 f_regret:1 f_this:1 f_decision:1 f_kerrigan:1
+NotHuman f_i:1 f_have:1 f_pierced:1 f_the:2 f_veil:1 f_of:1 f_future:1 f_and:1 f_beheld:1 f_only:1 f_oblivion:1
+NotHuman f_she:1 f_will:1 f_not:1 f_wake:1
+NotHuman f_they:1 f_are:1 f_blinded:1
+NotHuman f_they:1 f_gather:1 f_even:1 f_now:1 f_preparing:1 f_to:1 f_destroy:1 f_us:1
+NotHuman f_collect:1 f_their:1 f_essence:1
+NotHuman f_it:1 f_seems:1 f_to:1 f_be:1 f_wild:1
+Human f_it:1 f_is:1 f_time:1 f_for:1 f_us:1 f_as:2 f_nations:1 f_and:2 f_individuals:1 f_to:1 f_set:1 f_aside:1 f_our:1 f_longstanding:1 f_feuds:1 f_unite:1
+NotHuman f_i:1 f_called:1 f_to:1 f_you:1 f_in:1 f_dire:1 f_need:1
+NotHuman f_you:1 f_will:1 f_lead:1 f_our:1 f_people:1 f_to:1 f_their:1 f_doom:1
+NotHuman f_yagdras:1 f_forces:1 f_are:1 f_gathering:1
+Human f_if:1 f_i:1 f_am:1 f_to:1 f_be:1 f_that:1 f_leader:1 f_ill:1 f_ask:1 f_only:1 f_one:1 f_thing:1 f_of:1 f_you:1
+NotHuman f_unsuccessful:1
+Human f_theyll:1 f_be:1 f_on:1 f_our:1 f_side:1 f_before:1 f_i:1 f_am:1 f_done:1 f_here:1
+Human f_same:1 f_dream:1
+NotHuman f_executor:1 f_i:1 f_stand:1 f_ready:1
+NotHuman f_this:1 f_creature:1 f_is:1 f_the:1 f_completion:1 f_of:1 f_a:1 f_cycle:1
+Human f_when:1 f_the:1 f_xelnaga:1 f_artifact:1 f_made:1 f_me:2 f_human:1 f_again:1 f_it:1 f_cleansed:1 f_of:1 f_amons:1 f_influence:1
+Human f_what:1 f_my:1 f_enemies:1 f_fear:1 f_most:1
+NotHuman f_but:1 f_we:1 f_shall:1 f_not:1 f_break:1
+Human f_with:1 f_all:2 f_its:2 f_glory:1 f_and:1 f_horror:1
+Human f_i:1 f_could:1 f_always:1 f_hear:1 f_the:1 f_swarm:1 f_control:1 f_it:1
+NotHuman f_one:2 f_dies:1 f_and:1 f_grows:1 f_strong:1
+NotHuman f_my:1 f_queen:1 f_i:1 f_have:1 f_been:1 f_contacted:1 f_by:1 f_kilysa:1 f_a:1 f_broodmother:1
+Human f_is:1 f_that:1 f_fear:1 f_yagdra:1
+NotHuman f_what:1 f_is:1 f_the:1 f_true:1 f_reason:1 f_youve:1 f_come:1 f_to:1 f_me:1
+NotHuman f_this:1 f_comes:1 f_too:1 f_late:1 f_to:1 f_you:1 f_but:1 f_the:2 f_conclave:1 f_has:1 f_witnessed:1 f_your:1 f_defeat:1 f_of:1 f_cerebrate:1
+NotHuman f_selendis:1
+NotHuman f_new:1 f_structure:1 f_beyond:1 f_understanding:1
+NotHuman f_the:1 f_end:1 f_war:1 f_has:1 f_come:1
+Human f_why:1 f_have:1 f_you:1 f_summoned:1 f_us:1 f_here:1
+NotHuman f_ready:1 f_for:1 f_your:1 f_armies:1
+Human f_all:1 f_in:1 f_a:1 f_days:1 f_work:1 f_general:1
+Human f_husbands:1 f_fathers:1
+Human f_did:1 f_you:2 f_really:1 f_think:1 f_that:1 f_i:1 f_would:1 f_allow:1 f_to:1 f_come:1 f_into:1 f_power:1 f_again:1
+Human f_should:1 f_i:1 f_send:1 f_a:1 f_team:1 f_to:1 f_get:1 f_you:1
+Human f_as:1 f_individuals:1 f_they:1 f_constantly:1 f_evolve:1 f_to:1 f_be:1 f_more:1 f_efficient:1 f_killers:1
+NotHuman f_a:1 f_thousand:1 f_cuts:1 f_shred:1 f_the:1 f_flesh:1
+Human f_do:1 f_that:1 f_and:1 f_you:1 f_will:1 f_earn:1 f_your:1 f_place:1 f_within:1 f_the:1 f_swarm:1
+NotHuman f_transcend:1
+NotHuman f_yes:1
+NotHuman f_it:1 f_begins:1 f_with:1 f_a:1 f_great:1 f_hunger:1
+Human f_ive:1 f_been:1 f_thinking:1 f_about:1 f_what:1 f_you:1 f_said:1
+Human f_no:1 f_jim:1
+Human f_the:2 f_ancient:1 f_one:1 f_is:1 f_key:1 f_to:1 f_unlocking:1 f_power:1 f_of:1 f_zerus:1 f_and:1 f_i:1 f_need:1 f_that:1 f_knowledge:1
+NotHuman f_strong:1 f_sequences:1
+Human f_you:1 f_bitch:1
+Human f_than:1 f_how:1 f_would:1 f_you:1 f_characterize:1 f_this:1 f_statement:1
+NotHuman f_and:1 f_though:1 f_justice:1 f_demands:1 f_that:1 f_she:2 f_die:1 f_for:1 f_her:1 f_crimes:1 f_only:1 f_can:1 f_save:1 f_us:1
+Human f_youll:1 f_carry:1 f_your:1 f_prison:1 f_with:1 f_you:1
+NotHuman f_amon:1 f_betrayed:1 f_us:1 f_and:1 f_for:1 f_that:1 f_he:1 f_must:1 f_die:1
+Human f_all:1 f_hands:1 f_brace:1 f_for:1 f_warp:1 f_jump:1 f_on:1 f_my:1 f_mark:1
+NotHuman f_defend:1 f_the:1 f_chrysalis:1
+NotHuman f_they:1 f_will:1 f_break:1 f_your:1 f_enemies:1
+Human f_protoss:1
+NotHuman f_matriarch:1 f_there:1 f_is:1 f_a:1 f_massive:1 f_output:1 f_of:1 f_void:1 f_energies:1 f_spiking:1 f_from:1 f_the:1 f_temple:1 f_below:1
+Human f_its:1 f_laying:1 f_eggs:1
+NotHuman f_what:1 f_they:1 f_believe:1 f_is:1 f_of:1 f_little:1 f_consequence:1
+NotHuman f_trusting:1 f_this:1 f_deceiver:1 f_is:1 f_not:1 f_an:1 f_act:1 f_i:1 f_am:1 f_accustomed:1 f_to:1 f_commander:1
+NotHuman f_primal:1 f_zerg:1 f_forces:1 f_are:1 f_massing:1 f_nearby:1
+NotHuman f_will:1 f_research:1 f_primal:1 f_essences:1 f_further:1
+Human f_there:1 f_may:1 f_be:1 f_more:1 f_on:1 f_my:1 f_hands:1 f_than:1 f_yours:1 f_but:1 f_in:1 f_the:1 f_end:1 f_we:1 f_are:1 f_both:1 f_killers:1
+NotHuman f_how:2 f_can:1 f_this:1 f_be:1
+Human f_i:1 f_will:1 f_rule:1 f_this:1 f_sector:1 f_or:1 f_see:1 f_it:1 f_burn:1 f_to:1 f_ashes:1 f_around:1 f_me:1
+Human f_if:1 f_hell:1 f_ever:1 f_existed:1 f_this:1 f_is:1 f_it:1
+NotHuman f_your:1 f_essence:1
+Human f_were:1 f_going:1 f_to:1 f_make:1 f_it:1
+NotHuman f_they:1 f_are:1 f_converging:1 f_upon:1 f_the:1 f_hive:1 f_cluster:1
+NotHuman f_the:1 f_primal:1 f_zerg:1 f_are:1 f_disturbed:1 f_by:1 f_our:1 f_presence:1
+NotHuman f_functions:1 f_similar:1 f_to:1 f_hive:1 f_spawns:1 f_primals:1
+NotHuman f_what:1
+NotHuman f_zeratul:1 f_foresaw:1 f_this:1 f_day:1 f_would:1 f_come:1
+NotHuman f_both:1 f_packs:1 f_are:1 f_moving:1 f_against:1 f_us:1
+NotHuman f_thats:1 f_ironic:1
+NotHuman f_study:1 f_it:1 f_well:1
+Human f_valerian:1
+Human f_i:1 f_had:1 f_to:1 f_get:1 f_you:1 f_out:1
+Human f_the:2 f_primal:1 f_zerg:1 f_say:1 f_swarm:1 f_is:1 f_corrupted:1
+NotHuman f_they:1 f_fight:1 f_yagdras:1 f_brood:1
+Human f_just:1 f_like:1 f_its:1 f_always:1 f_been:1
+Human f_but:1 f_you:2 f_dont:1 f_fear:1 f_me:1 f_do:1 f_dehaka:1
+Human f_aint:1 f_no:1 f_time:1 f_to:1 f_be:1 f_lyin:1 f_down:1 f_on:1 f_the:1 f_job:1 f_general:1
+NotHuman f_the:1 f_khala:1 f_awaits:1 f_me:2 f_kerrigan:1 f_and:1 f_though:1 f_i:1 f_am:1 f_prepared:1 f_to:1 f_face:1 f_my:1 f_destiny:1 f_you:1 f_will:1 f_not:1 f_find:1 f_easy:1 f_prey:1
+NotHuman f_leader:1 f_of:1 f_the:1 f_broken:1 f_pack:1
+Human f_im:1 f_sensing:1 f_something:1 f_primal:1 f_nearby:1 f_but:1 f_its:1 f_small:1
+Human f_sustained:1 f_heavy:1 f_losses:1
+NotHuman f_your:1 f_nerve:1 f_cords:1 f_chain:1 f_you:1 f_to:1 f_his:1 f_will:1 f_they:1 f_must:1 f_be:1 f_removed:1
+NotHuman f_the:1 f_primal:1 f_zerg:1 f_factions:1 f_have:1 f_engaged:1 f_each:1 f_other:1
+NotHuman f_this:1 f_body:1 f_all:1 f_protoss:1 f_are:1 f_mine:1
+Human f_you:1 f_boys:1 f_gotta:1 f_wake:1 f_up:1
+NotHuman f_ready:1 f_our:1 f_defenses:1
+NotHuman f_i:2 f_am:1 f_a:1 f_river:1 f_will:1 f_flow:1
+NotHuman f_whatever:1 f_my:1 f_queen:1 f_has:2 f_lost:1 f_think:1 f_what:1 f_she:1 f_gained:1
+Human f_your:1 f_god:1 f_is:1 f_dead:1 f_and:1 f_hes:1 f_never:1 f_coming:1 f_back:1
+Human f_for:2 f_fenix:1 f_and:2 f_all:1 f_the:1 f_others:1 f_who:1 f_got:1 f_caught:1 f_between:1 f_you:1 f_your:1 f_mad:1 f_quest:1 f_power:1
+NotHuman f_we:1 f_are:2 f_only:1 f_colonists:1 f_and:1 f_you:1 f_killing:1 f_us:1
+Human f_kill:1 f_them:1 f_alli:1 f_must:1 f_have:1 f_more:1
+NotHuman f_now:1 f_you:1 f_are:2 f_everything:1 f_that:1 f_we:1 f_not:1
+NotHuman f_it:1 f_appears:1 f_we:1 f_have:1 f_much:1 f_to:1 f_discuss:1
+NotHuman f_honored:1 f_one:1 f_to:2 f_see:1 f_you:1 f_brings:1 f_such:1 f_joy:1 f_my:1
+NotHuman f_it:1 f_is:2 f_zerg:1 f_but:1 f_not:1 f_part:1 f_of:1 f_the:1 f_swarm:1
+Human f_thanks:1 f_for:1 f_the:2 f_rescue:1 f_but:1 f_i:1 f_hope:1 f_it:1 f_aint:1 f_just:1 f_two:1 f_of:1 f_you:1
+Human f_did:1 f_you:2 f_think:1 f_id:1 f_keep:1 f_an:1 f_animal:1 f_like:1 f_close:1 f_to:1 f_me:1 f_without:1 f_some:1 f_kind:1 f_of:1 f_insurance:1 f_policy:1
+NotHuman f_you:1 f_shine:1
+Human f_you:2 f_jackals:1 f_think:1 f_can:1 f_come:1 f_in:1 f_here:1 f_and:1 f_question:1 f_me:1
+NotHuman f_restructured:1 f_from:1 f_base:1 f_level:1 f_up:1
+NotHuman f_in:1 f_our:1 f_pride:1 f_and:2 f_division:1 f_we:1 f_failed:1 f_that:1 f_sacred:1 f_charge:1 f_fell:1 f_into:1 f_ruin:1
+NotHuman f_we:1 f_have:1 f_recovered:1 f_half:1 f_of:1 f_the:2 f_biomass:1 f_needed:1 f_to:1 f_awaken:1 f_ancient:1
+NotHuman f_enough:1
+Human f_we:1 f_cant:1 f_kick:1 f_this:2 f_can:1 f_down:1 f_the:1 f_road:1 f_burden:1 f_is:1 f_ours:1 f_like:1 f_it:1 f_or:1 f_not:1
+NotHuman f_for:1 f_today:1 f_we:1 f_will:1 f_restore:1 f_the:1 f_glory:1 f_of:1 f_our:1 f_legacy:1
+NotHuman f_i:1 f_made:1 f_my:1 f_peace:1 f_long:1 f_ago:1
+NotHuman f_battle:1 f_is:1 f_waged:1 f_in:1 f_the:4 f_name:1 f_of:2 f_many:1 f_brave:1 f_who:1 f_generation:2 f_after:1 f_choose:1 f_mantle:1
+Human f_carry:1 f_them:1 f_out:1
+NotHuman f_i:1 f_feel:1 f_his:1 f_concern:1 f_artanis:1 f_he:1 f_knows:1 f_that:1 f_im:1 f_coming:1 f_for:1 f_him:1
+NotHuman f_primal:1 f_essence:1 f_gathering:1 f_within:1 f_the:1 f_pool:1
+Human f_theres:1 f_too:1 f_many:1 f_zerg:1
+NotHuman f_did:1 f_you:1 f_know:1 f_this:1 f_warrior:1
+Human f_youre:1 f_making:1 f_a:1 f_terrible:1 f_mistake:1
+NotHuman f_i:1 f_will:1 f_shatter:1 f_this:1 f_corrupt:1 f_cycle:1
+Human f_i:1 f_had:1 f_to:1 f_see:1 f_it:1 f_for:1 f_myself:1
+Human f_damn:1 f_shame:1
+NotHuman f_is:1 f_your:1 f_hate:1 f_still:1 f_strong:1 f_enough:1 f_to:1 f_make:1 f_the:1 f_necessary:1 f_sacrifice:1
+Human f_prisoner:1 f_step:1 f_forward:1 f_onto:1 f_the:1 f_platform:1
+Human f_tell:1 f_me:1 f_what:1 f_i:1 f_must:1 f_do:1
+Human f_i:1 f_dont:1 f_know:1 f_what:1 f_gutter:1 f_my:1 f_son:1 f_fished:1 f_you:2 f_out:1 f_of:1 f_but:1 f_even:1 f_youve:1 f_got:1 f_to:1 f_realize:1 f_that:1 f_treacherous:1 f_bitch:1 f_cannot:1 f_be:1 f_saved:1 f_and:1 f_neither:1 f_can:1
+NotHuman f_delighted:1 f_oh:1 f_yes:1 f_i:2 f_feel:1 f_his:1 f_rage:1 f_washing:1 f_over:1 f_me:1 f_he:2 f_knows:2 f_no:2 f_longer:1 f_fear:1 f_him:2 f_that:1 f_the:1 f_taldarim:1 f_have:1 f_khala:1 f_for:1 f_to:1 f_control:1
+Human f_arcturusll:1 f_come:1 f_around:1
+Human f_that:1 f_is:1 f_correct:1 f_general:1
+NotHuman f_en:1 f_taro:1 f_adun:1 f_brave:1 f_sons:1 f_of:1 f_aiur:1
+NotHuman f_for:1 f_i:1 f_have:1 f_seeded:1 f_the:1 f_hybrid:1 f_on:1 f_many:2 f_worlds:1
+Human f_wow:1
+Human f_you:2 f_want:1 f_me:1 f_to:1 f_awaken:1 f_it:1 f_dont:1
+NotHuman f_aiur:1 f_shall:1 f_not:1 f_fall:1
+NotHuman f_i:1 f_serve:1 f_a:1 f_higher:1 f_purpose:1 f_now:1
+Human f_zeratul:1
+Human f_our:1 f_revolutions:1 f_about:1 f_freedom:1
+Human f_the:2 f_zerg:1 f_you:1 f_have:1 f_killed:1 f_here:1 f_and:1 f_overmind:1 f_which:1 f_youve:1 f_come:1 f_to:1 f_collect:1 f_are:1 f_mine:1
+NotHuman f_nowhere:1 f_to:1 f_run:1
+Human f_bout:1 f_time:1 f_we:1 f_kicked:1 f_this:1 f_revolution:1 f_into:1 f_overdrive:1
+NotHuman f_show:1 f_these:1 f_primals:1 f_the:2 f_fury:1 f_of:1 f_swarm:1
+Human f_good:1 f_day:1 f_magistrate:1
+NotHuman f_not:1 f_only:1 f_have:3 f_you:3 f_damned:2 f_yourself:1 f_but:1 f_those:1 f_who:1 f_followed:1
+NotHuman f_for:1 f_he:1 f_truly:1 f_can:1 f_rip:1 f_worlds:1 f_apart:1
+Human f_life:1 f_sentence:1
+NotHuman f_extreme:1 f_physical:1 f_prowess:1
+NotHuman f_we:1 f_shall:1 f_meet:1 f_again:1
+Human f_that:1 f_was:1 f_our:1 f_real:1 f_victory:1 f_today:1
+NotHuman f_this:1 f_lab:1 f_must:1 f_be:1 f_destroyed:1
+Human f_i:1 f_guess:1 f_your:1 f_day:1 f_is:1 f_almost:1 f_here:1
+NotHuman f_amon:1 f_whispered:1 f_of:1 f_this:1 f_from:1 f_the:1 f_stars:1
+NotHuman f_let:1 f_not:1 f_a:1 f_terran:1 f_survive:1
+Human f_well:1 f_of:1 f_course:1
+NotHuman f_no:1 f_allegiance:1 f_but:1 f_to:1 f_self:1
+Human f_im:1 f_here:1 f_to:2 f_talk:1 f_you:1 f_valerian:1
+NotHuman f_i:1 f_sense:1 f_a:1 f_massive:1 f_primal:1 f_zerg:1 f_emerging:1
+NotHuman f_will:1 f_destroy:1 f_primal:1 f_guardians:1
+Human f_its:1 f_okay:1
+Human f_do:1 f_you:1 f_still:1 f_believe:1 f_in:1 f_me:1
+NotHuman f_they:1 f_are:1 f_coming:1 f_for:1 f_you:1
+NotHuman f_arise:1 f_my:1 f_daughter:1
+NotHuman f_this:1 f_is:1 f_the:1 f_only:1 f_way:1
+NotHuman f_spawn:1 f_the:1 f_locusts:1 f_now:1
+Human f_where:2 f_she:2 f_got:1 f_left:1 f_behind:1 f_or:1 f_murdered:1 f_eight:1 f_billion:1 f_people:1
+Human f_i:1 f_think:1 f_shes:1 f_the:1 f_only:1 f_one:1 f_that:1 f_can:1 f_save:1 f_it:1
+NotHuman f_essence:1 f_collects:1 f_quickly:1
+NotHuman f_you:1 f_waste:1 f_time:1
+Human f_zagara:1 f_defend:1 f_the:2 f_hive:1 f_cluster:1 f_and:1 f_chrysalis:1 f_until:1 f_i:1 f_am:1 f_done:1 f_or:1 f_dead:1
+NotHuman f_here:2 f_the:2 f_zerg:1 f_evolved:1 f_and:1 f_dark:1 f_one:1 f_altered:1 f_them:1
+Human f_i:2 f_used:1 f_you:3 f_to:1 f_get:1 f_the:1 f_job:1 f_done:1 f_and:1 f_played:1 f_along:1 f_just:1 f_like:1 f_knew:1 f_would:1
+NotHuman f_and:1 f_that:1 f_burden:1 f_weighs:1 f_heavily:1 f_upon:1 f_me:1 f_artanis:1 f_i:1 f_have:1 f_found:1 f_a:1 f_way:1 f_to:1 f_stand:1 f_against:1 f_the:1 f_coming:1 f_darkness:1
+NotHuman f_maintain:1 f_out:1 f_defense:1
+Human f_she:1 f_aint:1 f_gonna:1 f_stand:1 f_us:1 f_up:1 f_selendis:1
+NotHuman f_you:2 f_believe:1 f_me:1 f_to:2 f_be:1 f_a:1 f_traitor:1 f_but:1 f_it:1 f_is:1 f_and:1 f_the:1 f_matriarch:1 f_who:1 f_will:1 f_usher:1 f_our:1 f_race:1 f_oblivion:1
+Human f_valerian:1 f_is:1 f_helping:1 f_us:1
+NotHuman f_i:1 f_take:1 f_essence:1
+NotHuman f_one:1 f_will:1 f_be:1 f_consumed:1 f_and:1 f_become:1 f_something:1 f_greater:1 f_than:1 f_either:1
+NotHuman f_these:1 f_primal:1 f_packs:1 f_are:1 f_constantly:1 f_been:1 f_reinforced:1 f_we:1 f_should:1 f_try:1 f_to:1 f_get:1 f_around:1 f_them:1
+Human f_you:2 f_mean:1 f_like:1 f_sacrificed:1 f_kerrigan:1
+NotHuman f_without:1 f_form:1 f_we:1 f_the:2 f_xelnaga:1 f_return:1 f_to:1 f_void:1
+Human f_id:1 f_like:1 f_to:2 f_help:1 f_you:1 f_out:1 f_by:1 f_sending:1 f_down:1 f_a:1 f_number:1 f_of:1 f_transports:1 f_your:1 f_colony:1 f_and:1 f_evacuating:1 f_any:1 f_survivors:1
+NotHuman f_we:2 f_both:2 f_desire:1 f_vengeance:1 f_and:1 f_are:1 f_protoss:1
+NotHuman f_grow:2 f_children:1
+Human f_that:1 f_pretty:1 f_little:1 f_girlfriend:1 f_of:1 f_yours:1
+NotHuman f_you:1 f_are:1 f_right:1 f_of:1 f_course:1
+NotHuman f_well:1 f_done:1 f_cerebrate:1
+NotHuman f_sequences:1 f_complex:1 f_but:1 f_clean:1
+NotHuman f_taldarim:1
+Human f_if:1 f_you:2 f_hurry:1 f_can:1 f_catch:1 f_up:1 f_with:1 f_her:1
+NotHuman f_they:1 f_were:1 f_the:1 f_first:1 f_creation:1 f_gifted:1 f_with:1 f_a:1 f_purity:1 f_of:1 f_form:1
+NotHuman f_do:1 f_not:1 f_let:1 f_amon:1 f_consume:1 f_you:1
+Human f_you:1 f_can:1 f_never:1 f_suffer:1 f_enough:1 f_for:1 f_all:1 f_the:1 f_lives:1 f_youve:1 f_ruined:1 f_arcturus:1
+NotHuman f_trust:1 f_each:1 f_other:1 f_in:1 f_the:1 f_fight:1 f_ahead:1
+Human f_general:1
+NotHuman f_primal:1 f_forces:1 f_are:1 f_attacking:1 f_quillgor:1 f_biomass:1
+NotHuman f_primal:1 f_zerg:1 f_forces:1 f_incoming:1
+NotHuman f_houses:1 f_genetic:1 f_information:1
+Human f_you:1 f_know:1 f_of:2 f_course:1 f_that:1 f_my:1 f_organization:1 f_operates:1 f_outside:1 f_the:1 f_bounds:1 f_confederate:1 f_law:1
+NotHuman f_you:1 f_will:1 f_take:1 f_us:1 f_to:1 f_artanis:1
+NotHuman f_our:1 f_focus:1 f_is:1 f_protecting:1 f_the:1 f_chrysalis:1
+Human f_you:1 f_aint:1 f_takin:1 f_edmund:1 f_duke:1 f_without:1 f_a:1 f_fight:1
+NotHuman f_malash:1 f_promised:1 f_you:1 f_lies:1 f_there:1 f_is:1 f_no:1 f_ascension:1
+Human f_i:1 f_knew:1 f_youd:1 f_return:1 f_to:1 f_your:1 f_true:1 f_form:1
+NotHuman f_they:1 f_are:1 f_preparing:1 f_to:1 f_attack:1 f_the:1 f_hive:1 f_cluster:1
+Human f_its:1 f_like:1 f_youre:1 f_gone:1 f_already:1
+Human f_you:1 f_know:1 f_i:1 f_dont:1 f_believe:1 f_in:1 f_your:1 f_mad:1 f_prophecies:1
+NotHuman f_as:1 f_is:1 f_your:1 f_inability:1 f_to:1 f_comprehend:1 f_the:1 f_greater:1 f_scheme:1 f_of:1 f_things:1
+Human f_well:1 f_ive:1 f_forged:1 f_alliances:1 f_on:1 f_shakier:1 f_ground:1 f_than:1 f_that:1
+Human f_i:1 f_need:1 f_to:1 f_know:1 f_where:1 f_you:1 f_stand:1
+Human f_end:1 f_this:1 f_thing:1 f_once:1 f_and:1 f_for:1 f_all:1
+NotHuman f_i:1 f_seek:1 f_essence:1
+Human f_no:1
+Human f_that:1 f_right:1
+Human f_oh:1 f_come:1 f_on:1 f_arcturus:1
+NotHuman f_this:1 f_ends:1 f_now:1 f_corrupt:1 f_zerg:1
+NotHuman f_travel:1 f_to:1 f_the:2 f_birthplace:1 f_of:1 f_zerg:1
+Human f_i:1 f_made:1 f_a:1 f_deal:1 f_with:1 f_the:1 f_devil:1 f_jimmy:1
+NotHuman f_i:1 f_will:1 f_bring:1 f_our:1 f_great:1 f_dream:1 f_of:1 f_a:1 f_unified:1 f_protoss:1 f_to:1 f_bear:1
+Human f_you:1 f_see:1 f_admiral:1 f_there:1 f_are:1 f_several:1 f_groups:1 f_in:1 f_this:1 f_sector:1 f_who:1 f_feel:1 f_your:1 f_presence:1 f_here:1 f_causes:1 f_certain:1 f_complications:1
+NotHuman f_a:1 f_primal:1 f_zerg:1 f_who:1 f_witnessed:1 f_the:2 f_creation:1 f_of:1 f_overmind:1
+NotHuman f_more:1 f_of:1 f_my:1 f_pack:1 f_joins:1 f_you:1
+NotHuman f_if:1 f_you:2 f_truly:1 f_seek:1 f_the:2 f_power:1 f_of:1 f_zerus:1 f_will:1 f_need:1 f_ancient:1 f_one:1
+NotHuman f_amons:1 f_fury:1 f_will:1 f_engulf:1 f_the:1 f_entire:1 f_galaxy:1
+NotHuman f_soon:1 f_shall:1 f_our:1 f_two:1 f_races:1 f_be:1 f_made:1 f_as:1 f_one:1
+NotHuman f_i:1 f_thirst:1
+NotHuman f_kill:1 f_them:1 f_all:1
+Human f_well:1 f_kill:1 f_mengsk:1 f_and:1 f_burn:1 f_his:1 f_dominion:1 f_to:1 f_the:1 f_ground:1
+Human f_as:2 f_soon:1 f_you:1 f_peons:1 f_figure:1 f_that:1 f_out:1
+Human f_if:1 f_she:1 f_says:1 f_its:1 f_important:1 f_youd:1 f_better:1 f_believe:1 f_it:1 f_is:1
+NotHuman f_at:2 f_long:1 f_last:1 f_we:1 f_stand:1 f_the:1 f_threshold:1 f_of:1 f_destiny:1
+NotHuman f_it:1 f_is:1 f_only:1 f_beginning:1
+Human f_you:1 f_son:1 f_of:2 f_a:1 f_bitch:1 f_whats:1 f_the:1 f_meaning:1 f_this:1
+Human f_face:1 f_me:1 f_narud:1
+NotHuman f_stronger:1 f_than:1 f_queen:1 f_of:1 f_blades:1
+Human f_do:1 f_you:1 f_even:1 f_know:1 f_what:1 f_the:1 f_dominion:1 f_are:1 f_doing:1 f_out:1 f_here:1
+NotHuman f_we:1 f_multiplied:1
+NotHuman f_the:2 f_dark:1 f_one:1 f_has:1 f_been:1 f_banished:1 f_back:1 f_into:1 f_void:1
+NotHuman f_this:1 f_relic:1
+NotHuman f_shrugs:1 f_i:1 f_am:1 f_the:1 f_liar:1
+NotHuman f_breaks:1 f_out:1 f_of:2 f_the:1 f_stasis:1 f_field:1 f_in:1 f_a:1 f_burst:1 f_psionic:1 f_energy:1 f_as:1 f_warriors:1 f_come:1 f_to:1 f_support:1 f_vorazun:1
+Human f_youre:1 f_right:1 f_kerrigan:1 f_they:1 f_will:1
+NotHuman f_let:1 f_them:1 f_kill:1 f_each:1 f_other:1
+Human f_amon:1 f_lives:1
+NotHuman f_the:1 f_hunt:1 f_goes:1 f_well:1 f_my:1 f_queen:1
+Human f_good:1 f_night:1 f_my:1 f_faithful:1 f_subjects:1
+Human f_tychus:1 f_what:1 f_have:1 f_you:1 f_done:1
+Human f_zagara:1 f_defend:1 f_the:1 f_leviathan:1
+NotHuman f_you:1 f_must:1 f_believe:1 f_me:1
+NotHuman f_stay:1 f_still:1
+NotHuman f_amon:1
+Human f_he:1 f_never:1 f_controlled:1 f_me:1
+Human f_once:1 f_the:3 f_drone:1 f_is:1 f_done:1 f_harvesting:1 f_it:1 f_will:1 f_drag:1 f_biomass:1 f_to:1 f_ancient:1
+Human f_you:1 f_think:1 f_hes:1 f_right:1
+Human f_you:1 f_have:1 f_your:1 f_tense:1 f_wrong:1
+Human f_i:1 f_am:1
+NotHuman f_it:1 f_existed:1 f_before:1 f_names:1
+NotHuman f_last:1 f_shepherd:1 f_of:1 f_the:1 f_cycle:1
+Human f_yes:1 f_just:1 f_like:1 f_that:1
+Human f_i:1 f_need:1 f_you:1 f_to:1 f_hear:1 f_me:1 f_right:1 f_now:1
+Human f_stand:1 f_down:1
+NotHuman f_there:1 f_is:1 f_no:1 f_escaping:1 f_fate:1
+Human f_i:1 f_wont:1 f_stand:1 f_for:1 f_this:1
+NotHuman f_kill:1
+NotHuman f_zerus:1 f_birthworld:1 f_of:1 f_the:1 f_zerg:1
+NotHuman f_within:1 f_one:1 f_essence:1 f_split:1 f_into:1 f_many:1
+NotHuman f_it:1 f_is:1 f_from:1
+NotHuman f_despite:1 f_this:1 f_we:1 f_may:1 f_not:1 f_only:1 f_end:1 f_the:1 f_violence:1 f_between:1 f_our:1 f_kind:1 f_but:1 f_forge:1 f_a:1 f_powerful:1 f_alliance:1
+NotHuman f_i:1 f_am:1 f_alarak:1 f_first:1 f_ascendant:1 f_of:1 f_the:1 f_taldarim:1
+Human f_i:1 f_know:1 f_you:1 f_have:1 f_personal:1 f_feelings:1 f_about:1 f_this:1
+Human f_for:1 f_i:1 f_am:1 f_the:1 f_queen:1 f_of:1 f_blades:1
+NotHuman f_what:1 f_would:1 f_you:1 f_sacrifice:1 f_to:1 f_have:1 f_your:1 f_revenge:1
+NotHuman f_my:1 f_friends:1 f_this:1 f_is:1 f_our:1 f_final:1 f_hour:1
+Human f_take:1 f_your:1 f_brood:1 f_there:1 f_and:1 f_destroy:1 f_it:1
+NotHuman f_ascend:1 f_as:1 f_xelnaga:1
+Human f_its:1 f_what:1 f_you:1 f_do:1 f_aint:1 f_it:1
+Human f_youre:1 f_the:1 f_last:1 f_man:1 f_i:1 f_expected:1 f_to:1 f_see:1
+NotHuman f_time:1 f_is:1 f_short:1 f_you:1 f_must:1 f_understand:1
+Human f_but:1 f_i:1 f_got:1 f_a:1 f_contact:1 f_that:1 f_will:1 f_pay:1 f_top:1 f_dollar:1 f_for:1 f_every:1 f_artifact:1 f_weliberate:1 f_from:1 f_the:1 f_dominion:1
+NotHuman f_the:2 f_great:1 f_templar:1 f_were:1 f_still:1 f_encoded:1 f_by:1 f_order:1 f_of:1 f_conclave:1
+NotHuman f_for:1 f_now:1 f_we:1 f_are:1 f_free:1
+NotHuman f_we:1 f_await:1 f_only:1 f_your:1 f_command:1 f_hierarch:1
+NotHuman f_all:1 f_that:2 f_remains:1 f_of:1 f_our:2 f_race:1 f_civilization:1 f_are:1 f_those:2 f_stand:1 f_beside:1 f_you:1 f_now:1 f_and:1 f_corrupted:1 f_on:1 f_the:1 f_surface:1 f_below:1
+NotHuman f_void:1 f_energy:1 f_lashes:1 f_out:1 f_from:1 f_the:2 f_keystone:1 f_which:1 f_now:1 f_glows:1 f_red:1 f_we:1 f_are:1 f_one:1 f_in:1 f_khala:1
+NotHuman f_you:2 f_must:1 f_let:1 f_zerus:1 f_remake:1 f_kerrigan:1
+Human f_what:1 f_i:1 f_had:1 f_to:1
+Human f_here:1 f_they:1 f_come:1
+Human f_do:1 f_the:1 f_remaining:1 f_pack:1 f_leaders:1 f_will:1 f_join:1 f_me:1 f_now:1
+NotHuman f_this:1 f_is:1 f_the:2 f_heritage:1 f_of:1 f_zerg:1
+Human f_amons:1 f_strength:1 f_grows:1 f_by:1 f_the:1 f_moment:1
+Human f_raynors:1 f_sold:1 f_us:1 f_out:1
+Human f_so:1 f_whats:1 f_goin:1 f_on:1 f_sarah:1
+NotHuman f_steps:1 f_through:1 f_the:1 f_ring:1 f_of:1 f_zealots:1 f_we:1 f_will:1 f_hear:1 f_him:1 f_out:1
+NotHuman f_he:1 f_forged:1 f_the:1 f_zerg:1 f_into:1 f_a:1 f_weapon:1 f_and:1 f_took:1 f_them:1 f_away:1
+Human f_so:1 f_this:1 f_is:1 f_the:1 f_ancient:1 f_one:1
+NotHuman f_if:1 f_the:1 f_queen:1 f_of:1 f_blades:1 f_truly:1 f_wishes:1 f_to:1 f_speak:1 f_she:1 f_would:1 f_be:1 f_here:1 f_now:1
+Human f_i:1 f_know:1 f_he:1 f_will:1
+NotHuman f_that:1 f_means:1 f_they:1 f_are:1 f_the:1 f_enemy:1
+NotHuman f_you:1 f_have:1 f_been:1 f_reborn:1
+NotHuman f_he:1 f_was:1 f_zerg:1
+NotHuman f_based:1 f_on:1 f_hydralisk:1
+Human f_there:1 f_is:1 f_no:1 f_moral:1 f_high:1 f_ground:1 f_here:1
+Human f_panic:1
+NotHuman f_my:1 f_life:1 f_ignites:1 f_his:1 f_warp:1 f_blade:1 f_for:1 f_aiur:1
+NotHuman f_your:1 f_change:1 f_means:1 f_nothing:1
+Human f_its:1 f_time:1 f_to:2 f_the:2 f_swarm:1 f_returned:1 f_koprulu:1 f_sector:1
+NotHuman f_a:1 f_soft:1 f_world:1
+Human f_dont:1 f_be:1 f_so:1 f_sure:1
+NotHuman f_annihilation:1 f_recommended:1
+NotHuman f_the:3 f_prophecies:1 f_zeratul:1 f_followed:1 f_result:1 f_of:2 f_my:1 f_psionic:1 f_extension:1 f_into:1 f_minds:1 f_primitive:1 f_beings:1
+Human f_im:1 f_going:1 f_to:1 f_find:1 f_jim:1
+Human f_which:1 f_part:1
+Human f_you:1 f_are:1 f_your:1 f_own:1 f_worst:1 f_enemies:1
+NotHuman f_those:1 f_left:1 f_behind:1 f_are:1 f_the:1 f_primal:1 f_zerg:1
+Human f_why:1 f_are:1 f_you:1 f_helping:1 f_me:1 f_zeratul:1
+NotHuman f_primal:1 f_zerg:1 f_stole:1 f_design:1 f_from:1 f_swarm:1
+Human f_its:1 f_a:1 f_twoway:1 f_communicator:1
+Human f_that:1 f_thing:1 f_may:1 f_be:1 f_the:2 f_key:1 f_to:1 f_stopping:1 f_queen:1 f_of:1 f_blades:1
+Human f_the:1 f_zerg:1 f_first:1 f_evolved:1 f_here:1 f_yes:1
+Human f_they:1 f_aint:1 f_gonna:1 f_fit:1 f_into:1 f_your:1 f_nice:1 f_clean:1 f_time:1 f_table:1
+NotHuman f_james:1 f_raynor:1
+Human f_the:3 f_good:1 f_lieutenant:1 f_should:1 f_be:1 f_picking:1 f_up:1 f_emitter:1 f_in:1 f_shops:1 f_right:1 f_about:1 f_now:1
+Human f_make:1 f_no:1 f_mistake:1
+Human f_earth:1 f_directorate:1
+Human f_weve:1 f_all:1 f_seen:1 f_the:1 f_tapes:1 f_a:1 f_hundred:1
+Human f_you:1 f_dont:1 f_have:1 f_to:1 f_let:1 f_yourself:1 f_be:1 f_mutilated:1 f_again:1
+Human f_he:1 f_deploys:1 f_his:1 f_rifles:1 f_bayonet:1 f_and:1 f_impales:1 f_a:2 f_zergling:1 f_leaping:1 f_at:1 f_him:1 f_then:1 f_has:1 f_to:2 f_leap:1 f_aside:1 f_avoid:1 f_being:1 f_strafed:1 f_by:1 f_trio:1 f_of:1 f_mutalisks:1
+Human f_i:1 f_can:1 f_hardly:1 f_believe:1 f_we:1 f_pulled:1 f_it:1 f_off:1
+NotHuman f_dynamic:1
+Human f_just:1 f_promise:1 f_me:1 f_well:1 f_never:1 f_do:1 f_anything:1 f_like:1 f_this:1 f_again:1
+NotHuman f_but:1 f_they:1 f_are:1 f_not:1 f_foolish:1
+NotHuman f_swarm:1 f_on:1 f_planet:1 f_for:1 f_hours:1 f_days:1 f_already:1 f_being:1 f_replicated:1
+Human f_weve:1 f_seen:1 f_enough:1
+NotHuman f_submit:1 f_to:1 f_my:1 f_absolute:1 f_authority:1 f_and:1 f_we:1 f_may:1 f_indeed:1 f_unite:1 f_our:1 f_forces:1
+Human f_but:1 f_the:1 f_first:1 f_sign:1 f_of:1 f_trouble:1 f_youll:1 f_just:1 f_duck:1 f_and:1 f_run:1
+Human f_its:1 f_bloody:1
+NotHuman f_we:2 f_must:1 f_move:1 f_quickly:1 f_if:1 f_are:1 f_to:1 f_secure:1 f_their:1 f_biomass:1
+NotHuman f_but:1 f_they:1 f_are:1 f_so:1 f_chaotic:1
+Human f_everybody:1 f_simmer:1 f_down:1
+NotHuman f_the:1 f_primals:1 f_are:1 f_constantly:1 f_being:1 f_reinforced:1 f_find:1 f_a:1 f_way:1 f_past:1 f_them:1
+Human f_true:1
+Human f_oh:1 f_and:1 f_by:1 f_the:2 f_way:1 f_admiral:1 f_your:1 f_friend:1 f_stukov:1 f_was:1 f_twice:1 f_man:1 f_you:1 f_are:1
+NotHuman f_its:1 f_role:1 f_in:1 f_the:2 f_cosmic:1 f_order:1 f_was:1 f_preordained:1 f_when:1 f_stars:1 f_were:1 f_young:1
+NotHuman f_i:1 f_am:1 f_dehaka:1 f_one:1 f_who:1 f_collects:1
+NotHuman f_the:1 f_ancient:1 f_one:1 f_will:1 f_required:1 f_more:1 f_to:1 f_awaken:1
+Human f_but:1 f_it:1 f_aint:1 f_for:1 f_the:1 f_likes:1 f_of:1 f_us:1
+Human f_you:1 f_listen:1 f_to:1 f_me:1
+NotHuman f_the:2 f_taldarim:1 f_have:1 f_yielded:1 f_to:1 f_my:2 f_authority:1 f_and:1 f_death:1 f_fleet:1 f_is:1 f_under:1 f_command:1
+Human f_your:1 f_people:1 f_have:1 f_killed:1 f_billions:1 f_of:1 f_zerg:1
+NotHuman f_amon:1 f_is:1 f_a:1 f_mighty:1 f_foe:1 f_your:1 f_people:1 f_cannot:1 f_hope:1 f_to:1 f_stand:1 f_against:1 f_him:1
+NotHuman f_the:1 f_primal:1 f_zerg:1 f_descend:1 f_upon:1 f_you:1
+NotHuman f_yes:1 f_but:1 f_that:1 f_is:1 f_irrelevant:1
+NotHuman f_our:1 f_drone:1 f_must:1 f_be:1 f_protected:1
+Human f_the:1 f_planet:1 f_mistaff:1 f_iv:1 f_is:1 f_a:1 f_hub:1 f_of:1 f_dominion:1 f_military:1 f_production:1
+Human f_uploading:1 f_tactical:1 f_data:1 f_now:1
+Human f_tell:1 f_that:1 f_to:1 f_fenix:1
+Human f_personal:1 f_power:1 f_was:1 f_never:1 f_my:1 f_goal:1
+NotHuman f_power:1 f_overwhelming:1
+NotHuman f_our:1 f_queen:1 f_is:1 f_beginning:1 f_to:1 f_awakened:1
+NotHuman f_warning:1 f_do:1 f_not:1 f_assume:1 f_you:1 f_are:1 f_already:1 f_victorious:1 f_alarak:1
+NotHuman f_xelnaga:1 f_origin:1
+Human f_hearts:1 f_and:1 f_minds:1 f_man:1 f_just:1 f_like:1 f_you:1 f_always:1 f_said:1
+NotHuman f_from:1 f_this:1 f_primordial:1 f_place:1 f_the:1 f_zerg:1 f_arose:1
+Human f_it:1 f_is:1 f_certainly:1 f_within:1 f_my:1 f_power:1 f_but:1 f_youre:1 f_not:1 f_a:1 f_threat:1 f_to:1 f_me:1 f_jim:1
+NotHuman f_he:1 f_is:2 f_one:1 f_with:1 f_the:1 f_void:1 f_it:1 f_an:1 f_extension:1 f_of:1 f_his:1 f_will:1 f_binding:1 f_me:1 f_as:1 f_prisoner:1
+Human f_how:1 f_many:1 f_more:1 f_innocent:1 f_people:1 f_have:1 f_to:1 f_die:1 f_before:1 f_you:1 f_realize:1 f_what:1 f_youve:1 f_become:1
+Human f_sooner:1 f_or:1 f_later:1 f_ill:1 f_destroy:1 f_it:1
+NotHuman f_he:1 f_told:1 f_you:1 f_of:1 f_his:1 f_return:1
+Human f_ah:1 f_general:1 f_duke:1
+NotHuman f_the:1 f_taldarim:1 f_will:1 f_never:1 f_be:1 f_uplifted:1 f_and:1 f_become:1 f_hybrid:1
+Human f_these:1 f_waterscan:1 f_heal:1 f_the:1 f_wounded:1
+Human f_we:2 f_came:1 f_as:2 f_fast:1 f_could:1
+NotHuman f_you:1 f_radiate:1 f_so:1 f_much:1 f_power:1
+NotHuman f_the:1 f_invasion:1 f_fleet:1 f_stands:1 f_ready:1
+NotHuman f_free:1
+Human f_he:1 f_is:1 f_an:1 f_unscrupulous:1 f_lawless:1 f_revolutionary:1 f_bent:1 f_on:1 f_spreading:1 f_fear:1 f_and:1 f_dissension:1 f_across:1 f_the:1 f_sector:1
+NotHuman f_the:1 f_moment:1 f_draws:1 f_near:1
+Human f_its:1 f_not:1 f_just:1 f_mar:1 f_sara:1
+Human f_sarah:1 f_is:1 f_that:1 f_really:1 f_you:1
+NotHuman f_unending:1 f_hatred:1
+NotHuman f_continue:1 f_the:1 f_infinite:1 f_cycle:1
+NotHuman f_your:1 f_leader:1 f_sleeps:1
+NotHuman f_you:2 f_were:1 f_the:2 f_true:1 f_leader:1 f_of:1 f_swarm:1 f_yesterday:1 f_and:1 f_will:1 f_be:1 f_tomorrow:1
+Human f_youll:1 f_regret:1 f_that:1
+Human f_today:1 f_marks:1 f_the:3 f_third:1 f_anniversary:1 f_of:2 f_fall:1 f_arcturus:1 f_mengsk:1 f_regime:1
+Human f_hell:1
+Human f_and:2 f_if:1 f_i:1 f_let:1 f_you:1 f_live:1 f_youll:1 f_call:1 f_down:1 f_your:1 f_golden:1 f_armada:1 f_they:1 f_will:1 f_kill:1 f_me:1
+Human f_you:1 f_really:1 f_that:1 f_naive:1
+Human f_something:1 f_tormented:1 f_and:1 f_desperate:1 f_but:1 f_its:1 f_benevolent:1
+NotHuman f_but:1 f_you:1 f_will:1 f_do:1 f_anything:1 f_to:1 f_have:1 f_your:1 f_revenge:1
+NotHuman f_we:1 f_must:1 f_protect:1 f_it:2 f_while:1 f_harvests:1
+Human f_jim:1 f_raynor:1 f_represents:1 f_a:1 f_clear:1 f_and:1 f_present:1 f_threat:1 f_to:1 f_this:1 f_dominion:1
+NotHuman f_difficult:1 f_to:1 f_admit:1
+NotHuman f_they:1 f_gather:1 f_essence:1 f_for:1 f_thousands:1 f_of:1 f_years:1
+Human f_lieutenant:1 f_get:1 f_the:1 f_wounded:1 f_to:1 f_those:1 f_shuttles:1
+Human f_how:2 f_terrible:1 f_powerful:1 f_is:1 f_something:1 f_that:1 f_plays:1 f_with:1 f_their:1 f_fates:1
+Human f_hes:1 f_had:1 f_this:1 f_coming:1 f_for:1 f_a:1 f_long:1 f_time:1
+Human f_fair:1 f_enough:1
+Human f_really:1
+Human f_we:1 f_just:1 f_released:1 f_every:1 f_scientist:1 f_philosopher:1 f_and:1 f_freethinker:1 f_that:1 f_ever:1 f_challenged:1 f_mengsks:1 f_rule:1
+NotHuman f_complete:1
+NotHuman f_all:1 f_zerus:1 f_fears:1 f_it:1 f_and:1 f_you:1
+NotHuman f_varied:1
+NotHuman f_amon:1 f_has:1 f_betrayed:1 f_my:1 f_people:1
+Human f_fellow:1 f_terrans:1 f_i:1 f_come:1 f_to:3 f_you:1 f_in:1 f_the:1 f_wake:1 f_of:1 f_recent:1 f_events:1 f_issue:1 f_a:1 f_call:1 f_reason:1
+NotHuman f_templar:1 f_arrest:1 f_this:1 f_traitor:1
+Human f_take:1 f_us:1 f_into:1 f_orbit:1 f_mr:1 f_malmsteen:1
+Human f_sir:1 f_do:1 f_you:1 f_still:1 f_stand:1 f_by:1 f_the:3 f_sentiment:1 f_that:1 f_selfless:1 f_devotion:1 f_to:1 f_people:1 f_is:1 f_basis:1 f_of:1 f_your:1 f_rule:1
+NotHuman f_primal:1 f_zerg:1 f_reactionary:1 f_improvised:1
+NotHuman f_kill:1 f_thousands:1 f_to:1 f_save:1 f_yourself:1
+NotHuman f_birthplace:1 f_of:1 f_the:1 f_zerg:1
+NotHuman f_the:1 f_primal:1 f_zerg:1 f_are:1 f_sure:1 f_to:1 f_attack:1 f_our:1 f_drones:1
+NotHuman f_it:1 f_is:1 f_not:1 f_a:1 f_weapon:1
+NotHuman f_you:1 f_have:1 f_come:1 f_to:1 f_this:1 f_place:1 f_seeking:1 f_power:1
+NotHuman f_brakks:1 f_forces:1 f_has:1 f_destroyed:1 f_quillgor:1 f_biomass:1
+NotHuman f_indeed:1 f_our:1 f_two:1 f_species:1 f_are:1 f_but:1 f_opposite:1 f_facets:1 f_of:1 f_a:1 f_greater:1 f_whole:1
+NotHuman f_go:1 f_to:1 f_it:1
+Human f_them:1
+Human f_ive:1 f_already:1 f_taken:1 f_your:1 f_honor:1
+Human f_you:2 f_know:1 f_for:1 f_the:2 f_most:1 f_wanted:1 f_man:1 f_in:1 f_sector:1 f_aint:1 f_that:1 f_hard:1 f_to:1 f_find:1
+NotHuman f_en:1 f_taro:1 f_adun:1
+Human f_i:1 f_just:1 f_dont:1 f_think:1 f_anyone:1 f_deserves:1 f_to:1 f_have:1 f_the:1 f_zerg:1 f_unleashed:1 f_on:1 f_them:1
+Human f_i:1 f_dont:1 f_have:1 f_to:1 f_do:1 f_a:1 f_damn:1 f_thing:1
+Human f_good:2 f_i:2 f_knew:1 f_could:1 f_count:1 f_on:1 f_you:1
+Human f_overthrowing:1 f_mengsk:1 f_is:1 f_just:1 f_the:1 f_start:1
+NotHuman f_primal:1 f_essence:1 f_pool:1
+Human f_lets:1 f_get:1 f_back:1 f_to:1 f_work:1 f_boys:1
+Human f_so:2 f_if:1 f_its:1 f_all:1 f_bleak:1 f_why:1 f_are:1 f_you:1 f_here:1 f_tosh:1
+NotHuman f_my:1 f_people:1 f_are:1 f_vastly:1 f_different:1 f_than:1 f_yours:1 f_hierarch:1
+Human f_nice:1 f_to:1 f_see:1 f_you:1 f_too:1
+Human f_to:1 f_memorialize:1 f_this:1 f_milestone:1 f_emperor:1 f_valerian:1 f_mengsk:1 f_held:1 f_a:2 f_monumental:1 f_celebration:1 f_in:1 f_the:2 f_capital:1 f_wing:1 f_of:2 f_augustgrad:1 f_heralding:1 f_new:1 f_age:1 f_peace:1 f_and:1 f_prosperity:1 f_within:1 f_terran:1 f_dominion:1
+NotHuman f_you:1 f_will:1 f_not:1 f_see:1 f_me:1 f_again:1 f_kerrigan:1
+NotHuman f_the:2 f_keystone:1 f_will:1 f_lead:1 f_you:1 f_to:1 f_xelnaga:1
+Human f_i:1 f_need:1 f_you:1
+NotHuman f_given:1 f_your:1 f_friendship:1 f_with:1 f_the:1
+Human f_turns:1 f_to:2 f_face:1 f_him:1 f_a:1 f_chance:1 f_rescue:1 f_sarah:1 f_kerrigan:1
+NotHuman f_it:1 f_shall:1 f_be:1 f_your:1 f_downfall:1
+NotHuman f_i:2 f_come:1 f_with:1 f_an:1 f_offer:1 f_you:2 f_will:2 f_aid:1 f_me:1 f_in:2 f_invoking:1 f_a:2 f_challenge:1 f_for:1 f_the:1 f_right:1 f_to:1 f_rule:1 f_my:1 f_kind:1 f_as:1 f_highlord:1 f_and:1 f_return:1 f_grant:1 f_cessation:1 f_of:1 f_hostilities:1 f_between:1 f_our:1 f_people:1
+Human f_i:1 f_love:1 f_your:2 f_gumption:1 f_son:1 f_but:1 f_youre:1 f_in:1 f_way:1 f_over:1 f_head:1
+NotHuman f_adapted:1 f_using:1 f_primal:1 f_essence:1
+NotHuman f_ouros:1
+NotHuman f_you:1 f_the:1 f_one:1 f_called:1 f_kerrigan:1 f_can:1 f_merge:1 f_with:1 f_my:1 f_essence:1
+Human f_thats:1 f_right:1 f_old:1 f_buddy:1
+Human f_the:1 f_thing:1 f_about:1 f_gambles:1 f_izsha:1 f_is:1 f_that:1 f_sometimes:1 f_you:1 f_lose:1
+Human f_we:1 f_will:1 f_do:1 f_whatever:1 f_it:1 f_takes:1 f_to:1 f_save:1 f_humanity:1
+Human f_when:1 f_you:1 f_figure:1 f_it:1 f_out:1 f_let:1 f_us:1 f_know:1
+NotHuman f_the:1 f_remnants:1 f_of:1 f_brakks:1 f_forces:1 f_gather:1 f_nearby:1
+Human f_cease:1 f_fire:1
+Human f_escape:1
+NotHuman f_the:1 f_zerg:1 f_infestation:1 f_still:1 f_covered:1 f_much:1 f_of:1 f_our:1 f_beloved:1 f_world:1
+Human f_do:1 f_you:2 f_remember:1 f_what:1 f_did:1 f_to:1 f_me:1
+NotHuman f_i:1 f_am:1 f_a:1 f_warrior:1 f_old:1 f_friend:1 f_you:1 f_know:1 f_this:1 f_as:2 f_well:1 f_any:1
+NotHuman f_now:1 f_i:2 f_come:1 f_to:1 f_you:1 f_because:1 f_feel:1 f_your:1 f_change:1
+NotHuman f_he:1 f_told:1 f_you:1 f_of:1 f_ruin:1 f_extinction:1
+Human f_they:1 f_say:1 f_a:1 f_man:1 f_never:1 f_really:1 f_knows:1 f_himself:1 f_until:1 f_his:1 f_freedoms:1 f_been:1 f_taken:1 f_away:1
+NotHuman f_we:2 f_sought:1 f_to:1 f_punish:1 f_you:1 f_while:1 f_it:1 f_was:1 f_who:1 f_were:1 f_in:1 f_error:1
+NotHuman f_the:1 f_broken:1 f_zerg:1 f_remained:1
+NotHuman f_you:1 f_will:1 f_hold:1 f_her:1 f_life:1 f_in:1 f_your:1 f_hands:1
+Human f_give:1 f_em:1 f_hell:1 f_artanis:1
+Human f_traitor:1
+Human f_these:1 f_primal:1 f_zerg:1 f_are:1 f_fascinating:1
+Human f_abathur:1 f_send:1 f_me:1 f_the:2 f_creature:1 f_youve:1 f_been:1 f_working:1 f_on:1 f_swarm:1 f_host:1
+Human f_speaking:1 f_of:1 f_which:1 f_you:1 f_may:1 f_particularly:1 f_enjoy:1 f_this:1 f_next:1 f_step:1
+NotHuman f_transform:1
+Human f_jimmy:1 f_drop:1 f_the:1 f_knight:1 f_in:1 f_shining:1 f_armor:1 f_routine:1
+NotHuman f_target:1 f_the:2 f_epicenter:1 f_of:1
+Human f_but:1 f_i:1 f_dont:1 f_think:1 f_he:1 f_wants:1 f_to:2 f_talk:1 f_anyb:1
+NotHuman f_i:1 f_do:1 f_not:1 f_come:1 f_as:1 f_your:1 f_enemy:1 f_dark:1 f_templar:1
+NotHuman f_our:1 f_proud:1 f_people:1 f_became:1 f_refugees:1
+NotHuman f_unacceptable:1
+Human f_so:1 f_gerard:1
+Human f_and:1 f_i:1 f_wont:1 f_forget:1 f_that:1
+NotHuman f_heavy:1 f_damage:1
+NotHuman f_they:1 f_are:1 f_going:1 f_to:1 f_attack:1 f_us:1
+NotHuman f_yagdra:1 f_a:1 f_worm:1 f_whose:1 f_acid:1 f_burns:1 f_like:1 f_fire:1
+Human f_i:1 f_will:1 f_rule:1 f_this:1 f_sector:1 f_or:1 f_see:1 f_it:1 f_burnt:1 f_to:1 f_ashes:1 f_around:1 f_me:1
+NotHuman f_primal:1 f_zerg:1 f_must:1 f_not:1 f_take:1 f_from:1 f_us:1
+Human f_but:1 f_that:1 f_was:1 f_then:1 f_jim:1
+NotHuman f_your:1 f_arrogance:1 f_is:1 f_unacceptable:1
+Human f_i:1 f_will:1 f_deal:1 f_with:1 f_the:1 f_pack:1 f_leaders:1 f_myself:1
+NotHuman f_i:1 f_was:1 f_given:1 f_a:1 f_directive:1 f_by:1 f_aldaris:1 f_himself:1 f_to:2 f_come:1 f_glacius:1 f_and:1 f_serve:1 f_the:1 f_templar:1
+NotHuman f_purity:1 f_of:1 f_essence:1
+NotHuman f_you:1 f_may:1 f_be:1 f_torn:1 f_apart:1
+Human f_who:1 f_are:1 f_you:1
+Human f_you:2 f_want:1 f_to:1 f_change:1 f_her:1 f_into:1 f_one:1 f_of:1
+NotHuman f_as:1 f_you:1 f_command:1
+Human f_let:1 f_us:1 f_return:1 f_to:2 f_tarsonis:1 f_rest:1
+Human f_youre:1 f_not:1 f_jim:1
+Human f_she:1 f_dies:1
+NotHuman f_behold:1 f_zerus:1
+NotHuman f_more:1 f_of:1 f_my:1 f_pack:1
+NotHuman f_i:1 f_have:1 f_been:1 f_to:1 f_the:1 f_beginning:1
+NotHuman f_i:1 f_can:1 f_remember:1 f_tassadar:1 f_teaching:1 f_you:1 f_a:1 f_very:1 f_similar:1 f_lesson:1 f_on:1 f_char:1
+NotHuman f_amon:1 f_will:1 f_bring:1 f_the:2 f_full:1 f_might:1 f_of:2 f_great:1 f_fleet:1 f_to:1 f_bear:1 f_against:1 f_us:1 f_that:1 f_there:1 f_is:1 f_no:1 f_doubt:1
+Human f_you:1 f_protoss:1 f_are:1 f_all:1 f_so:1 f_headstrong:1 f_and:1 f_predictable:1
+Human f_and:1 f_that:1 f_zeratul:1 f_is:1 f_a:1 f_better:1 f_revenge:1 f_than:1 f_i:1 f_could:1 f_have:1 f_ever:1 f_dreamed:1 f_of:1
+Human f_confirmed:1
+Human f_anybody:1
+Human f_sarah:1 f_you:1 f_dont:1 f_have:1 f_to:1 f_do:1 f_this:1
+Human f_its:1 f_a:1 f_pool:1
+Human f_i:2 f_know:2 f_that:1 f_because:1 f_well:1 f_just:1 f_it:1
+Human f_i:1 f_am:1 f_my:1 f_own:1 f_master:1
+Human f_you:1 f_must:1 f_know:1 f_that:1 f_we:1 f_do:1 f_not:1 f_represent:1 f_one:1 f_of:2 f_your:1 f_ragtag:1 f_peasant:1 f_militias:1 f_but:1 f_the:2 f_combined:1 f_might:1 f_united:1 f_earth:1 f_directorate:1
+Human f_what:1 f_are:1 f_you:1 f_talking:1 f_about:1
+Human f_oceans:1 f_of:1 f_fire:1 f_tectonic:1 f_storms:1 f_and:1 f_an:1 f_atmosphere:1 f_thatll:1 f_burn:1 f_a:1 f_man:1 f_alive:1
+Human f_never:1 f_forget:1 f_it:1
+NotHuman f_of:1 f_course:1 f_i:1 f_do:1
+Human f_whose:1 f_grasp:1
+NotHuman f_it:1 f_comes:1 f_at:1 f_great:1 f_cost:1
+Human f_does:1 f_that:1 f_mean:1 f_theyre:1 f_gonna:1 f_send:1 f_some:1 f_backup:1 f_for:1 f_us:1
+Human f_fall:1 f_back:1
+NotHuman f_we:1 f_came:1 f_from:1 f_this:1 f_place:1
+Human f_anything:1
+NotHuman f_welcome:1 f_to:1 f_your:1 f_demise:1
+NotHuman f_i:1 f_returned:1 f_to:1 f_our:1 f_ruined:1 f_homeworld:1 f_of:1 f_auir:1
+NotHuman f_to:1 f_awaken:1 f_this:1 f_creature:1 f_we:1 f_must:1 f_feed:1 f_it:1
+NotHuman f_clearly:1 f_altered:1 f_walking:1 f_around:1 f_artanis:1 f_like:1 f_a:1 f_vulture:1 f_after:1 f_all:1 f_these:1 f_years:1 f_my:1 f_victory:1 f_is:1 f_nearly:1 f_at:1 f_hand:1
+NotHuman f_spawns:1 f_locusts:1 f_to:1 f_kill:1 f_enemies:1
+Human f_what:1 f_if:1 f_raynor:1 f_could:1 f_see:1 f_you:1 f_right:1 f_now:1
+Human f_well:1 f_the:2 f_pack:1 f_leaders:1 f_have:1 f_no:1 f_chance:1 f_against:1 f_swarm:1 f_now:1
+NotHuman f_en:1 f_taro:1 f_artanis:1
+Human f_tomorrow:1 f_therell:1 f_be:1 f_a:1 f_new:1 f_mengsk:1 f_and:1 f_another:1 f_one:1 f_after:1 f_that:1
+Human f_its:1 f_never:1 f_been:1 f_our:1 f_practice:1 f_to:2 f_operate:1 f_in:1 f_any:1 f_one:1 f_place:1 f_for:1 f_long:1 f_but:1 f_these:1 f_zerg:1 f_dont:1 f_look:1 f_like:1 f_theyre:1 f_going:1 f_wait:1
+Human f_this:1 f_essence:1 f_is:1 f_so:1 f_alive:1
+Human f_well:1 f_now:2 f_i:2 f_dont:1 f_know:1 f_which:1 f_militia:1 f_you:2 f_all:2 f_are:1 f_from:1 f_but:1 f_advise:1 f_to:1 f_back:1 f_down:1
+NotHuman f_swarms:1 f_power:1 f_ability:1 f_to:1 f_assimilate:1 f_strengths:1
+NotHuman f_will:1 f_augment:1 f_strength:1
+Human f_youre:1 f_familiar:1 f_with:1 f_the:1 f_confederate:1 f_propaganda:1 f_surrounding:1 f_my:1 f_group:1 f_but:1 f_your:1 f_reputation:1 f_suggests:1 f_youll:1 f_see:1 f_past:1 f_it:1
+Human f_he:1 f_died:1 f_because:1 f_you:1 f_betrayed:1 f_him:1
+Human f_are:1 f_you:1 f_on:1 f_this:1 f_frequency:1
+Human f_im:1 f_fine:1 f_lieutenant:1
+NotHuman f_you:1 f_are:1 f_on:1 f_the:1 f_path:1 f_and:1 f_no:1 f_longer:1 f_need:1 f_my:1 f_guidance:1
+NotHuman f_kraith:1 f_immense:1 f_and:1 f_consumed:1 f_by:1 f_hatred:1
+Human f_i:1 f_justify:1 f_nothing:1
+Human f_we:1 f_are:1 f_almost:1 f_done:1 f_here:1
+NotHuman f_mutalisks:1 f_reconstituted:1
+Human f_its:1 f_time:1
+NotHuman f_they:1 f_are:1 f_a:3 f_rock:1 f_tree:1 f_hill:1
+Human f_brings:1 f_up:1 f_the:1 f_prisoner:1 f_manifest:1 f_dont:1 f_you:1 f_see:1
+Human f_turn:1 f_around:1 f_arcturus:1
+NotHuman f_we:1 f_were:1 f_fools:1 f_to:1 f_have:1 f_gone:1 f_along:1 f_with:1 f_this:1 f_charade:1
+NotHuman f_make:1 f_your:1 f_decision:1
+Human f_i:1 f_thought:1 f_you:1 f_were:1 f_dead:1
+Human f_the:1 f_lawless:1 f_terrorist:1 f_jim:1 f_raynor:1 f_is:1 f_dead:1
+Human f_ah:1 f_yes:1 f_youre:1 f_referring:1 f_to:1 f_your:1 f_vaunted:1 f_psi:1 f_disruptor:1
+Human f_the:1 f_queen:1 f_of:1 f_blades:1
+NotHuman f_yet:1 f_one:1 f_spark:1 f_of:1 f_hope:1 f_remains:1
+NotHuman f_the:1 f_final:1 f_war:1 f_nears:1 f_and:1 f_there:1 f_is:1 f_little:1 f_time:1
+Human f_how:1 f_he:1 f_must:1 f_be:1 f_disgusted:1 f_by:1 f_you:1
+NotHuman f_tyrannozor:1 f_sample:1 f_acquired:1
+NotHuman f_those:1 f_protoss:1 f_would:1 f_kill:1 f_you:1 f_if:1 f_they:1 f_could:1
+Human f_i:3 f_am:2 f_one:1 f_of:1 f_the:1 f_zerg:1 f_now:1 f_and:1 f_like:1 f_what:1
+Human f_hatred:1
+Human f_general:1 f_the:1 f_zerg:1 f_pulled:1 f_back:1
+Human f_i:1 f_will:1 f_sacrifice:1 f_anything:1 f_to:1 f_achieve:1 f_my:1 f_goal:1
+NotHuman f_en:1 f_taro:1 f_tassadar:1
+Human f_this:1 f_interview:1 f_is:1 f_over:1
+NotHuman f_go:1 f_forth:1 f_purge:1 f_the:1 f_corruption:1
+Human f_what:1 f_do:1 f_you:1 f_want:1
+NotHuman f_they:1 f_are:1 f_not:1 f_zerg:1
+Human f_these:1 f_shocking:1 f_revelations:1
+Human f_tychus:1 f_findlay:1
+Human f_you:1 f_guys:1 f_did:1 f_good:1
+Human f_im:1 f_having:1 f_doubts:1 f_about:1 f_this:1 f_arcturus:1
+NotHuman f_the:2 f_fate:1 f_of:1 f_creation:1 f_hangs:1 f_in:1 f_balance:1
+Human f_you:1 f_got:1 f_us:1 f_working:1 f_for:1 f_the:1 f_dominion:1 f_now:1 f_commander:1
+Human f_nice:1 f_suit:1
+Human f_a:1 f_trace:1 f_of:1 f_something:1 f_dark:1 f_but:1 f_long:1 f_gone:1
+NotHuman f_but:1 f_none:1 f_of:1 f_us:1 f_are:1 f_ever:1 f_truly:1 f_alone:1
+Human f_convict:1
+NotHuman f_how:1 f_can:1 f_this:1 f_be:1
+NotHuman f_take:1 f_what:1 f_is:1 f_theirs:1
+Human f_devastation:1 f_spread:1 f_throughout:1 f_all:1 f_outer:1 f_rim:1 f_planets:1
+Human f_your:1 f_vodka:1 f_can:1 f_wait:1 f_my:1 f_good:1 f_alexei:1
+NotHuman f_no:1
+NotHuman f_your:2 f_essence:1 f_overflows:1 f_with:1 f_power:1
+Human f_but:1 f_you:1 f_dont:1 f_owe:1 f_him:1 f_this:1
+NotHuman f_better:1 f_that:1 f_i:1 f_killed:1 f_her:2 f_than:1 f_let:1 f_live:1 f_as:1 f_your:1 f_slave:1 f_kerrigan:1
+NotHuman f_able:1 f_to:1 f_spawn:1 f_locusts:1
+NotHuman f_bring:1 f_it:1 f_down:1 f_quickly:1
+Human f_the:3 f_protoss:1 f_are:1 f_coming:1 f_to:1 f_destroy:1 f_entire:1 f_planet:1 f_not:1 f_just:1 f_zerg:1
+NotHuman f_the:1 f_swarm:1 f_came:1 f_from:1 f_zerus:1
+NotHuman f_my:1 f_host:1 f_body:1 f_is:1 f_forged:1
+Human f_but:1 f_the:2 f_primals:1 f_feed:1 f_off:1 f_essence:1 f_of:1 f_individuals:1
+NotHuman f_its:1 f_power:1 f_outstrips:1 f_even:1 f_yours:1
+NotHuman f_what:1 f_will:1 f_you:1 f_do:1
+Human f_unsnaps:1 f_the:1 f_catch:1 f_of:1 f_his:1 f_pistol:1 f_holster:1
+Human f_dominion:1 f_troops:1 f_turn:1 f_up:1 f_their:2 f_radios:1 f_as:1 f_raynors:1 f_voice:1 f_is:1 f_heard:1 f_over:1 f_comm:1 f_channels:1 f_and:2 f_loudspeakers:1 f_but:1 f_its:1 f_our:1 f_sweat:1 f_blood:1 f_that:1 f_will:1 f_make:1 f_it:1 f_happen:1
+Human f_are:1 f_you:1 f_prepared:1 f_to:1 f_go:1 f_all:1 f_the:1 f_way:1 f_with:1 f_this:1 f_alexei:1
+Human f_were:1 f_done:1
+Human f_these:1 f_zerg:1 f_will:1 f_help:1 f_me:1 f_destroy:1 f_korhal:1
+NotHuman f_you:1 f_will:1 f_never:1 f_find:1 f_them:1 f_all:1 f_before:1 f_they:1 f_awaken:1
+Human f_this:1 f_must:1 f_be:1 f_the:1 f_power:1 f_zeratul:1 f_spoke:1 f_of:1
+NotHuman f_genetic:1 f_strands:1 f_different:1
+NotHuman f_tear:1 f_the:1 f_heart:1 f_from:1 f_your:1 f_chest:1
+NotHuman f_you:1 f_know:1
+Human f_ive:1 f_invested:1 f_far:1 f_too:1 f_much:1 f_in:1 f_this:1 f_undertaking:1 f_to:1 f_see:1 f_it:1 f_fail:1
+NotHuman f_truly:1 f_this:1 f_world:1 f_is:1 f_yours:1 f_now:1
+Human f_abathur:1 f_are:1 f_you:1 f_upset:1
+Human f_er:1 f_you:2 f_mean:1 f_to:1 f_tell:1 f_me:1 f_that:1 f_came:1 f_all:1 f_the:1 f_way:1 f_out:1 f_here:1 f_from:1 f_earth:1
+NotHuman f_breaks:1 f_free:1 f_of:2 f_karaxs:1 f_grip:1 f_i:1 f_have:1 f_fought:1 f_far:1 f_too:1 f_long:1 f_for:1 f_the:2 f_will:1 f_conclave:1 f_to:1 f_be:1 f_examined:1 f_like:1 f_some:1 f_specimen:1
+Human f_very:1 f_good:1
+Human f_the:1 f_terrans:1 f_will:1 f_not:1 f_be:1 f_so:1 f_understanding:1
+Human f_smiles:1 f_always:1 f_was:1
+Human f_he:1 f_was:1 f_trying:1 f_to:1 f_find:1 f_out:1 f_why:1 f_the:3 f_overmind:1 f_made:1 f_queen:1 f_of:1 f_blades:1 f_in:1 f_first:1 f_place:1
+NotHuman f_and:1 f_when:1 f_they:1 f_do:1 f_your:1 f_universe:1 f_will:1 f_be:1 f_changed:1 f_forever:1
+Human f_i:1 f_have:1 f_three:1 f_shuttles:1 f_packed:1 f_with:1 f_men:1 f_to:3 f_injured:1 f_ever:1 f_be:1 f_a:1 f_threat:1 f_you:1
+NotHuman f_it:1 f_appears:1 f_he:1 f_was:1 f_to:1 f_be:1 f_the:2 f_first:1 f_in:1 f_a:1 f_revival:1 f_of:1 f_ancient:1 f_program:1
+Human f_you:1 f_wont:1 f_find:1 f_my:1 f_father:1 f_here:1 f_commander:1
+Human f_the:2 f_protoss:1 f_have:1 f_retreated:1 f_from:1 f_our:1 f_dominion:1 f_and:1 f_zerg:1 f_threat:1 f_has:1 f_been:1 f_removed:1
+NotHuman f_dryly:1 f_you:1 f_care:1 f_little:1 f_for:1 f_my:1 f_survival:1 f_alarak:1
+NotHuman f_will:1 f_return:1 f_to:1 f_work:1
+NotHuman f_what:1 f_i:1 f_have:1 f_wrought:1 f_this:1 f_day:1 f_shall:1 f_be:1 f_the:1 f_undoing:1 f_of:1 f_my:1 f_enemies:1
+NotHuman f_fenix:1 f_rally:1 f_my:1 f_advisors:1
+Human f_very:1 f_well:1 f_you:1 f_can:1 f_stay:1

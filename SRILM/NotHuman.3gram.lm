@@ -1,0 +1,3431 @@
+
+\data\
+ngram 1=504
+ngram 2=2425
+ngram 3=489
+
+\1-grams:
+-0.9286838	</s>
+-99	<s>	-0.1295915
+-3.725267	<unk>
+-0.9259175	UNK	0.01041389
+-1.892749	a	-0.01046598
+-3.248137	ability	0.005499378
+-3.424228	able	0.00636022
+-3.248137	about	0.01859904
+-3.424228	accept	-0.0007446227
+-3.248137	acid	0.1137065
+-3.248137	acquire	0.05186812
+-3.248137	acquired	0.05186812
+-3.123198	across	0.01559481
+-3.248137	act	0.00430034
+-3.248137	adun	0.1137065
+-3.123198	again	0.05162839
+-2.822168	against	0.0169053
+-3.424228	age	0.05272896
+-3.248137	ahead	0.05186812
+-3.123198	aid	-0.0008256165
+-3.026288	aiur	0.05021333
+-3.026288	alarak	0.05015154
+-2.403039	all	0.1408461
+-3.248137	alone	0.05528643
+-2.947107	already	0.04827103
+-3.026288	altered	0.05086396
+-2.683865	am	0.07812964
+-2.57913	amon	0.1390674
+-3.248137	amons	-0.002962831
+-2.725258	an	0.04545528
+-2.646077	ancient	0.1074063
+-1.954406	and	0.06392507
+-2.88016	another	0.07988394
+-3.026288	any	0.1118723
+-3.248137	apart	0.05186812
+-3.248137	appears	0.002721841
+-1.939928	are	0.04702263
+-3.248137	arise	0.001397013
+-3.123198	around	-0.002099716
+-2.57913	artanis	0.1158279
+-2.446504	as	0.002872147
+-3.248137	assault	0.07334682
+-3.248137	assimilate	0.05304588
+-2.549167	at	0.06953301
+-2.646077	attack	0.07046814
+-3.248137	attacking	0.01679645
+-3.248137	attacks	0.05186812
+-3.248137	authority	0.002263005
+-3.123198	awaken	0.05395955
+-3.123198	back	0.05911726
+-3.248137	barricades	0.05186812
+-3.248137	basin	0.05186812
+-3.123198	battle	0.009875538
+-2.310285	be	0.1324554
+-3.123198	became	0.05103976
+-3.026288	become	0.05267587
+-2.725258	been	0.05330125
+-3.123198	before	0.0560941
+-3.424228	begin	-0.001481478
+-3.123198	beginning	0.05100898
+-3.248137	behold	0.003967547
+-3.248137	being	0.05165137
+-3.123198	belief	0.006335075
+-2.822168	believe	0.05710941
+-3.248137	beloved	0.05192991
+-3.248137	betrayal	0.05146577
+-3.248137	betrayed	0.001562396
+-3.248137	between	0.001602104
+-3.123198	beyond	0.07240124
+-2.771016	biomass	0.1262688
+-3.248137	birthplace	0.005665997
+-3.248137	blade	0.003551915
+-2.947107	blades	0.04991519
+-3.248137	body	0.004883341
+-2.947107	both	0.0577688
+-3.248137	bound	0.01713923
+-3.123198	brakk	0.05237301
+-2.947107	brakks	-0.004095849
+-3.248137	break	0.05594211
+-3.248137	breaks	-0.002553389
+-2.947107	bring	0.05661248
+-3.424228	broke	-0.0007446227
+-2.683865	broken	0.05017905
+-3.123198	brood	0.06609364
+-3.248137	broodmother	0.1137065
+-3.123198	brought	-0.001770891
+-2.424228	but	0.1032756
+-2.683865	by	0.07772841
+-3.026288	called	0.0131714
+-3.123198	came	0.005945309
+-2.424228	can	0.04187723
+-3.248137	cannot	-0.0008295071
+-3.248137	cerebrate	0.05186812
+-3.248137	challenge	0.002224557
+-3.026288	char	0.0652362
+-2.611315	chrysalis	0.1149543
+-3.248137	civilization	0.05669267
+-3.123198	claim	-0.001194849
+-3.248137	clean	0.05186812
+-3.424228	clear	0.05272896
+-3.248137	clearly	-0.002717212
+-3.123198	close	0.05987635
+-2.88016	cluster	0.04999209
+-3.123198	collect	0.05125656
+-3.248137	collects	0.05128025
+-2.683865	come	0.05400448
+-3.123198	comes	-0.001320821
+-3.026288	coming	0.05207486
+-3.026288	command	0.07134834
+-3.123198	conclave	0.06092227
+-3.248137	constantly	-0.002389505
+-3.026288	consume	0.01327091
+-3.248137	consumed	0.0520228
+-3.424228	corrupt	-0.001154141
+-3.248137	corrupted	0.01731072
+-3.123198	could	0.05374681
+-3.248137	course	0.05735048
+-3.248137	crawlers	-0.001687399
+-3.248137	created	-0.001569152
+-2.947107	creation	0.0638028
+-3.248137	creature	0.008145898
+-2.88016	cycle	0.05033761
+-3.248137	damned	-0.002553389
+-2.822168	dark	0.04957869
+-3.248137	day	0.05192991
+-3.026288	death	0.001466417
+-3.123198	defeat	0.08148846
+-2.947107	defend	0.0705903
+-3.248137	defense	0.05186812
+-2.88016	destiny	0.132649
+-2.88016	destroy	0.02282598
+-3.248137	destroyed	0.05165137
+-3.123198	destroying	0.01593732
+-3.248137	devour	0.05186812
+-3.248137	did	0.01143315
+-3.123198	different	0.0512259
+-2.494809	do	0.1300382
+-3.123198	done	-0.002885255
+-3.248137	doom	0.05186812
+-3.248137	draws	-0.001979522
+-3.123198	drone	0.008607771
+-2.947107	each	-0.003484087
+-3.248137	embrace	0.07334682
+-3.026288	en	-0.003895264
+-2.88016	end	0.09014854
+-3.026288	enemies	0.05015154
+-3.123198	enemy	0.05940176
+-3.248137	energy	0.053139
+-3.248137	engaged	-0.002096841
+-2.947107	enough	0.07930525
+-3.248137	entrance	0.05186812
+-2.310285	essence	0.1171758
+-3.248137	essences	-0.002178683
+-3.248137	eternal	-0.001651257
+-3.248137	eternity	0.1137065
+-3.123198	even	0.0001664888
+-3.424228	ever	-0.00131784
+-3.123198	everything	0.008043151
+-3.123198	evolve	0.05100898
+-3.123198	evolved	0.006196515
+-3.248137	extreme	-0.00234232
+-3.248137	factions	0.0006950037
+-3.248137	fail	0.0521157
+-2.947107	far	0.04886153
+-2.822168	fate	0.1292609
+-3.123198	feast	-0.002874121
+-3.248137	feed	0.003884388
+-3.026288	feel	0.01860291
+-3.123198	fenix	0.1132664
+-2.822168	fight	0.05135688
+-3.123198	final	0.05011019
+-3.123198	find	0.003073147
+-2.88016	first	0.05327326
+-3.248137	fleet	0.0588578
+-3.248137	flesh	0.05186812
+-3.123198	fliers	0.01048941
+-3.248137	foe	0.003385772
+-3.248137	followed	0.02649789
+-3.248137	fools	0.06018101
+-2.310285	for	0.08789959
+-3.123198	force	0.004806859
+-2.611315	forces	0.118075
+-3.248137	forge	0.003007721
+-3.248137	forged	0.07334682
+-3.248137	forgotten	0.007252082
+-2.88016	form	0.06236413
+-3.026288	free	0.0595891
+-3.424228	friend	0.008112924
+-2.310285	from	0.07112476
+-3.248137	fulfill	0.001893349
+-3.026288	further	0.1119899
+-3.248137	fury	0.01033463
+-3.123198	gather	-0.001688646
+-3.026288	gathering	0.05036846
+-3.248137	genetic	0.052239
+-3.424228	get	-0.001399667
+-3.248137	glory	0.005665997
+-2.947107	go	0.05863826
+-3.123198	good	0.04973891
+-2.822168	great	0.05248619
+-3.123198	greater	0.05029594
+-3.248137	greatest	0.05407137
+-3.248137	guardians	0.1137065
+-3.248137	guide	0.007894061
+-3.248137	had	0.1137065
+-3.424228	hand	0.05272896
+-3.248137	hands	0.05186812
+-3.123198	harvest	0.05290489
+-2.310285	has	0.03122281
+-3.123198	hatred	0.05951122
+-2.123198	have	0.04523534
+-2.549167	he	0.0491256
+-2.947107	hear	-0.003775767
+-2.771016	her	0.04424882
+-2.646077	here	0.08641771
+-2.947107	hierarch	0.06216434
+-3.248137	highlord	0.001976129
+-2.88016	him	0.04828641
+-2.646077	his	0.04391639
+-2.88016	hive	-0.005441388
+-3.026288	hold	0.05074101
+-3.123198	homeworld	0.06426705
+-2.947107	hope	0.008627951
+-3.248137	hopes	-0.0005003717
+-3.424228	host	-0.001481478
+-3.026288	hosts	0.06360152
+-3.248137	hour	0.06037036
+-3.123198	how	0.007202797
+-3.026288	hybrid	0.06110352
+-1.892749	i	0.07855375
+-3.424228	id	-0.001235998
+-2.683865	if	0.0337077
+-3.424228	im	-0.00131784
+-3.248137	important	0.05407137
+-2.26286	in	0.07449935
+-3.248137	inbound	0.05186812
+-3.248137	indeed	0.05612963
+-3.123198	infinite	0.05116366
+-2.88016	into	0.07558643
+-3.026288	invasion	0.06600758
+-1.822168	is	0.1718117
+-2.0625	it	0.1185789
+-2.771016	its	0.04661242
+-3.248137	join	0.002390255
+-3.248137	judgement	0.05848048
+-3.248137	judicator	0.05186812
+-3.123198	just	-0.001890627
+-2.521138	kerrigan	0.1350539
+-3.248137	keystone	0.05753861
+-2.88016	khala	0.111344
+-2.611315	kill	0.05436124
+-2.947107	killed	0.04892263
+-3.248137	killing	0.05304588
+-3.026288	kind	0.05399078
+-2.947107	know	0.05577684
+-3.248137	known	0.052239
+-3.123198	koprulu	-0.003119647
+-3.123198	kraith	0.05618826
+-2.947107	last	0.06302956
+-3.424228	late	0.00636022
+-3.123198	lead	0.01004486
+-2.947107	leader	0.006557128
+-3.248137	leaders	0.05669267
+-3.123198	left	0.1128473
+-3.248137	legacy	0.05186812
+-2.771016	let	0.01797923
+-3.123198	lie	0.1126225
+-2.88016	lies	0.1104646
+-3.123198	life	0.05283903
+-2.947107	like	0.06670498
+-3.123198	little	0.05116366
+-3.248137	live	-0.0008295074
+-2.88016	locusts	0.05749907
+-2.947107	long	0.05060269
+-3.248137	longer	0.05146577
+-2.88016	lost	0.06081643
+-3.424228	low	0.05272896
+-3.026288	made	0.00410474
+-3.248137	maintain	-0.002096841
+-3.248137	make	0.02075478
+-3.026288	malash	0.118465
+-2.88016	many	0.05028244
+-3.248137	massing	-0.002096841
+-3.248137	massive	0.00127203
+-3.248137	master	-0.000911752
+-2.822168	may	0.01490059
+-2.446504	me	0.1442864
+-3.248137	means	-0.0005826789
+-3.424228	might	0.006526839
+-3.248137	mighty	-0.002635309
+-3.248137	minds	0.06074933
+-3.123198	moment	0.005245041
+-2.771016	more	0.06650372
+-3.026288	most	0.05844946
+-3.424228	mother	0.05309984
+-3.248137	moving	-0.00193311
+-2.947107	much	0.01007659
+-2.26286	must	0.02951957
+-2.09179	my	0.08509912
+-3.123198	near	0.07248767
+-2.947107	nearby	0.05336978
+-3.026288	need	0.07499668
+-3.026288	never	-0.003871812
+-2.88016	new	0.04691798
+-2.494809	no	0.1004015
+-3.248137	none	0.01033463
+-2.157056	not	0.09972268
+-3.248137	nothing	0.05186812
+-2.494809	now	0.1399115
+-3.248137	oblivion	0.05186812
+-1.725258	of	0.1158414
+-3.424228	old	-0.001563274
+-2.611315	on	0.1331675
+-3.248137	once	0.07334682
+-2.2781	one	0.1238536
+-2.683865	only	0.07894862
+-3.248137	opened	0.05735048
+-3.424228	or	0.0004040888
+-3.123198	order	0.004607987
+-3.026288	other	0.05198159
+-2.017688	our	0.005871534
+-2.947107	out	0.05881587
+-3.123198	overmind	0.05281143
+-3.248137	own	-0.001769318
+-2.494809	pack	0.06528975
+-2.88016	packs	-0.002152393
+-3.424228	part	0.006526839
+-3.123198	path	0.06235259
+-2.725258	people	0.06232972
+-3.248137	physical	-0.00234232
+-3.026288	place	0.08116122
+-3.123198	pool	0.05100898
+-2.611315	power	0.135313
+-3.123198	powerful	0.05178485
+-3.123198	preparing	0.00464024
+-3.248137	presence	0.05735048
+-2.05316	primal	0.08259574
+-2.822168	primals	0.01855735
+-3.424228	protect	0.002050392
+-3.248137	protecting	0.01706324
+-2.771016	protoss	0.06571909
+-3.248137	prowess	0.05186812
+-3.424228	psi	-0.001481478
+-3.123198	psionic	0.05079223
+-3.248137	pure	0.05186812
+-3.123198	purity	0.004806859
+-3.123198	purpose	0.05113282
+-2.725258	queen	0.1342078
+-3.248137	quickly	0.05186812
+-2.88016	quillgor	0.1103771
+-3.248137	race	0.00890229
+-3.248137	raynor	0.051373
+-3.123198	ready	0.009367988
+-3.248137	realm	0.05186812
+-3.424228	red	0.00320653
+-3.248137	reinforced	0.001810588
+-3.248137	remain	0.05165137
+-3.248137	remained	0.05186812
+-3.248137	remaining	-0.0009939822
+-3.123198	remains	0.05951122
+-3.248137	remnants	0.005665997
+-3.248137	required	0.05183704
+-3.248137	research	0.00127203
+-3.248137	retake	0.002224558
+-2.771016	return	0.09441352
+-3.248137	returned	0.06018101
+-3.248137	revenge	0.05186812
+-3.123198	right	0.01157167
+-3.424228	ring	0.006526839
+-3.424228	rock	0.003868564
+-3.248137	rocks	-0.002260509
+-3.123198	root	0.001531118
+-3.026288	ruin	0.1217443
+-3.248137	rule	0.05500573
+-3.248137	sacrifice	0.06018101
+-3.123198	sample	0.05042112
+-3.248137	savage	0.05186812
+-3.123198	sector	0.05799866
+-3.026288	see	0.06139965
+-2.947107	seek	0.01834912
+-3.248137	seems	0.00530025
+-3.248137	selendis	0.05211571
+-3.248137	self	0.05186812
+-3.123198	sense	0.0112514
+-3.248137	sensed	-0.002014983
+-3.123198	sent	0.001696877
+-3.424228	sequence	-8.858787e-05
+-3.123198	sequences	0.1128473
+-2.725258	shall	0.1189477
+-3.248137	shatter	0.004133913
+-2.947107	she	0.008989019
+-3.026288	should	0.05788077
+-3.248137	sleeps	0.05186812
+-2.771016	so	0.1132025
+-3.123198	some	0.05940177
+-3.248137	soon	-0.002389505
+-2.947107	spawn	0.01395643
+-3.248137	spawning	0.051373
+-3.248137	speak	0.009238886
+-2.771016	stand	0.1087615
+-3.123198	stars	0.05125656
+-3.248137	stasis	0.05688053
+-3.248137	steal	0.05341849
+-2.947107	still	0.111006
+-3.248137	stop	0.02649789
+-3.248137	strength	0.07334682
+-3.248137	strike	0.053139
+-2.771016	strong	0.1121151
+-3.248137	stronger	0.05155856
+-3.248137	submit	0.06018101
+-2.947107	survive	0.07077448
+-3.123198	survives	0.05153541
+-2.424228	swarm	0.1207652
+-3.026288	take	-0.0008148416
+-2.947107	taldarim	0.0571038
+-3.026288	taro	-0.004071336
+-3.026288	tassadar	0.1157509
+-2.822168	templar	0.1098467
+-3.123198	terran	0.05262461
+-3.248137	terrazine	0.052239
+-3.424228	test	-0.0001706465
+-2.947107	than	0.001372669
+-2.248137	that	0.09433804
+-3.248137	thats	0.052239
+-1.35419	the	-0.05182642
+-2.646077	their	0.04400808
+-2.611315	them	0.1124412
+-2.947107	there	0.05590814
+-2.771016	these	0.05481604
+-2.220108	they	0.03641245
+-3.424228	thing	-0.00131784
+-3.026288	think	0.05370867
+-2.112474	this	0.1083078
+-2.822168	those	0.05716725
+-3.248137	though	0.00596814
+-3.248137	thousand	0.052239
+-3.123198	thousands	0.01218455
+-2.822168	through	0.06917712
+-2.88016	time	0.05643962
+-1.734032	to	0.0390776
+-3.123198	today	0.00148655
+-3.123198	together	0.01029895
+-2.947107	too	-0.005763396
+-3.248137	traitor	0.05285968
+-3.248137	true	0.05192991
+-3.026288	truly	-0.001146365
+-3.424228	turn	0.01792408
+-3.248137	two	0.052239
+-3.026288	tyrannozor	0.04965642
+-3.248137	unacceptable	0.05186812
+-3.026288	under	-0.0006501456
+-3.123198	unity	0.1183434
+-3.248137	universe	0.05753861
+-3.248137	up	0.051373
+-2.88016	upon	0.02768737
+-2.469985	us	0.0499418
+-3.026288	use	0.1125164
+-3.248137	useful	-0.0002102056
+-3.248137	veil	0.06037036
+-3.248137	very	0.05192991
+-3.248137	voice	0.1137065
+-3.026288	void	0.04956367
+-3.248137	vulnerable	0.05186812
+-3.123198	wake	0.07248767
+-3.424228	war	0.05309984
+-3.248137	warning	0.05258054
+-3.248137	warrior	0.05118752
+-3.248137	warriors	0.00305368
+-2.822168	was	0.07100193
+-2.88016	way	0.1196042
+-1.947107	we	0.04057512
+-3.248137	weapon	0.05650491
+-2.947107	well	0.04910898
+-2.646077	were	0.07078847
+-2.469985	what	0.08344077
+-2.947107	when	0.02069919
+-3.248137	while	0.00118955
+-2.88016	who	0.05612235
+-3.248137	whole	0.06037036
+-3.248137	whom	0.052239
+-1.905714	will	0.09851115
+-2.521138	with	0.03311217
+-2.947107	within	0.08083846
+-3.248137	without	0.01679645
+-3.248137	witnessed	0.02075478
+-3.248137	won	0.05146577
+-2.947107	world	0.06073492
+-3.248137	worlds	0.05128025
+-3.248137	would	0.007474654
+-2.771016	xelnaga	0.1099561
+-3.123198	yagdra	0.003441201
+-3.026288	yagdras	-0.003249276
+-3.248137	years	0.05500573
+-3.248137	yes	0.05500573
+-3.026288	yet	-0.001229206
+-1.649711	you	0.1260454
+-2.000982	your	0.007091757
+-2.947107	yours	0.04920219
+-3.248137	yourself	0.05285968
+-3.123198	youve	-0.003542282
+-3.248137	zealots	0.001810588
+-2.88016	zeratul	0.1110126
+-2.000982	zerg	0.1126559
+-2.725258	zerus	0.1256447
+
+\2-grams:
+-1.239396	<s> UNK	0.1000831
+-2.207211	<s> a	-0.0002754678
+-2.751279	<s> able
+-2.751279	<s> aiur
+-2.751279	<s> alarak
+-2.207211	<s> all
+-2.751279	<s> alone
+-2.751279	<s> am
+-2.149219	<s> amon	0.00251731
+-2.751279	<s> amons
+-2.751279	<s> an
+-2.098067	<s> and
+-2.751279	<s> another
+-2.751279	<s> are
+-2.575188	<s> arise
+-2.450249	<s> artanis	0.002496995
+-2.353339	<s> as
+-2.751279	<s> at
+-2.751279	<s> behold
+-2.450249	<s> believe	-2.714037e-05
+-2.751279	<s> birthplace
+-2.575188	<s> both	-1.532654e-05
+-2.751279	<s> brakk
+-2.575188	<s> brakks	0.002572334
+-2.575188	<s> breaks
+-2.751279	<s> bring
+-2.751279	<s> broodmother
+-2.274158	<s> but	-6.919005e-05
+-2.450249	<s> can	-7.938663e-05
+-2.751279	<s> char
+-2.751279	<s> clearly
+-2.575188	<s> collect	-5.129958e-06
+-2.751279	<s> consume
+-2.575188	<s> dark
+-2.751279	<s> death
+-2.450249	<s> defend	-1.019659e-05
+-2.575188	<s> destroy
+-2.751279	<s> did
+-2.149219	<s> do	0.002426947
+-2.751279	<s> each
+-2.751279	<s> embrace
+-2.353339	<s> en	0
+-2.751279	<s> enemy
+-2.751279	<s> enough
+-2.450249	<s> essence	-0.0001079126
+-2.751279	<s> even
+-2.575188	<s> extreme	0
+-2.575188	<s> fenix
+-2.575188	<s> fight
+-2.098067	<s> for	0.004854699
+-2.751279	<s> free
+-2.575188	<s> from
+-2.751279	<s> genetic
+-2.575188	<s> go
+-2.751279	<s> harvest
+-2.575188	<s> have
+-2.274158	<s> he	0.002497307
+-2.575188	<s> hear	0.0008455152
+-2.751279	<s> her
+-2.450249	<s> here	0.001662805
+-2.575188	<s> how	-5.129958e-06
+-1.389551	<s> i	0.01036092
+-2.274158	<s> if	0.001681319
+-2.751279	<s> important
+-2.575188	<s> in
+-2.751279	<s> indeed
+-2.353339	<s> is	0.0004177229
+-1.690581	<s> it	0.002518734
+-2.450249	<s> its
+-2.450249	<s> just	0
+-2.450249	<s> kerrigan	0.007596712
+-2.274158	<s> kill	-3.506639e-05
+-2.450249	<s> kraith
+-2.751279	<s> last
+-2.751279	<s> leader
+-2.450249	<s> let
+-2.751279	<s> lies
+-2.575188	<s> maintain	0
+-2.751279	<s> make
+-2.575188	<s> malash
+-2.751279	<s> more
+-2.751279	<s> most
+-2.575188	<s> must
+-1.906181	<s> my	0.01098503
+-2.450249	<s> new	-1.526647e-05
+-2.052309	<s> no	0.002443745
+-2.575188	<s> not
+-2.450249	<s> now	-6.48757e-05
+-2.751279	<s> of
+-2.450249	<s> one	0.001534036
+-2.575188	<s> only
+-2.207211	<s> our	0.006849122
+-2.751279	<s> power
+-1.906181	<s> primal	0.01830541
+-2.751279	<s> purity
+-2.575188	<s> quillgor
+-2.575188	<s> ready
+-2.450249	<s> root	0
+-2.575188	<s> savage	0
+-2.751279	<s> selendis
+-2.751279	<s> sequences
+-2.353339	<s> she
+-2.751279	<s> some
+-2.751279	<s> soon
+-2.353339	<s> spawn	-1.023756e-05
+-2.751279	<s> speak
+-2.751279	<s> strike
+-2.751279	<s> strong
+-2.751279	<s> stronger
+-2.575188	<s> submit
+-2.575188	<s> swarm
+-2.751279	<s> take
+-2.751279	<s> taldarim
+-2.575188	<s> templar
+-2.575188	<s> that
+-2.751279	<s> thats
+-1.296434	<s> the	0.0357348
+-2.751279	<s> there
+-2.353339	<s> these
+-1.773556	<s> they	0.003904263
+-1.973128	<s> this	0.004494168
+-2.575188	<s> those
+-2.751279	<s> through
+-2.751279	<s> time
+-2.575188	<s> to
+-2.575188	<s> today	0.0008591379
+-2.751279	<s> together
+-2.751279	<s> truly
+-2.353339	<s> tyrannozor	0
+-2.751279	<s> unacceptable
+-2.751279	<s> use
+-2.751279	<s> void
+-2.575188	<s> warning
+-1.73009	<s> we	0.008657937
+-2.751279	<s> well
+-2.098067	<s> what	0.002483036
+-2.751279	<s> when
+-2.274158	<s> will	-0.0002724475
+-2.450249	<s> with	0.001629864
+-2.751279	<s> within
+-2.575188	<s> without
+-2.751279	<s> xelnaga
+-2.450249	<s> yagdra	0
+-2.450249	<s> yagdras	-5.108304e-06
+-2.575188	<s> yes
+-2.450249	<s> yet
+-1.418841	<s> you	0.01257467
+-2.010916	<s> your	0.01724192
+-2.751279	<s> youve
+-2.450249	<s> zeratul	0.0008438721
+-2.751279	<s> zerus
+-0.8663257	UNK </s>
+-1.196514	UNK UNK	0.1236862
+-2.099604	UNK a	0.01582468
+-2.752816	UNK acid
+-2.752816	UNK again
+-2.752816	UNK against
+-2.752816	UNK age
+-2.576725	UNK alarak	0.001716581
+-2.576725	UNK all
+-2.752816	UNK already
+-2.752816	UNK altered
+-2.576725	UNK amon
+-2.752816	UNK amons
+-2.451787	UNK an	0.002531785
+-1.752816	UNK and	0.001725934
+-2.576725	UNK another
+-2.752816	UNK apart
+-2.354877	UNK are
+-2.752816	UNK around
+-2.752816	UNK artanis
+-2.451787	UNK as
+-2.752816	UNK assault
+-2.150756	UNK at	-3.479281e-05
+-2.752816	UNK attack
+-2.752816	UNK authority
+-2.576725	UNK back
+-2.752816	UNK be
+-2.576725	UNK between	0
+-2.752816	UNK beyond
+-2.752816	UNK broke
+-2.752816	UNK broken
+-2.354877	UNK but
+-2.451787	UNK by
+-2.752816	UNK cannot
+-2.752816	UNK clean
+-2.752816	UNK creation
+-2.752816	UNK day
+-2.752816	UNK defeat
+-2.752816	UNK did
+-2.451787	UNK different
+-2.752816	UNK done
+-2.752816	UNK each
+-2.752816	UNK essence
+-2.752816	UNK eternity
+-2.752816	UNK even
+-2.752816	UNK far
+-2.576725	UNK fate
+-2.752816	UNK fenix
+-2.752816	UNK first
+-2.354877	UNK for
+-2.576725	UNK form
+-2.012454	UNK from	0.002337313
+-2.752816	UNK further
+-2.752816	UNK genetic
+-2.752816	UNK greatest
+-2.752816	UNK guardians
+-2.752816	UNK guide
+-2.752816	UNK hatred
+-2.752816	UNK have
+-2.752816	UNK he
+-2.752816	UNK hear
+-2.576725	UNK her
+-2.752816	UNK here
+-2.752816	UNK him
+-2.752816	UNK his
+-2.752816	UNK homeworld
+-2.752816	UNK hope
+-2.752816	UNK hybrid
+-2.354877	UNK i	0.006663235
+-2.099604	UNK in	0.007222725
+-2.451787	UNK into
+-2.752816	UNK invasion
+-2.012454	UNK is	0.006997145
+-2.752816	UNK it
+-2.576725	UNK its
+-2.752816	UNK judicator
+-2.576725	UNK kerrigan	0.007591582
+-2.752816	UNK known
+-2.752816	UNK leader
+-2.752816	UNK left
+-2.752816	UNK life
+-2.576725	UNK like
+-2.752816	UNK locusts
+-2.576725	UNK long
+-2.752816	UNK master
+-2.354877	UNK me
+-2.752816	UNK means
+-2.576725	UNK more
+-2.752816	UNK much
+-2.576725	UNK must	0.0006962449
+-2.451787	UNK my
+-2.752816	UNK nearby
+-2.752816	UNK need
+-2.752816	UNK new
+-2.752816	UNK no
+-2.752816	UNK none
+-2.451787	UNK now	-6.48757e-05
+-1.576725	UNK of	0.0185299
+-2.275695	UNK on	0.001639274
+-2.451787	UNK one
+-2.451787	UNK only
+-2.752816	UNK order
+-2.275695	UNK our
+-2.752816	UNK out
+-2.752816	UNK people
+-2.752816	UNK place
+-2.752816	UNK power
+-2.576725	UNK primal
+-2.576725	UNK protoss
+-2.752816	UNK psionic
+-2.752816	UNK purpose
+-2.752816	UNK quickly
+-2.576725	UNK raynor
+-2.752816	UNK realm
+-2.752816	UNK red
+-2.752816	UNK remains
+-2.752816	UNK sacrifice
+-2.576725	UNK shall
+-2.752816	UNK should
+-2.354877	UNK so	-2.023531e-05
+-2.451787	UNK still
+-2.752816	UNK strength
+-2.752816	UNK strike
+-2.752816	UNK strong
+-2.752816	UNK survive
+-2.576725	UNK tassadar
+-2.099604	UNK that
+-2.752816	UNK thats
+-1.711424	UNK the	0.02089351
+-2.752816	UNK their
+-2.451787	UNK them	0.003360985
+-2.752816	UNK these
+-2.752816	UNK they
+-2.150756	UNK this
+-2.752816	UNK those
+-2.752816	UNK thousands
+-2.451787	UNK through	0.002557108
+-2.752816	UNK time
+-1.673635	UNK to	0.01795443
+-2.752816	UNK up
+-2.451787	UNK upon
+-2.576725	UNK us
+-2.752816	UNK very
+-2.752816	UNK vulnerable
+-2.752816	UNK way
+-2.451787	UNK we
+-2.752816	UNK well
+-2.576725	UNK what
+-2.576725	UNK when
+-2.752816	UNK who
+-2.451787	UNK will
+-2.053846	UNK with	0.001633394
+-2.752816	UNK world
+-2.752816	UNK worlds
+-1.823398	UNK you	0.006157265
+-2.099604	UNK your	0.01492808
+-2.752816	UNK yourself
+-2.752816	UNK youve
+-2.752816	UNK zeratul
+-1.357935	a UNK	0.09964909
+-2.454845	a battle
+-2.454845	a belief
+-2.454845	a betrayal
+-2.454845	a broodmother
+-2.454845	a challenge
+-2.454845	a cycle
+-2.278754	a drone
+-2.454845	a fate
+-2.454845	a foe
+-2.153815	a force	0
+-2.153815	a great	0.002557108
+-2.454845	a greater
+-2.454845	a judicator
+-2.278754	a lie
+-2.278754	a massive	0
+-2.454845	a mighty
+-2.454845	a new
+-2.278754	a powerful
+-2.454845	a primal
+-2.278754	a purity	0.0008591379
+-2.454845	a rock
+-2.454845	a strong
+-2.454845	a terran
+-2.278754	a thousand	0
+-2.454845	a traitor
+-2.454845	a very
+-2.454845	a warrior
+-2.153815	a way	-1.526647e-05
+-2.278754	a weapon
+-2.454845	a xelnaga
+-2.22617	ability to
+-2.401401	able to
+-2.402261	about one
+-2.402261	about the
+-2.401401	accept their
+-2.402261	acid </s>
+-2.402261	acid UNK
+-2.22617	acquire </s>
+-2.22617	acquired </s>
+-2.227029	across basin	0
+-2.403121	across the
+-2.402261	act for
+-2.402261	act i
+-2.402261	adun </s>
+-2.402261	adun UNK
+-2.227029	again </s>
+-2.403121	again kerrigan
+-2.230449	against him	0.001699583
+-2.230449	against the
+-2.230449	against us	0.004145722
+-2.40654	against your
+-2.401401	age </s>
+-2.22617	ahead </s>
+-2.403121	aid in
+-2.403121	aid malash
+-2.403121	aid me
+-2.102948	aiur </s>
+-2.403978	aiur shall
+-2.006038	alarak </s>
+-2.417472	all </s>
+-2.417472	all UNK
+-2.417472	all and
+-2.417472	all before
+-2.417472	all feel
+-2.417472	all i
+-2.417472	all in
+-2.116442	all of
+-2.417472	all our
+-2.417472	all primal
+-2.417472	all protoss
+-2.417472	all shall
+-2.24138	all that
+-2.417472	all these
+-2.417472	all warriors
+-2.417472	all zerg
+-2.417472	all zerus
+-2.402261	alone </s>
+-2.402261	alone it
+-2.404834	already UNK
+-2.404834	already being
+-2.404834	already lost
+-2.228742	already won
+-2.227887	altered UNK
+-2.227887	altered them	0.003355855
+-2.108057	am UNK	0.006724134
+-2.232996	am a
+-2.232996	am everything	-5.129958e-06
+-2.409087	am i
+-2.409087	am templar
+-2.409087	am the
+-1.934498	amon </s>
+-2.235528	amon UNK
+-2.41162	amon betrayed
+-2.41162	amon consume
+-2.235528	amon has
+-2.41162	amon is
+-2.41162	amon the
+-2.402261	amons betrayal
+-2.402261	amons fury
+-1.864172	an UNK	0.0259733
+-2.40824	an act
+-2.232149	an end	-2.039643e-05
+-2.409933	ancient </s>
+-2.233842	ancient UNK
+-2.409933	ancient even
+-1.865865	ancient one	0.001455571
+-2.409933	ancient place
+-1.748963	and UNK	0.0609554
+-2.447933	and a
+-2.447933	and accept
+-2.447933	and all
+-2.447933	and any
+-2.447933	and assimilate
+-2.271842	and became
+-2.447933	and become
+-2.447933	and consumed
+-2.271842	and crawlers	0
+-2.447933	and evolve
+-2.447933	and for
+-2.146903	and here	0.001662805
+-2.447933	and hold
+-2.447933	and if
+-2.447933	and in
+-2.447933	and join
+-2.447933	and made
+-2.447933	and may
+-2.447933	and mighty
+-2.447933	and no
+-2.447933	and now
+-2.447933	and one
+-2.447933	and our
+-2.447933	and selendis
+-2.447933	and self
+-2.447933	and so
+-2.271842	and that
+-2.271842	and the
+-2.447933	and their
+-2.447933	and there
+-2.447933	and they
+-2.447933	and those
+-2.447933	and though
+-2.146903	and we
+-2.447933	and what
+-2.447933	and when
+-2.447933	and with
+-2.447933	and yet
+-2.146903	and you	0.00660549
+-2.405688	another UNK
+-2.405688	another and
+-2.229597	another pack	-7.000566e-05
+-2.405688	another primal
+-2.405688	another the
+-2.403978	any </s>
+-2.227887	any UNK
+-2.403978	any who
+-2.22617	apart </s>
+-2.402261	appears he
+-2.402261	appears we
+-1.60438	are UNK	0.06751207
+-2.449478	are a
+-2.449478	are already
+-2.273387	are attacking
+-2.449478	are both
+-2.449478	are but
+-2.449478	are close
+-2.449478	are coming
+-2.273387	are constantly
+-2.148448	are destroying	0
+-2.449478	are done
+-2.449478	are ever
+-2.449478	are everything
+-2.449478	are free
+-2.449478	are gathering
+-2.449478	are killed
+-2.449478	are killing
+-2.449478	are lies
+-2.449478	are lost
+-2.273387	are massing	0
+-2.273387	are moving	0
+-2.449478	are no
+-2.148448	are not
+-2.273387	are on
+-2.449478	are one
+-2.449478	are only
+-2.449478	are ready
+-2.273387	are right
+-2.449478	are so
+-2.051538	are the
+-2.449478	are those
+-2.449478	are under
+-2.449478	are you
+-2.273387	are zerg	0.01497811
+-2.402261	arise kerrigan
+-2.402261	arise my
+-2.227029	around artanis
+-2.403121	around them
+-1.934498	artanis </s>
+-2.41162	artanis UNK
+-2.41162	artanis and
+-2.41162	artanis before
+-2.41162	artanis he
+-2.41162	artanis hierarch
+-2.41162	artanis i
+-2.41162	artanis like
+-2.41162	artanis up
+-2.415808	as any
+-2.415808	as do
+-2.415808	as he
+-2.415808	as highlord
+-2.415808	as is
+-2.415808	as never
+-2.114778	as one
+-2.415808	as warriors
+-2.239717	as well
+-2.415808	as when
+-2.415808	as xelnaga
+-2.114778	as you	0.008036445
+-2.415808	as your
+-2.402261	assault </s>
+-2.402261	assault the
+-2.402261	assimilate UNK
+-2.402261	assimilate us
+-2.236369	at UNK
+-2.236369	at across	-5.129958e-06
+-2.412461	at artanis
+-2.412461	at great
+-2.412461	at hand
+-2.412461	at long
+-2.412461	at my
+-2.412461	at once
+-2.236369	at our	0.008548706
+-2.236369	at the	0.0241466
+-2.108903	attack </s>
+-2.409933	attack again
+-2.409933	attack by
+-2.108903	attack our	-0.000220089
+-2.233842	attack the	0.005141259
+-2.409933	attack us
+-2.402261	attacking quillgor
+-2.402261	attacking the
+-2.22617	attacks </s>
+-2.22617	authority and
+-2.227029	awaken </s>
+-2.403121	awaken this
+-2.403121	back </s>
+-2.403121	back into
+-2.403121	back to
+-2.22617	barricades </s>
+-2.22617	basin </s>
+-2.403121	battle ahead
+-2.403121	battle is
+-2.403121	battle to
+-2.421604	be </s>
+-1.722634	be UNK	0.06010133
+-2.245513	be a
+-2.421604	be broken
+-2.421604	be destroyed
+-2.421604	be hierarch
+-2.421604	be in
+-2.421604	be killed
+-2.421604	be known
+-2.421604	be made
+-2.421604	be more
+-2.245513	be the
+-2.421604	be vulnerable
+-2.421604	be your
+-2.421604	be yours
+-2.403121	became UNK
+-2.403121	became his
+-2.403121	became stronger
+-2.403978	become </s>
+-2.403978	become hybrid
+-2.403978	become primal
+-2.403978	become pure
+-2.0103	been UNK
+-2.40824	been consumed
+-2.40824	been reinforced
+-2.40824	been through
+-2.232149	been to	0.005448294
+-2.403121	before </s>
+-2.403121	before they
+-2.403121	before this
+-2.401401	begin spawning
+-2.102091	beginning </s>
+-2.402261	behold is
+-2.402261	behold zerus
+-2.402261	being UNK
+-2.402261	being reinforced
+-2.403121	belief in
+-2.403121	belief is
+-2.403121	belief that
+-2.10551	believe </s>
+-2.40654	believe is
+-2.230449	believe me
+-2.40654	believe that
+-2.402261	beloved UNK
+-2.402261	beloved world
+-2.402261	betrayal </s>
+-2.402261	betrayal most
+-2.402261	betrayed my
+-2.402261	betrayed us
+-2.22617	between our
+-2.403121	beyond UNK
+-2.403121	beyond koprulu
+-2.403121	beyond the
+-2.106361	biomass </s>
+-2.407391	biomass UNK
+-2.407391	biomass are
+-2.407391	biomass from
+-2.407391	biomass has
+-2.407391	biomass is
+-2.22617	birthplace of	0.01734098
+-2.402261	blade as
+-2.402261	blade will
+-2.006894	blades </s>
+-2.404834	blades kerrigan
+-2.402261	body all
+-2.402261	body is
+-2.404834	both UNK
+-2.228742	both packs	0.0008387421
+-2.404834	both protoss
+-2.404834	both to
+-2.402261	bound by
+-2.402261	bound the
+-2.403121	brakk UNK
+-2.227029	brakk but	-8.451659e-05
+-1.927712	brakks forces	-3.506639e-05
+-2.402261	break </s>
+-2.402261	break your
+-2.402261	breaks free
+-2.402261	breaks out
+-2.404834	bring UNK
+-2.404834	bring an
+-2.404834	bring it
+-2.404834	bring our
+-2.404834	bring unity
+-2.401401	broke his
+-2.409087	broken </s>
+-2.409087	broken amon
+-2.108057	broken pack	0.0007574386
+-2.232996	broken through	0.002551978
+-2.108057	broken zerg	-0.0002286255
+-2.403121	brood </s>
+-2.403121	brood is
+-2.403121	brood to
+-2.402261	broodmother </s>
+-2.402261	broodmother UNK
+-2.403121	brought from
+-2.227029	brought ruin	-1.023826e-05
+-2.416641	but UNK
+-2.416641	but a
+-2.416641	but clean
+-2.416641	but far
+-2.416641	but forge
+-2.240549	but his	-4.544272e-05
+-2.416641	but id
+-2.416641	but is
+-2.240549	but it
+-2.416641	but none
+-2.416641	but the
+-2.240549	but they	0.007283092
+-2.416641	but to
+-2.416641	but we
+-2.240549	but you
+-2.409087	by UNK
+-2.409087	by a
+-2.409087	by another
+-2.409087	by brakks
+-2.409087	by hatred
+-2.409087	by order
+-2.409087	by our
+-2.232996	by that	-0.0001317004
+-2.409087	by the
+-2.403978	called him
+-2.403978	called kerrigan
+-2.403978	called to
+-2.403978	called you
+-2.227029	came from
+-2.403121	came to
+-1.939519	can UNK
+-2.416641	can defeat
+-2.416641	can destroy
+-2.416641	can guide
+-2.416641	can harvest
+-2.416641	can hear
+-2.416641	can return
+-2.416641	can stand
+-2.416641	can steal
+-2.416641	can stop
+-2.240549	can this	-0.0001815911
+-2.240549	can use	-1.023826e-05
+-2.416641	can we
+-2.402261	cannot be
+-2.402261	cannot hope
+-2.22617	cerebrate </s>
+-2.402261	challenge for
+-2.402261	challenge my
+-2.227887	char </s>
+-2.403978	char is
+-2.403978	char to
+-1.711807	chrysalis </s>
+-2.410777	chrysalis UNK
+-2.410777	chrysalis has
+-2.410777	chrysalis is
+-2.402261	civilization </s>
+-2.402261	civilization are
+-2.227029	claim essence	-0.0001130425
+-2.403121	claim their
+-2.22617	clean </s>
+-2.401401	clear </s>
+-2.402261	clearly altered
+-2.402261	clearly evolved
+-2.403121	close </s>
+-2.403121	close he
+-2.403121	close to
+-2.007748	cluster </s>
+-2.229597	cluster from	-0.0001130425
+-2.403121	collect </s>
+-2.227029	collect their	0.0008052811
+-2.402261	collects </s>
+-2.402261	collects quickly
+-2.409087	come </s>
+-1.755875	come to	0.01098507
+-2.409087	come with
+-2.403121	comes at
+-2.403121	comes for
+-2.403121	comes too
+-2.227887	coming UNK	0.06091992
+-2.227887	coming for
+-2.227887	command </s>
+-2.403978	command hierarch
+-2.403978	command the
+-2.403121	conclave </s>
+-2.403121	conclave has
+-2.403121	conclave to
+-2.402261	constantly been
+-2.402261	constantly being
+-2.403978	consume and
+-2.227887	consume you	0.007315247
+-2.403978	consume your
+-2.402261	consumed </s>
+-2.402261	consumed by
+-2.401401	corrupt cycle
+-2.402261	corrupted on
+-2.402261	corrupted the
+-2.403121	could </s>
+-2.403121	could come
+-2.403121	could not
+-2.402261	course </s>
+-2.402261	course i
+-2.22617	crawlers by	-4.047295e-05
+-2.402261	created by
+-2.402261	created here
+-2.103804	creation UNK	0.001271039
+-2.404834	creation i
+-2.404834	creation of
+-2.402261	creature is
+-2.402261	creature we
+-2.007748	cycle </s>
+-2.405688	cycle an
+-2.405688	cycle must
+-2.402261	damned those
+-2.402261	damned yourself
+-2.230449	dark UNK
+-2.0086	dark one	-0.0002256525
+-2.40654	dark templar
+-2.402261	day </s>
+-2.402261	day shall
+-2.227887	death fleet
+-2.403978	death is
+-2.403978	death may
+-2.403121	defeat </s>
+-2.403121	defeat of
+-2.403121	defeat the
+-2.404834	defend </s>
+-2.228742	defend hive	0.003426404
+-2.228742	defend the	0.005141259
+-2.22617	defense </s>
+-2.229597	destiny </s>
+-2.405688	destiny UNK
+-2.229597	destiny of	0.0003076459
+-2.405688	destiny you
+-2.405688	destroy a
+-2.229597	destroy all
+-2.229597	destroy primal
+-2.405688	destroy the
+-2.402261	destroyed </s>
+-2.402261	destroyed quillgor
+-2.403121	destroying quillgor
+-2.227029	destroying the	-0.0008162337
+-2.22617	devour </s>
+-2.402261	did we
+-2.402261	did you
+-2.403121	different </s>
+-2.403121	different at
+-2.403121	different than
+-2.238046	do </s>
+-2.414137	do UNK
+-2.414137	do i
+-2.414137	do kerrigan
+-1.812077	do not	0.002952653
+-2.113107	do you
+-2.414137	do your
+-2.403121	done cerebrate
+-2.403121	done here
+-2.403121	done on
+-2.22617	doom </s>
+-2.402261	draws artanis
+-2.402261	draws near
+-2.403121	drone can
+-2.403121	drone is
+-2.403121	drone will
+-2.404834	each has
+-2.006894	each other	0
+-2.402261	embrace </s>
+-2.402261	embrace the
+-2.006038	en taro	0
+-2.405688	end </s>
+-2.405688	end of
+-2.405688	end that
+-2.405688	end the
+-2.229597	end to	0.005448294
+-2.006038	enemies </s>
+-2.403121	enemy </s>
+-2.403121	enemy of
+-2.403121	enemy primals
+-2.402261	energy UNK
+-2.402261	energy as
+-2.22617	engaged each	0.001708067
+-2.228742	enough </s>
+-2.404834	enough the
+-2.404834	enough to
+-2.404834	enough within
+-2.22617	entrance </s>
+-1.608691	essence </s>
+-2.120574	essence UNK
+-2.421604	essence a
+-2.421604	essence collects
+-2.421604	essence for
+-2.421604	essence gathering
+-2.421604	essence of
+-2.421604	essence pool
+-2.245513	essence useful	0
+-2.245513	essence we	-0.0002631531
+-2.22617	essences further	0.0008523131
+-2.402261	eternal mother
+-2.402261	eternal swarm
+-2.402261	eternity </s>
+-2.402261	eternity UNK
+-2.403121	even than
+-2.403121	even yours
+-2.403121	even zerg
+-2.401401	ever truly
+-2.403121	everything that
+-2.227029	everything you
+-2.102091	evolve </s>
+-2.403121	evolved a
+-2.227029	evolved and	0.0005200051
+-2.22617	extreme physical	0
+-2.22617	factions have	-0.0001771406
+-2.402261	fail </s>
+-2.402261	fail here
+-2.404834	far UNK
+-2.228742	far beyond
+-2.228742	far too
+-2.40654	fate </s>
+-2.40654	fate UNK
+-2.40654	fate for
+-2.40654	fate has
+-2.230449	fate of
+-2.40654	fate we
+-2.102091	feast upon	-2.039573e-05
+-2.402261	feed it
+-2.402261	feed my
+-2.403978	feel his
+-2.403978	feel it
+-2.227887	feel the
+-2.403121	fenix </s>
+-2.403121	fenix UNK
+-2.403121	fenix his
+-2.40654	fight </s>
+-2.40654	fight ahead
+-2.40654	fight artanis
+-2.40654	fight for
+-2.40654	fight kerrigan
+-2.40654	fight they
+-2.40654	fight yagdras
+-2.403121	final UNK
+-2.403121	final hour
+-2.403121	final war
+-2.403121	find a
+-2.403121	find me
+-2.403121	find them
+-2.405688	first </s>
+-2.405688	first creation
+-2.405688	first in
+-2.405688	first spawning
+-2.405688	first time
+-2.405688	first zerg
+-2.402261	fleet UNK
+-2.402261	fleet is
+-2.22617	flesh </s>
+-2.403121	fliers is
+-2.227029	fliers to	0.003241882
+-2.402261	foe that
+-2.402261	foe your
+-2.402261	followed the
+-2.402261	followed you
+-2.402261	fools </s>
+-2.402261	fools to
+-2.421604	for UNK
+-2.245513	for a
+-2.421604	for aiur
+-2.421604	for he
+-2.421604	for him
+-2.421604	for i
+-2.245513	for now	-7.000566e-05
+-2.421604	for that
+-1.768391	for the
+-2.421604	for there
+-2.421604	for this
+-2.421604	for thousands
+-2.421604	for today
+-2.245513	for you	0.007315247
+-2.421604	for your
+-2.102091	force of	0.001632727
+-2.234686	forces </s>
+-2.234686	forces UNK	0.06091992
+-2.410777	forces and
+-2.012837	forces are
+-2.234686	forces gather	-5.129958e-06
+-2.410777	forces has
+-2.22617	forge a
+-2.402261	forged </s>
+-2.402261	forged the
+-2.22617	forgotten you	-0.0004845366
+-2.229597	form </s>
+-2.405688	form can
+-2.405688	form of
+-2.405688	form powerful
+-2.405688	form we
+-2.227887	free </s>
+-2.403978	free me
+-2.403978	free of
+-2.401401	friend you
+-2.120574	from UNK	0.02595803
+-2.245513	from his	0.004224941
+-2.421604	from my
+-2.245513	from primal	-0.0002079601
+-2.421604	from stasis
+-2.421604	from swarm
+-1.877536	from the
+-2.421604	from these
+-2.120574	from this
+-2.421604	from us
+-2.421604	from within
+-2.245513	from your	0.0166108
+-2.421604	from zerus
+-2.402261	fulfill their
+-2.402261	fulfill your
+-2.102948	further </s>
+-2.403978	further UNK
+-2.402261	fury of
+-2.402261	fury will
+-2.403121	gather essence
+-2.227029	gather nearby	0.001708067
+-2.403978	gathering </s>
+-2.227887	gathering at	-6.023771e-05
+-2.403978	gathering within
+-2.22617	genetic UNK
+-2.401401	get around
+-2.22617	glory of
+-2.228742	go UNK
+-2.228742	go to
+-2.404834	go with
+-2.403121	good </s>
+-2.403121	good sequence
+-2.403121	good though
+-1.929419	great UNK	0.0600744
+-2.40654	great and
+-2.40654	great templar
+-2.403121	greater UNK
+-2.403121	greater good
+-2.403121	greater whole
+-2.402261	greatest UNK
+-2.402261	greatest in
+-2.402261	guardians </s>
+-2.402261	guardians UNK
+-2.402261	guide us
+-2.402261	guide you
+-2.402261	had </s>
+-2.402261	had UNK
+-2.401401	hand </s>
+-2.22617	hands </s>
+-2.403121	harvest UNK
+-2.403121	harvest biomass
+-2.403121	harvest from
+-1.877536	has UNK	0.06094031
+-2.421604	has already
+-2.245513	has been
+-2.421604	has betrayed
+-2.245513	has broken	-4.047295e-05
+-2.421604	has come
+-2.421604	has corrupted
+-2.421604	has destroyed
+-2.421604	has lost
+-2.421604	has not
+-2.245513	has opened
+-2.421604	has returned
+-2.120574	has sent	0
+-2.421604	has strong
+-2.421604	has witnessed
+-2.227029	hatred </s>
+-2.403121	hatred of
+-1.654818	have UNK	0.005130505
+-2.432969	have a
+-2.432969	have any
+-1.888901	have been	0.0008253613
+-2.432969	have clearly
+-2.131939	have come	0.004240029
+-2.432969	have damned
+-2.256878	have engaged	0
+-2.432969	have followed
+-2.256878	have killed	-1.532654e-05
+-2.432969	have lost
+-2.432969	have made
+-2.432969	have much
+-2.256878	have not	-0.0001636858
+-2.432969	have our
+-2.256878	have you
+-2.256878	have your	-0.0002337554
+-1.935339	he UNK
+-2.412461	he bound
+-2.412461	he forged
+-2.412461	he has
+-2.412461	he must
+-2.412461	he truly
+-2.111431	he was
+-2.412461	he will
+-2.404834	hear him
+-2.404834	hear his
+-2.103804	hear me
+-2.407391	her </s>
+-2.2313	her brood
+-2.2313	her life	-5.129958e-06
+-2.407391	her live
+-2.407391	her nothing
+-2.407391	her than
+-2.108903	here </s>
+-2.233842	here i
+-2.409933	here it
+-2.011993	here the	0.006172809
+-2.409933	here you
+-2.228742	hierarch </s>
+-2.404834	hierarch of
+-2.404834	hierarch survives
+-2.404834	hierarch we
+-2.402261	highlord and
+-2.402261	highlord lies
+-2.007748	him </s>
+-2.405688	him if
+-2.405688	him out
+-1.807873	his UNK	0.05922878
+-2.409933	his ancient
+-2.233842	his packs	-2.039643e-05
+-2.409933	his psi
+-1.86162	hive cluster	0
+-2.403978	hold UNK
+-2.227887	hold her	-3.047357e-05
+-2.403978	hold their
+-2.403121	homeworld </s>
+-2.403121	homeworld and
+-2.403121	homeworld of
+-2.404834	hope it
+-2.404834	hope our
+-2.404834	hope remains
+-2.404834	hope to
+-2.404834	hope was
+-2.402261	hopes go
+-2.402261	hopes that
+-2.401401	host body
+-2.403978	hosts UNK
+-2.227887	hosts and	-0.0002589987
+-2.403978	hosts to
+-2.402261	hour </s>
+-2.402261	hour of
+-2.227029	how can	-8.451659e-05
+-2.403121	how you
+-2.403978	hybrid </s>
+-2.403978	hybrid is
+-2.403978	hybrid on
+-2.403978	hybrid our
+-2.153815	i </s>
+-2.056905	i UNK
+-2.454845	i act
+-1.755875	i am	-1.686532e-05
+-2.454845	i behold
+-2.278754	i bring
+-2.454845	i called
+-2.153815	i can
+-2.454845	i claim
+-2.454845	i come
+-2.278754	i do
+-2.454845	i feel
+-2.454845	i had
+-1.676694	i have	0.006002828
+-2.454845	i hope
+-2.454845	i kill
+-2.454845	i killed
+-2.454845	i live
+-2.454845	i made
+-2.454845	i return
+-2.454845	i returned
+-2.454845	i see
+-2.278754	i sense	-5.129958e-06
+-2.278754	i sensed	0
+-2.454845	i take
+-2.454845	i to
+-1.641932	i will	0.005036491
+-2.401401	id like
+-2.409087	if our
+-2.409087	if the
+-2.409087	if they
+-2.409087	if we
+-2.011147	if you	-0.0004742984
+-2.232996	if your
+-2.401401	im coming
+-2.402261	important UNK
+-2.402261	important must
+-1.770852	in UNK	0.06009464
+-2.123034	in a	0.01689582
+-2.424065	in it
+-2.424065	in its
+-2.123034	in my
+-2.424065	in our
+-2.424065	in return
+-1.879997	in the	0.02416699
+-2.424065	in unity
+-2.424065	in us
+-2.247973	in your	-0.0002337554
+-2.22617	inbound </s>
+-2.402261	indeed UNK
+-2.402261	indeed our
+-2.227029	infinite UNK
+-2.403121	infinite cycle
+-2.405688	into UNK
+-2.405688	into a
+-2.405688	into many
+-2.405688	into ruin
+-2.229597	into the
+-2.403978	invasion </s>
+-2.403978	invasion at
+-2.403978	invasion is
+-2.403978	invasion of
+-2.463893	is </s>
+-1.560803	is UNK	0.06098505
+-2.162863	is a
+-2.463893	is already
+-2.463893	is an
+-2.463893	is and
+-2.463893	is clear
+-2.463893	is close
+-2.463893	is come
+-2.463893	is enough
+-2.463893	is far
+-2.463893	is forged
+-2.463893	is greatest
+-2.463893	is in
+-2.463893	is inbound
+-2.463893	is it
+-2.287802	is little	-5.129958e-06
+-2.463893	is more
+-2.463893	is my
+-2.287802	is no	0.003309736
+-1.919825	is not
+-2.463893	is of
+-2.463893	is only
+-2.463893	is our
+-2.162863	is preparing	0
+-2.463893	is protecting
+-2.463893	is so
+-2.287802	is strong	0.0008252794
+-2.463893	is tassadar
+-2.162863	is that
+-1.861833	is the	0.02417204
+-2.463893	is this
+-2.463893	is time
+-2.463893	is to
+-2.463893	is unacceptable
+-2.162863	is under	0.0008574431
+-2.463893	is xelnaga
+-2.463893	is you
+-2.162863	is your	0.01575166
+-2.463893	is yours
+-2.463893	is zerg
+-1.960629	it </s>
+-2.039811	it UNK
+-2.261659	it appears
+-2.437751	it called
+-2.437751	it can
+-2.437751	it comes
+-2.437751	it further
+-2.261659	it has
+-2.437751	it i
+-1.508332	it is	0.01161378
+-2.261659	it lies	-2.039643e-05
+-2.437751	it our
+-2.261659	it seems
+-2.437751	it shall
+-2.261659	it was
+-2.437751	it while
+-2.437751	it will
+-2.437751	it you
+-2.407391	its UNK
+-2.407391	its end
+-2.407391	its hope
+-2.407391	its long
+-2.407391	its pack
+-2.407391	its path
+-2.407391	its power
+-2.407391	its way
+-2.402261	join us
+-2.402261	join your
+-2.402261	judgement </s>
+-2.402261	judgement is
+-2.22617	judicator </s>
+-2.102091	just as	0.0007646482
+-1.635149	kerrigan </s>
+-2.4133	kerrigan UNK
+-2.4133	kerrigan and
+-2.4133	kerrigan can
+-2.4133	kerrigan the
+-2.402261	keystone UNK
+-2.402261	keystone will
+-2.104658	khala </s>
+-2.229597	khala UNK
+-2.405688	khala what
+-2.109747	kill </s>
+-2.410777	kill each
+-2.410777	kill enemies
+-2.410777	kill or
+-2.234686	kill them
+-2.410777	kill they
+-2.410777	kill thousands
+-2.234686	kill you
+-2.404834	killed </s>
+-2.228742	killed brakk	-5.129958e-06
+-2.404834	killed by
+-2.404834	killed her
+-2.402261	killing UNK
+-2.402261	killing us
+-2.403978	kind UNK
+-2.403978	kind as
+-2.403978	kind but
+-2.403978	kind has
+-2.404834	know </s>
+-2.404834	know about
+-2.228742	know this
+-2.404834	know your
+-2.22617	known UNK
+-2.102091	koprulu sector	0
+-2.403121	kraith UNK
+-2.403121	kraith comes
+-2.403121	kraith will
+-2.228742	last UNK
+-2.404834	last of
+-2.404834	last stand
+-2.404834	last we
+-2.401401	late to
+-2.403121	lead our
+-2.403121	lead them
+-2.403121	lead you
+-2.404834	leader and
+-2.228742	leader of	0.01734098
+-2.228742	leader sleeps	0
+-2.402261	leaders </s>
+-2.402261	leaders are
+-2.227029	left </s>
+-2.403121	left UNK
+-2.22617	legacy </s>
+-2.407391	let amon
+-2.407391	let her
+-2.407391	let not
+-2.407391	let our
+-2.407391	let the
+-2.407391	let them
+-2.407391	let yours
+-2.407391	let zerus
+-2.403121	lie </s>
+-2.403121	lie UNK
+-2.403121	lie within
+-2.405688	lies </s>
+-2.405688	lies UNK
+-2.405688	lies artanis
+-2.229597	lies far	-1.532654e-05
+-2.405688	lies there
+-2.403121	life </s>
+-2.227029	life in	-0.0001270624
+-2.404834	like UNK
+-2.404834	like a
+-2.404834	like it
+-2.404834	like some
+-2.404834	like to
+-2.403121	little UNK
+-2.227029	little time
+-2.402261	live as
+-2.402261	live on
+-2.405688	locusts </s>
+-2.229597	locusts now	0.003309736
+-2.104658	locusts to	-0.0004056117
+-2.228742	long UNK	0.06091992
+-2.404834	long enough
+-2.404834	long for
+-2.404834	long last
+-2.402261	longer </s>
+-2.402261	longer need
+-2.405688	lost </s>
+-2.405688	lost and
+-2.405688	lost their
+-2.405688	lost think
+-2.405688	lost to
+-2.405688	lost voice
+-2.401401	low </s>
+-2.403978	made a
+-2.403978	made as
+-2.403978	made important
+-2.403978	made my
+-2.22617	maintain out	-1.532654e-05
+-2.402261	make the
+-2.402261	make your
+-2.227887	malash </s>
+-2.403978	malash UNK
+-2.403978	malash i
+-2.405688	many </s>
+-2.405688	many have
+-2.229597	many locusts	0.0008387421
+-2.405688	many many
+-2.405688	many worlds
+-2.22617	massing nearby	0.001708067
+-2.22617	massive primal
+-2.402261	master has
+-2.402261	master tassadar
+-2.230449	may be
+-2.40654	may indeed
+-2.40654	may not
+-2.40654	may soon
+-2.40654	may survive
+-2.40654	may the
+-1.938686	me </s>
+-2.114778	me UNK
+-2.415808	me again
+-2.415808	me artanis
+-2.415808	me broken
+-2.415808	me for
+-2.415808	me from
+-2.415808	me in
+-2.415808	me kerrigan
+-2.415808	me taldarim
+-2.415808	me the
+-2.415808	me to
+-2.402261	means nothing
+-2.402261	means they
+-2.401401	might of
+-2.402261	mighty foe
+-2.402261	mighty new
+-2.402261	minds UNK
+-2.402261	minds of
+-2.403121	moment could
+-2.403121	moment draws
+-2.403121	moment you
+-2.2313	more </s>
+-2.407391	more ancient
+-2.407391	more from
+-2.407391	more of
+-2.407391	more swarm
+-2.407391	more than
+-2.407391	more to
+-2.227887	most UNK
+-2.403978	most beloved
+-2.403978	most of
+-2.401401	mother UNK
+-2.22617	moving against	-2.54449e-05
+-2.404834	much more
+-2.404834	much of
+-2.404834	much power
+-2.404834	much to
+-2.404834	much together
+-2.123034	must UNK	0.06092505
+-2.247973	must acquire	0
+-2.123034	must be
+-2.247973	must become
+-2.424065	must believe
+-2.424065	must collect
+-2.424065	must come
+-2.424065	must feed
+-2.424065	must feel
+-2.424065	must free
+-2.247973	must go
+-2.247973	must if	0.001665992
+-2.424065	must know
+-2.424065	must let
+-2.123034	must not
+-2.424065	must protect
+-2.424065	must remain
+-2.424065	must take
+-2.435366	my </s>
+-1.590268	my UNK	0.05927878
+-2.435366	my authority
+-2.435366	my back
+-2.435366	my command
+-2.435366	my destiny
+-2.435366	my enemies
+-2.435366	my essence
+-2.435366	my host
+-2.435366	my kind
+-2.435366	my minds
+-2.259275	my own	0
+-1.891298	my pack	0.00159666
+-2.259275	my people
+-2.435366	my place
+-2.435366	my psionic
+-1.958245	my queen
+-2.435366	my rule
+-2.435366	my will
+-2.403121	near </s>
+-2.227029	near the	0.005141259
+-2.006894	nearby </s>
+-2.404834	nearby zerg
+-2.403978	need </s>
+-2.403978	need more
+-2.403978	need my
+-2.403978	need the
+-2.403978	never be
+-2.403978	never before
+-2.403978	never find
+-2.403978	never had
+-2.405688	new UNK
+-2.405688	new civilization
+-2.405688	new eternity
+-2.229597	new form
+-2.405688	new sequences
+-1.870069	no </s>
+-1.870069	no UNK
+-2.414137	no good
+-2.238046	no longer
+-2.414137	no terran
+-2.402261	none of
+-2.402261	none will
+-2.430559	not </s>
+-1.886491	not UNK	0.06094031
+-2.129529	not a
+-2.430559	not all
+-2.430559	not an
+-2.254467	not be
+-2.430559	not break
+-2.430559	not but
+-2.430559	not find
+-2.254467	not forgotten	0
+-2.430559	not in
+-2.129529	not let
+-2.430559	not like
+-2.254467	not only
+-2.430559	not part
+-2.430559	not required
+-2.430559	not see
+-2.430559	not shatter
+-2.430559	not so
+-2.430559	not take
+-2.430559	not test
+-2.254467	not wake
+-2.430559	not zerg
+-2.22617	nothing </s>
+-1.870069	now </s>
+-2.238046	now UNK
+-2.414137	now and
+-2.414137	now fulfill
+-2.414137	now it
+-2.414137	now to
+-2.238046	now we
+-2.238046	now you
+-2.22617	oblivion </s>
+-2.478566	of </s>
+-1.934498	of UNK	0.09156844
+-1.934498	of a	0.01605195
+-2.478566	of aiur
+-2.177536	of all
+-2.478566	of amon
+-2.177536	of blades	0.0008489289
+-2.302475	of brakks	0.002572334
+-2.302475	of course
+-2.302475	of creation
+-2.478566	of destiny
+-2.478566	of doom
+-2.302475	of essence	0.008239031
+-2.478566	of form
+-2.478566	of hope
+-2.302475	of its
+-2.478566	of judgement
+-2.478566	of kerrigan
+-2.478566	of little
+-2.080626	of my
+-2.478566	of one
+-1.934498	of our
+-1.934498	of primal	0.01920175
+-2.478566	of psionic
+-2.478566	of ruin
+-2.478566	of terrazine
+-1.348233	of the	0.02921607
+-2.478566	of these
+-2.302475	of this
+-2.177536	of us
+-2.478566	of what
+-2.478566	of years
+-2.478566	of you
+-2.302475	of your	0.0166108
+-2.478566	of zealots
+-2.177536	of zerus
+-2.401401	old friend
+-2.410777	on </s>
+-2.012837	on UNK	0.06006761
+-2.234686	on char	-1.023826e-05
+-2.410777	on many
+-2.410777	on protecting
+-2.234686	on the
+-2.410777	on this
+-2.402261	once </s>
+-2.402261	once the
+-1.821186	one </s>
+-2.025306	one UNK
+-2.247155	one altered	-1.023826e-05
+-2.423246	one called
+-2.423246	one essence
+-2.247155	one has
+-2.423246	one in
+-2.423246	one of
+-2.423246	one purpose
+-2.423246	one thing
+-2.423246	one to
+-2.423246	one who
+-2.247155	one whom	0
+-2.247155	one will
+-2.232996	only UNK
+-2.409087	only a
+-2.409087	only beginning
+-2.409087	only end
+-2.409087	only have
+-2.409087	only oblivion
+-2.409087	only the
+-2.409087	only way
+-2.409087	only your
+-2.402261	opened </s>
+-2.402261	opened a
+-2.401401	or be
+-2.227029	order of
+-2.403121	order was
+-2.102948	other </s>
+-2.403978	other in
+-1.596597	our UNK	0.06012784
+-2.441695	our beloved
+-2.441695	our blades
+-2.441695	our civilization
+-2.441695	our destiny
+-2.441695	our drone
+-2.441695	our essence
+-2.441695	our final
+-2.441695	our forces
+-2.441695	our great
+-2.265604	our hive	0.003426404
+-2.265604	our homeworld
+-2.441695	our hopes
+-2.441695	our invasion
+-2.140665	our kind
+-2.441695	our last
+-2.265604	our legacy	0
+-2.441695	our master
+-2.441695	our most
+-2.265604	our people
+-2.441695	our power
+-2.441695	our presence
+-2.441695	our queen
+-2.265604	our race
+-2.441695	our strength
+-2.265604	our swarm	0.001592297
+-2.265604	our two	0
+-2.441695	our unity
+-2.441695	our world
+-2.404834	out </s>
+-2.228742	out defense	0
+-2.404834	out from
+-2.404834	out of
+-2.403121	overmind </s>
+-2.403121	overmind has
+-2.403121	overmind were
+-2.22617	own people
+-2.016197	pack </s>
+-2.414137	pack against
+-2.414137	pack are
+-2.016197	pack is	8.490589e-05
+-2.238046	pack leaders
+-2.238046	pack of	0.002491865
+-2.238046	pack will	0.0004815697
+-2.104658	packs are	-0.0002621638
+-2.405688	packs join
+-2.229597	packs survives	-5.129958e-06
+-2.401401	part of
+-2.403121	path </s>
+-2.403121	path and
+-2.403121	path is
+-2.10721	people </s>
+-2.40824	people and
+-2.40824	people are
+-2.40824	people became
+-2.40824	people cannot
+-2.40824	people fulfill
+-2.40824	people to
+-2.22617	physical prowess	0
+-2.403978	place </s>
+-2.403978	place kerrigan
+-2.403978	place the
+-2.403978	place to
+-2.102091	pool </s>
+-2.012837	power </s>
+-2.234686	power UNK
+-2.410777	power ability
+-2.410777	power is
+-2.109747	power of	-0.000551492
+-2.410777	power you
+-2.403121	powerful UNK
+-2.403121	powerful can
+-2.403121	powerful presence
+-2.102091	preparing to	0.003247012
+-2.402261	presence </s>
+-2.402261	presence a
+-2.262451	primal </s>
+-2.137512	primal UNK	0.02595803
+-2.262451	primal attacks	0
+-2.137512	primal essence
+-2.262451	primal essences	0
+-2.262451	primal fliers	-5.129958e-06
+-2.262451	primal forces
+-2.438542	primal guardians
+-2.438542	primal packs
+-1.277174	primal zerg	0.01149649
+-2.0086	primals are
+-2.230449	primals has	-0.0001130425
+-2.40654	primals the
+-2.401401	protect it
+-2.22617	protecting the	0.005141259
+-2.2313	protoss </s>
+-2.407391	protoss are
+-2.407391	protoss can
+-2.407391	protoss to
+-2.407391	protoss too
+-2.407391	protoss will
+-2.407391	protoss would
+-2.22617	prowess </s>
+-2.401401	psi blade
+-2.227029	psionic UNK
+-2.403121	psionic energy
+-2.22617	pure </s>
+-2.102091	purity of	-0.0004128625
+-2.403121	purpose </s>
+-2.403121	purpose now
+-2.403121	purpose once
+-2.40824	queen </s>
+-2.40824	queen UNK
+-2.40824	queen enemy
+-2.40824	queen has
+-2.40824	queen i
+-2.40824	queen is
+-2.10721	queen of	-0.000551492
+-2.22617	quickly </s>
+-2.405688	quillgor </s>
+-2.405688	quillgor UNK
+-2.007748	quillgor biomass	-2.703373e-05
+-2.402261	race our
+-2.402261	race to
+-2.402261	raynor </s>
+-2.402261	raynor came
+-2.403121	ready for
+-2.403121	ready our
+-2.403121	ready to
+-2.22617	realm </s>
+-2.401401	red we
+-2.402261	reinforced find
+-2.402261	reinforced we
+-2.402261	remain UNK
+-2.402261	remain pure
+-2.22617	remained </s>
+-2.402261	remaining forces
+-2.402261	remaining pack
+-2.403121	remains </s>
+-2.227029	remains of
+-2.22617	remnants of	-0.0004179925
+-2.402261	required </s>
+-2.402261	required more
+-2.22617	research primal	-0.0002079601
+-2.402261	retake our
+-2.402261	retake what
+-2.407391	return </s>
+-2.407391	return her
+-2.407391	return i
+-2.407391	return the
+-2.106361	return to
+-2.407391	return you
+-2.402261	returned </s>
+-2.402261	returned to
+-2.22617	revenge </s>
+-2.403121	right about
+-2.403121	right of
+-2.403121	right to
+-2.401401	ring of
+-2.401401	rock a
+-2.22617	rocks near	-5.129958e-06
+-2.227029	root our	-0.0002252189
+-2.403121	root swarm
+-2.403978	ruin </s>
+-2.403978	ruin UNK
+-2.227887	ruin to
+-2.402261	rule </s>
+-2.402261	rule my
+-2.402261	sacrifice </s>
+-2.402261	sacrifice to
+-2.403121	sample </s>
+-2.227029	sample acquired	0
+-2.22617	savage </s>
+-2.227029	sector UNK
+-2.403121	sector is
+-2.403978	see </s>
+-2.227887	see me
+-2.403978	see you
+-2.404834	seek lie
+-2.404834	seek now
+-2.404834	seek our
+-2.404834	seek power
+-2.404834	seek the
+-2.402261	seems fate
+-2.402261	seems to
+-2.402261	selendis UNK
+-2.402261	selendis templar
+-2.22617	self </s>
+-2.227029	sense a
+-2.403121	sense you
+-2.22617	sensed another	-2.039643e-05
+-2.227029	sent a	0.0004707635
+-2.403121	sent most
+-2.401401	sequence can
+-2.227029	sequences </s>
+-2.403121	sequences UNK
+-2.40824	shall </s>
+-2.232149	shall UNK
+-2.40824	shall all
+-2.232149	shall be
+-2.232149	shall not
+-2.40824	shall our
+-2.402261	shatter our
+-2.402261	shatter this
+-2.228742	she has	0.003208537
+-2.404834	she is
+-2.404834	she must
+-2.404834	she will
+-2.227887	should UNK
+-2.403978	should not
+-2.403978	should we
+-2.22617	sleeps </s>
+-2.407391	so </s>
+-2.106361	so UNK
+-2.407391	so he
+-2.407391	so it
+-2.2313	so much
+-2.403121	some UNK
+-2.403121	some good
+-2.403121	some of
+-2.402261	soon embrace
+-2.402261	soon shall
+-2.404834	spawn locusts
+-2.228742	spawn many	-2.039643e-05
+-2.228742	spawn the	-0.0008162337
+-2.402261	spawning </s>
+-2.402261	spawning pool
+-2.402261	speak of
+-2.402261	speak your
+-2.407391	stand </s>
+-2.2313	stand UNK
+-2.106361	stand against	-2.031494e-05
+-2.407391	stand at
+-2.407391	stand bound
+-2.227029	stars </s>
+-2.403121	stars were
+-2.402261	stasis UNK
+-2.402261	stasis and
+-2.402261	steal </s>
+-2.402261	steal essence
+-2.404834	still </s>
+-2.228742	still UNK
+-2.404834	still strong
+-2.404834	still there
+-2.402261	stop the
+-2.402261	stop you
+-2.402261	strength </s>
+-2.402261	strength the
+-2.402261	strike UNK
+-2.402261	strike as
+-2.106361	strong </s>
+-2.407391	strong UNK
+-2.2313	strong enough
+-2.407391	strong primal
+-2.407391	strong sequences
+-2.402261	stronger </s>
+-2.402261	stronger than
+-2.402261	submit </s>
+-2.402261	submit to
+-2.006894	survive </s>
+-2.404834	survive the
+-2.227029	survives </s>
+-2.403121	survives he
+-1.939519	swarm </s>
+-2.115611	swarm UNK	0.02595803
+-2.416641	swarm and
+-2.416641	swarm brought
+-2.416641	swarm came
+-2.416641	swarm for
+-2.018701	swarm hosts	0
+-2.416641	swarm is
+-2.416641	swarm on
+-2.416641	swarm will
+-2.403978	take essence
+-2.403978	take from
+-2.403978	take sample
+-2.403978	take what
+-2.228742	taldarim </s>
+-2.404834	taldarim death
+-2.404834	taldarim have
+-2.404834	taldarim will
+-2.227887	taro adun
+-2.403978	taro artanis
+-2.403978	taro zeratul
+-2.227887	tassadar </s>
+-2.403978	tassadar UNK
+-2.403978	tassadar my
+-1.929419	templar </s>
+-2.40654	templar UNK
+-2.40654	templar were
+-2.403121	terran UNK
+-2.403121	terran has
+-2.403121	terran survive
+-2.22617	terrazine UNK
+-2.401401	test me
+-2.404834	than i
+-2.404834	than let
+-2.404834	than one
+-2.404834	than queen
+-2.404834	than yours
+-2.24879	that UNK	0.0259529
+-2.424882	that amon
+-2.424882	that ancient
+-2.424882	that brought
+-2.24879	that entrance	0
+-2.424882	that has
+-2.424882	that he
+-2.424882	that how
+-2.424882	that i
+-2.424882	that im
+-2.424882	that is
+-2.424882	that it
+-2.424882	that means
+-2.424882	that our
+-2.424882	that remains
+-2.424882	that stand
+-2.424882	that the
+-2.424882	that this
+-2.424882	that those
+-2.424882	that voice
+-1.94776	that we	-0.0002478266
+-2.424882	that what
+-2.424882	that you
+-2.22617	thats UNK
+-2.390346	the </s>
+-1.224015	the UNK	0.09784562
+-2.566437	the ability
+-1.913225	the ancient	-3.520446e-05
+-2.390346	the barricades	0
+-2.390346	the battle
+-2.390346	the beginning	0.0008591379
+-2.566437	the belief
+-2.265408	the biomass
+-2.566437	the birthplace
+-2.265408	the broken	0.0008170523
+-2.566437	the cerebrate
+-1.753524	the chrysalis	0
+-2.390346	the coming	-1.023826e-05
+-2.265408	the conclave
+-2.566437	the creation
+-2.265408	the cycle
+-2.089316	the dark	-1.693098e-05
+-2.566437	the death
+-2.390346	the destiny	-2.039643e-05
+-2.566437	the end
+-2.566437	the enemy
+-2.566437	the essence
+-2.390346	the eternal
+-2.390346	the fate	-2.54449e-05
+-2.566437	the fight
+-2.390346	the final
+-2.089316	the first
+-2.566437	the flesh
+-2.566437	the fury
+-2.390346	the glory	0
+-2.390346	the great
+-2.390346	the greater
+-2.566437	the hatred
+-2.566437	the highlord
+-2.390346	the hive	0.003426404
+-2.566437	the hopes
+-2.566437	the hour
+-2.566437	the hybrid
+-2.265408	the infinite	0
+-2.390346	the keystone
+-2.022369	the khala	0
+-2.566437	the killing
+-2.390346	the koprulu	0.0008591379
+-2.390346	the last
+-2.390346	the locusts	-2.039643e-05
+-2.566437	the might
+-2.566437	the minds
+-2.390346	the moment
+-2.566437	the one
+-2.566437	the only
+-2.566437	the order
+-2.265408	the overmind
+-2.566437	the pack
+-2.566437	the path
+-2.566437	the pool
+-2.089316	the power	-4.684716e-05
+-1.826075	the primal	0.01415535
+-2.168498	the primals	0.001696224
+-2.566437	the protoss
+-2.390346	the queen	0.0008185876
+-2.566437	the remaining
+-2.390346	the remnants	0
+-2.566437	the right
+-2.566437	the ring
+-2.390346	the rocks	0
+-2.265408	the stars	0
+-2.566437	the stasis
+-1.913225	the swarm	0.0007504178
+-2.265408	the taldarim
+-2.566437	the templar
+-2.566437	the terran
+-2.566437	the terrazine
+-2.390346	the true
+-2.566437	the universe
+-2.390346	the veil
+-2.265408	the void	-6.824732e-06
+-2.566437	the whole
+-2.390346	the will	-0.000287774
+-2.168498	the xelnaga	0.001689548
+-2.566437	the zealots
+-1.753524	the zerg	0.01555205
+-2.108903	their UNK	0.005159108
+-2.409933	their doom
+-2.409933	their end
+-2.108903	their essence	0.007379893
+-2.409933	their judgement
+-2.409933	their packs
+-2.409933	their purpose
+-1.866709	them </s>
+-2.410777	them UNK
+-2.234686	them all
+-2.410777	them and
+-2.410777	them both
+-2.410777	them kill
+-2.404834	there </s>
+-2.006894	there is	-0.0006697327
+-2.2313	these UNK
+-2.407391	these are
+-2.2313	these primal
+-2.2313	these primals
+-2.407391	these years
+-2.426511	they UNK
+-1.64836	they are	0.00729929
+-2.426511	they awaken
+-2.426511	they believe
+-2.25042	they could
+-2.426511	they do
+-2.25042	they evolve	0.0008591379
+-2.25042	they fight
+-2.426511	they gather
+-2.25042	they kill
+-2.426511	they lost
+-2.426511	they seek
+-2.426511	they sense
+-2.426511	they were
+-2.125481	they will
+-2.401401	thing malash
+-2.403978	think </s>
+-2.403978	think that
+-2.403978	think us
+-2.403978	think what
+-2.43377	this </s>
+-1.780557	this UNK	0.06095039
+-2.43377	this and
+-2.43377	this as
+-2.257679	this be
+-2.43377	this body
+-2.43377	this comes
+-2.43377	this corrupt
+-2.257679	this creature
+-2.43377	this day
+-2.43377	this fate
+-2.43377	this from
+-2.43377	this hybrid
+-2.257679	this invasion
+-1.956649	this is	0.002577916
+-2.43377	this moment
+-2.43377	this not
+-2.43377	this place
+-2.43377	this quillgor
+-2.43377	this realm
+-2.43377	this this
+-2.43377	this traitor
+-2.43377	this warrior
+-2.43377	this we
+-2.257679	this world
+-2.40654	those UNK
+-2.40654	those corrupted
+-2.40654	those left
+-2.40654	those of
+-2.40654	those protoss
+-2.40654	those that
+-2.40654	those who
+-2.402261	though i
+-2.402261	though it
+-2.22617	thousand UNK
+-2.227029	thousands of
+-2.403121	thousands to
+-2.40654	through UNK
+-2.40654	through much
+-1.929419	through the	-0.0008009071
+-2.104658	time </s>
+-2.405688	time in
+-2.405688	time is
+-2.405688	time left
+-1.477121	to UNK	0.09473162
+-2.477121	to a
+-2.477121	to aiur
+-2.477121	to artanis
+-2.477121	to assault
+-2.477121	to assimilate
+-1.875061	to attack	-4.703132e-05
+-2.30103	to awaken
+-2.079181	to be	0.005726739
+-2.477121	to begin
+-2.477121	to believe
+-2.477121	to bring
+-2.477121	to char
+-2.30103	to defend	-1.532654e-05
+-2.30103	to destroy
+-2.477121	to fight
+-2.477121	to get
+-2.477121	to harvest
+-2.176091	to have	-0.0001720106
+-2.477121	to it
+-2.477121	to kill
+-2.477121	to make
+-2.30103	to me	0.002442833
+-2.079181	to my
+-2.477121	to oblivion
+-2.30103	to our
+-2.30103	to return
+-2.477121	to rule
+-2.30103	to see
+-2.477121	to self
+-2.477121	to spawn
+-2.477121	to speak
+-2.30103	to stand	0.0008252794
+-2.477121	to steal
+-2.477121	to stop
+-2.477121	to that
+-1.736759	to the	-0.0009647771
+-2.30103	to their
+-2.477121	to think
+-2.477121	to this
+-2.477121	to us
+-2.176091	to you
+-2.30103	to your	0.0166108
+-2.477121	to zerus
+-2.102091	today we	0.002078993
+-2.403121	together we
+-2.403121	together you
+-2.403121	together zeratul
+-2.404834	too late
+-2.404834	too long
+-2.404834	too many
+-2.404834	too may
+-2.404834	too were
+-2.402261	traitor </s>
+-2.402261	traitor but
+-2.402261	true UNK
+-2.402261	true leader
+-2.403978	truly alone
+-2.403978	truly can
+-2.403978	truly seek
+-2.403978	truly this
+-2.401401	turn the
+-2.22617	two UNK
+-2.227887	tyrannozor </s>
+-2.227887	tyrannozor sample	-5.129958e-06
+-2.22617	unacceptable </s>
+-2.102948	under attack	0.0008104111
+-2.403978	under my
+-2.403121	unity </s>
+-2.403121	unity UNK
+-2.403121	unity and
+-2.402261	universe UNK
+-2.402261	universe will
+-2.402261	up </s>
+-2.402261	up close
+-2.405688	upon me
+-2.405688	upon the
+-2.405688	upon you
+-2.104658	upon your	0.001347763
+-1.812913	us </s>
+-2.414973	us all
+-2.414973	us and
+-2.414973	us are
+-2.414973	us fools
+-2.414973	us in
+-2.414973	us into
+-2.414973	us low
+-2.414973	us may
+-2.414973	us together
+-2.414973	us were
+-2.227887	use </s>
+-2.403978	use UNK
+-2.403978	use them
+-2.22617	useful must	-0.0001270624
+-2.402261	veil </s>
+-2.402261	veil of
+-2.402261	very UNK
+-2.402261	very well
+-2.402261	voice </s>
+-2.402261	voice UNK
+-2.102948	void </s>
+-2.403978	void energy
+-2.22617	vulnerable </s>
+-2.403121	wake </s>
+-2.227029	wake the	0.002748448
+-2.401401	war UNK
+-2.402261	warning </s>
+-2.402261	warning do
+-2.402261	warrior </s>
+-2.402261	warrior old
+-2.402261	warriors a
+-2.402261	warriors come
+-2.40654	was UNK
+-2.40654	was a
+-2.40654	was brought
+-2.40654	was his
+-2.40654	was to
+-2.40654	was we
+-2.40654	was zerg
+-2.405688	way </s>
+-2.229597	way UNK
+-2.405688	way across
+-2.229597	way to
+-1.971585	we UNK
+-1.749736	we are	0.008383871
+-2.448706	we become
+-2.448706	we both
+-2.448706	we came
+-2.448706	we can
+-2.272615	we claim	-5.129958e-06
+-2.272615	we devour	0
+-2.448706	we do
+-2.448706	we fail
+-2.448706	we fight
+-1.971585	we have
+-2.448706	we hold
+-2.272615	we may
+-2.147676	we must
+-2.448706	we need
+-2.448706	we now
+-2.272615	we protoss
+-2.448706	we remain
+-2.448706	we retake
+-2.448706	we seek
+-2.272615	we shall
+-2.272615	we should	-1.023826e-05
+-2.448706	we stand
+-2.448706	we the
+-2.448706	we too
+-2.448706	we wake
+-2.272615	we were
+-2.448706	we who
+-1.971585	we will	0.006701209
+-2.402261	weapon </s>
+-2.402261	weapon and
+-2.228742	well </s>
+-2.404834	well as
+-2.404834	well done
+-2.404834	well draws
+-2.233842	were UNK
+-2.409933	were created
+-2.409933	were fools
+-2.409933	were in
+-2.409933	were our
+-2.233842	were still
+-2.108903	were the
+-2.414973	what </s>
+-2.414973	what a
+-2.414973	what i
+-1.937852	what is	0.009534217
+-2.414973	what she
+-2.414973	what they
+-2.414973	what this
+-2.414973	what we
+-2.238882	what will
+-2.414973	what would
+-2.414973	what you
+-2.414973	what youve
+-2.228742	when the
+-2.228742	when they
+-2.404834	when we
+-2.22617	while it
+-2.405688	who UNK
+-2.405688	who collects
+-2.405688	who have
+-2.405688	who were
+-2.405688	who will
+-2.405688	who witnessed
+-2.402261	whole </s>
+-2.402261	whole of
+-2.22617	whom UNK
+-2.277227	will </s>
+-1.675167	will UNK	0.07283939
+-2.277227	will aid
+-1.90925	will be	0.004877758
+-2.453318	will break
+-2.453318	will bring
+-2.453318	will challenge
+-2.453318	will command
+-2.277227	will consume
+-2.453318	will destroy
+-2.277227	will do
+-2.453318	will fail
+-2.152288	will feast	0
+-2.453318	will feed
+-2.453318	will forge
+-2.453318	will hear
+-2.277227	will hold	-1.023826e-05
+-2.453318	will is
+-2.453318	will kill
+-2.152288	will lead
+-2.453318	will need
+-2.277227	will never
+-2.055378	will not
+-2.277227	will of	0.01734098
+-2.453318	will required
+-2.277227	will research	0
+-2.453318	will retake
+-2.277227	will return	0.0008252794
+-2.453318	will shatter
+-2.453318	will stand
+-2.453318	will turn
+-2.453318	will use
+-2.453318	will we
+-2.453318	will you
+-2.11227	with a	-0.0002907342
+-2.4133	with acid
+-2.4133	with an
+-2.237209	with it
+-2.4133	with my
+-2.01536	with the
+-2.4133	with this
+-2.4133	with you
+-2.4133	with your
+-2.404834	within </s>
+-2.404834	within and
+-2.404834	within one
+-2.404834	within the
+-2.404834	within this
+-2.402261	without form
+-2.402261	without the
+-2.402261	witnessed the
+-2.402261	witnessed your
+-2.402261	won </s>
+-2.402261	won alarak
+-2.103804	world </s>
+-2.404834	world is
+-2.404834	world we
+-2.402261	worlds </s>
+-2.402261	worlds apart
+-2.402261	would kill
+-2.402261	would you
+-1.93027	xelnaga </s>
+-2.407391	xelnaga UNK
+-2.407391	xelnaga can
+-2.407391	xelnaga return
+-2.403121	yagdra a
+-2.227029	yagdra has	0.0007149738
+-2.403978	yagdras brood
+-2.403978	yagdras forces
+-2.227887	yagdras pack	0.001616576
+-2.402261	years </s>
+-2.402261	years my
+-2.402261	yes </s>
+-2.402261	yes my
+-2.403978	yet death
+-2.403978	yet one
+-2.403978	yet some
+-2.403978	yet they
+-1.646964	you </s>
+-1.793092	you UNK	0.0609554
+-2.31597	you a
+-2.492062	you and
+-2.492062	you any
+-1.679148	you are	-0.0004362487
+-2.492062	you believe
+-2.31597	you broken	0.0008119224
+-2.492062	you but
+-2.492062	you can
+-2.492062	you command
+-2.492062	you damned
+-2.492062	you do
+-2.492062	you from
+-1.751699	you have	0.0005360986
+-2.492062	you here
+-2.492062	you if
+-2.492062	you in
+-2.492062	you kerrigan
+-2.094122	you know	-5.088281e-06
+-2.492062	you lies
+-2.492062	you lost
+-2.492062	you may
+-1.617	you must	0.0005655997
+-2.492062	you never
+-2.31597	you no
+-2.492062	you not
+-2.492062	you now
+-2.492062	you of
+-2.492062	you sacrifice
+-2.31597	you seek
+-2.492062	you should
+-2.492062	you stand
+-2.492062	you strong
+-2.31597	you survive	0.001708067
+-2.492062	you the
+-2.31597	you think
+-2.191032	you to
+-2.492062	you truly
+-2.31597	you were
+-2.492062	you while
+-1.679148	you will	0.001070859
+-1.364082	your UNK	0.08584986
+-2.443263	your belief
+-2.443263	your blade
+-2.443263	your blades
+-2.443263	your command
+-2.443263	your defeat
+-2.443263	your destiny
+-2.267172	your enemies	0.001716581
+-2.045323	your essence	0.007386717
+-2.443263	your flesh
+-2.267172	your hands	0
+-2.443263	your hierarch
+-2.267172	your leader	-1.532654e-05
+-2.443263	your path
+-2.267172	your people
+-2.443263	your power
+-2.443263	your remaining
+-2.267172	your revenge	0
+-2.142233	your swarm
+-2.443263	your universe
+-2.228742	yours </s>
+-2.404834	yours aid
+-2.404834	yours hierarch
+-2.404834	yours now
+-2.402261	yourself </s>
+-2.402261	yourself but
+-2.403121	youve already
+-2.403121	youve come
+-2.403121	youve created
+-2.402261	zealots around
+-2.402261	zealots we
+-2.104658	zeratul </s>
+-2.405688	zeratul UNK
+-2.405688	zeratul but
+-2.405688	zeratul followed
+-1.40187	zerg </s>
+-1.899195	zerg UNK	0.06094031
+-2.443263	zerg and
+-2.045323	zerg are	0.008941658
+-2.443263	zerg but
+-2.267172	zerg evolved	-5.129958e-06
+-2.267172	zerg factions	0
+-2.443263	zerg fliers
+-2.267172	zerg forces
+-2.267172	zerg gathering	-1.023826e-05
+-2.443263	zerg have
+-2.443263	zerg inbound
+-2.443263	zerg into
+-2.443263	zerg is
+-2.443263	zerg it
+-2.443263	zerg must
+-2.267172	zerg remained	0
+-2.443263	zerg to
+-2.443263	zerg who
+-2.232149	zerus </s>
+-2.40824	zerus UNK
+-2.40824	zerus called
+-2.40824	zerus feel
+-2.232149	zerus will
+-2.232149	zerus you
+
+\3-grams:
+-1.850493	<s> UNK </s>
+-1.753583	<s> UNK UNK
+-2.276462	<s> UNK that
+-1.908485	<s> UNK the
+-2.276462	<s> UNK this
+-2.054613	<s> UNK to
+-2.054613	<s> UNK your
+-1.397184	UNK UNK </s>
+-1.855822	UNK UNK UNK
+-2.281791	UNK UNK and
+-2.156852	UNK UNK from
+-2.281791	UNK UNK is
+-2.059942	UNK UNK of
+-2.281791	UNK UNK primal
+-2.156852	UNK UNK the
+-2.281791	UNK UNK to
+-2.281791	UNK UNK with
+-2.156852	UNK UNK you
+-2.244689	a UNK </s>
+-1.876713	a UNK UNK
+-2.119751	a UNK of
+-2.227029	am UNK to
+-2.229597	an UNK UNK
+-2.232149	and UNK </s>
+-2.11059	are UNK </s>
+-2.11059	are UNK to
+-2.10721	be UNK </s>
+-2.22617	coming UNK </s>
+-2.227029	creation UNK with
+-2.22617	forces UNK </s>
+-2.227029	from UNK UNK
+-2.103804	great UNK </s>
+-2.229597	has UNK </s>
+-2.108903	have UNK the
+-2.0086	his UNK </s>
+-2.106361	in UNK </s>
+-2.237209	is UNK </s>
+-2.22617	long UNK </s>
+-2.227029	must UNK </s>
+-2.01368	my UNK </s>
+-2.229597	not UNK </s>
+-2.229597	of UNK </s>
+-2.229597	of UNK UNK
+-2.102948	on UNK </s>
+-2.11059	our UNK </s>
+-2.227029	primal UNK UNK
+-2.227029	swarm UNK UNK
+-2.22617	that UNK UNK
+-1.959041	the UNK </s>
+-1.834103	the UNK UNK
+-2.260071	the UNK from
+-2.260071	the UNK is
+-1.737193	the UNK of
+-2.227029	their UNK and
+-2.2313	this UNK </s>
+-1.814581	to UNK </s>
+-2.115611	to UNK UNK
+-2.240549	to UNK the
+-2.233842	will UNK </s>
+-2.233842	will UNK our
+-2.108903	will UNK the
+-2.233842	will UNK you
+-2.232149	you UNK </s>
+-1.766743	your UNK </s>
+-2.118926	your UNK UNK
+-2.229597	zerg UNK </s>
+-2.229597	<s> a drone
+-2.009451	UNK a UNK
+-2.2313	UNK a way
+-2.227029	in a UNK
+-2.104658	of a UNK
+-2.22617	sent a force
+-2.227029	with a purity
+-2.22617	must acquire </s>
+-2.22617	sample acquired </s>
+-2.22617	at across basin
+-2.22617	moving against us
+-2.227029	stand against the
+-2.22617	UNK alarak </s>
+-2.22617	one altered them
+-2.10721	i am UNK
+-2.232149	i am a
+-2.232149	i am everything
+-2.230449	<s> amon </s>
+-2.102091	UNK an UNK
+-1.863323	the ancient one
+-1.814581	UNK and UNK
+-2.240549	UNK and you
+-2.22617	evolved and here
+-2.22617	hosts and crawlers
+-2.22617	sensed another pack
+-2.227029	packs are moving
+-2.011993	they are UNK
+-2.233842	they are not
+-2.232149	we are UNK
+-2.234686	you are right
+-2.234686	you are zerg
+-2.227887	zerg are UNK
+-2.227887	zerg are destroying
+-2.227029	<s> artanis </s>
+-2.227029	just as you
+-2.230449	UNK at our
+-2.22617	gathering at across
+-2.10551	to attack our
+-2.230449	to attack the
+-2.227029	under attack </s>
+-2.22617	primal attacks </s>
+-2.22617	the barricades </s>
+-2.22617	across basin </s>
+-2.227887	to be UNK
+-2.104658	will be UNK
+-2.104658	have been UNK
+-2.229597	have been to
+-2.22617	the beginning </s>
+-2.102091	<s> believe </s>
+-2.22617	UNK between our
+-2.102948	quillgor biomass </s>
+-2.102091	of blades </s>
+-2.22617	<s> both packs
+-2.22617	killed brakk but
+-2.22617	<s> brakks forces
+-2.22617	of brakks forces
+-2.22617	has broken through
+-2.227029	the broken zerg
+-2.22617	you broken pack
+-2.228742	<s> but they
+-2.22617	brakk but his
+-2.22617	crawlers by that
+-2.227029	<s> can use
+-2.22617	how can this
+-2.22617	on char </s>
+-1.711807	the chrysalis </s>
+-2.22617	we claim essence
+-2.007748	hive cluster </s>
+-2.229597	hive cluster from
+-2.22617	<s> collect their
+-2.102091	have come to
+-2.22617	the coming UNK
+-2.22617	and crawlers by
+-2.006894	the dark one
+-2.227029	<s> defend the
+-2.22617	to defend hive
+-2.22617	out defense </s>
+-2.22617	the destiny of
+-2.227029	are destroying the
+-2.22617	we devour </s>
+-1.929419	<s> do not
+-2.230449	<s> do you
+-2.22617	engaged each other
+-2.006038	<s> en taro
+-2.22617	an end to
+-2.22617	your enemies </s>
+-2.22617	have engaged each
+-2.22617	that entrance </s>
+-2.227029	<s> essence useful
+-2.22617	claim essence we
+-2.22617	of essence </s>
+-2.102091	their essence </s>
+-2.102948	your essence </s>
+-2.22617	primal essences further
+-2.22617	am everything you
+-2.22617	they evolve </s>
+-2.22617	zerg evolved and
+-2.22617	<s> extreme physical
+-2.22617	zerg factions have
+-2.22617	lies far beyond
+-2.22617	the fate of
+-2.102091	will feast upon
+-2.22617	primal fliers to
+-2.2313	<s> for now
+-2.2313	<s> for the
+-2.102091	a force of
+-2.228742	brakks forces gather
+-2.22617	not forgotten you
+-2.108057	UNK from the
+-2.232996	UNK from your
+-2.22617	cluster from primal
+-2.22617	essences further </s>
+-2.22617	forces gather nearby
+-2.22617	zerg gathering at
+-2.22617	the glory of
+-2.227029	a great UNK
+-2.22617	your hands </s>
+-2.22617	primals has broken
+-2.22617	she has UNK
+-2.22617	yagdra has sent
+-2.22617	factions have engaged
+-1.865865	i have UNK
+-2.108903	i have been
+-2.233842	i have not
+-2.227029	to have your
+-2.232996	you have come
+-2.232996	you have killed
+-2.228742	<s> he UNK
+-2.22617	<s> hear me
+-2.22617	hold her life
+-2.227029	<s> here the
+-2.227029	and here the
+-2.22617	against him </s>
+-2.22617	but his packs
+-2.22617	from his UNK
+-2.22617	defend hive cluster
+-2.22617	our hive cluster
+-2.22617	the hive cluster
+-2.22617	will hold her
+-2.227887	swarm hosts and
+-2.22617	<s> how can
+-2.136721	<s> i UNK
+-1.893682	<s> i am
+-2.136721	<s> i can
+-1.960629	<s> i have
+-2.261659	<s> i sense
+-2.261659	<s> i sensed
+-1.784538	<s> i will
+-2.227887	UNK i have
+-2.228742	<s> if you
+-2.22617	must if you
+-2.2313	UNK in UNK
+-2.2313	UNK in a
+-2.009451	UNK in the
+-2.22617	life in your
+-2.227029	the infinite UNK
+-2.227887	<s> is that
+-1.931966	UNK is UNK
+-2.113107	it is UNK
+-2.238046	it is not
+-2.227887	pack is preparing
+-2.227887	pack is strong
+-2.227887	there is little
+-2.227887	there is no
+-2.103804	this is the
+-2.228742	what is UNK
+-2.243038	<s> it appears
+-1.606216	<s> it is
+-2.243038	<s> it lies
+-2.243038	<s> it seems
+-2.102091	<s> just as
+-2.227029	<s> kerrigan </s>
+-2.22617	UNK kerrigan </s>
+-2.104658	the khala </s>
+-2.229597	the khala UNK
+-2.228742	<s> kill them
+-2.22617	have killed brakk
+-2.227887	you know this
+-2.22617	the koprulu sector
+-2.22617	your leader sleeps
+-2.22617	our legacy </s>
+-2.22617	it lies far
+-2.22617	her life in
+-2.22617	is little time
+-2.22617	many locusts to
+-2.22617	the locusts now
+-2.22617	<s> maintain out
+-2.22617	spawn many locusts
+-2.22617	are massing nearby
+-2.22617	a massive primal
+-2.22617	to me </s>
+-2.22617	are moving against
+-2.22617	UNK must be
+-2.22617	useful must acquire
+-2.236369	you must UNK
+-2.236369	you must become
+-2.236369	you must go
+-2.236369	you must if
+-2.235528	<s> my UNK
+-1.934498	<s> my pack
+-2.11059	<s> my queen
+-2.22617	rocks near the
+-2.22617	gather nearby </s>
+-2.22617	massing nearby </s>
+-2.227029	<s> new form
+-1.864172	<s> no </s>
+-2.10721	<s> no UNK
+-2.22617	is no UNK
+-2.230449	do not UNK
+-2.10551	do not let
+-2.22617	have not forgotten
+-2.227029	<s> now you
+-2.227029	UNK now UNK
+-2.22617	for now we
+-2.22617	locusts now </s>
+-2.24879	UNK of UNK
+-1.94776	UNK of a
+-2.24879	UNK of my
+-1.880814	UNK of the
+-2.24879	UNK of your
+-2.22617	birthplace of the
+-2.22617	destiny of all
+-2.102091	force of primal
+-2.22617	leader of the
+-2.22617	pack of primal
+-2.102091	power of zerus
+-2.227029	purity of essence
+-2.102091	queen of blades
+-2.22617	remnants of brakks
+-2.22617	will of the
+-2.228742	UNK on UNK
+-2.228742	UNK on char
+-2.227029	<s> one UNK
+-1.928567	ancient one </s>
+-2.227887	dark one altered
+-2.227887	dark one has
+-2.102948	each other </s>
+-2.007748	<s> our UNK
+-2.22617	at our UNK
+-2.227029	attack our hive
+-2.22617	root our swarm
+-2.22617	maintain out defense
+-2.22617	my own people
+-2.22617	another pack of
+-2.102091	broken pack </s>
+-2.229597	my pack is
+-2.229597	my pack will
+-2.22617	yagdras pack is
+-2.22617	both packs are
+-2.22617	his packs survives
+-2.22617	extreme physical prowess
+-2.103804	the power of
+-2.102091	is preparing to
+-2.11059	<s> primal UNK
+-2.235528	<s> primal essence
+-2.235528	<s> primal forces
+-1.867552	<s> primal zerg
+-2.22617	from primal attacks
+-2.229597	of primal fliers
+-2.007748	of primal zerg
+-2.22617	research primal essences
+-1.668725	the primal zerg
+-2.227887	the primals are
+-2.227887	the primals has
+-2.22617	physical prowess </s>
+-2.22617	a purity of
+-2.22617	the queen of
+-2.22617	zerg remained </s>
+-2.22617	the remnants of
+-2.22617	will research primal
+-2.22617	will return to
+-2.22617	your revenge </s>
+-2.22617	the rocks near
+-2.227029	<s> root our
+-2.22617	brought ruin to
+-2.22617	tyrannozor sample acquired
+-2.22617	<s> savage </s>
+-2.227029	koprulu sector UNK
+-2.22617	i sense a
+-2.22617	i sensed another
+-2.227029	has sent a
+-2.22617	we should UNK
+-2.22617	leader sleeps </s>
+-2.227887	UNK so much
+-2.227887	<s> spawn many
+-2.227887	<s> spawn the
+-2.22617	to stand against
+-2.227029	the stars </s>
+-2.22617	is strong </s>
+-2.22617	you survive </s>
+-2.22617	packs survives </s>
+-2.22617	our swarm hosts
+-2.009451	the swarm </s>
+-2.227887	en taro adun
+-2.22617	by that entrance
+-1.844322	<s> the UNK
+-2.270291	<s> the ancient
+-2.270291	<s> the biomass
+-2.270291	<s> the broken
+-2.145352	<s> the chrysalis
+-2.270291	<s> the first
+-2.270291	<s> the khala
+-2.270291	<s> the power
+-1.793169	<s> the primal
+-2.048442	<s> the primals
+-2.270291	<s> the remnants
+-2.145352	<s> the swarm
+-2.145352	<s> the taldarim
+-1.874233	UNK the UNK
+-2.22617	at the UNK
+-2.22617	attack the chrysalis
+-2.22617	defend the chrysalis
+-2.22617	destroying the rocks
+-2.227887	here the dark
+-2.227887	here the zerg
+-2.229597	in the UNK
+-2.230449	is the UNK
+-2.22617	near the chrysalis
+-2.121396	of the UNK
+-2.246334	of the conclave
+-2.246334	of the overmind
+-2.024486	of the swarm
+-2.024486	of the zerg
+-2.22617	protecting the chrysalis
+-2.22617	spawn the locusts
+-2.228742	through the barricades
+-2.232996	to the beginning
+-2.232996	to the void
+-2.22617	wake the ancient
+-2.22617	collect their essence
+-2.227029	UNK them </s>
+-2.22617	altered them </s>
+-1.813748	<s> they are
+-2.239717	<s> they fight
+-2.239717	<s> they will
+-2.22617	but they are
+-2.108903	<s> this UNK
+-2.011993	<s> this is
+-2.22617	can this be
+-2.22617	a thousand UNK
+-2.227029	UNK through the
+-2.22617	broken through the
+-1.875888	UNK to UNK
+-2.118926	UNK to attack
+-2.243865	UNK to my
+-2.118926	UNK to the
+-2.22617	been to the
+-2.106361	come to UNK
+-2.2313	come to me
+-2.22617	end to the
+-2.22617	fliers to attack
+-2.227029	locusts to defend
+-2.227029	preparing to attack
+-2.22617	<s> today we
+-2.22617	our two UNK
+-2.227887	<s> tyrannozor </s>
+-2.227887	<s> tyrannozor sample
+-2.227029	is under attack
+-2.102091	feast upon your
+-2.22617	against us </s>
+-2.22617	can use </s>
+-2.22617	essence useful must
+-2.102091	the void </s>
+-2.227029	a way to
+-2.019532	<s> we UNK
+-2.24138	<s> we are
+-2.24138	<s> we claim
+-2.24138	<s> we have
+-2.24138	<s> we must
+-2.22617	essence we devour
+-2.228742	that we protoss
+-2.227029	today we will
+-2.2313	<s> what is
+-2.22617	one whom UNK
+-2.228742	<s> will research
+-2.012837	i will UNK
+-2.22617	pack will feast
+-2.22617	the will of
+-2.228742	we will UNK
+-2.234686	you will hold
+-2.234686	you will not
+-2.227029	<s> with the
+-2.10721	UNK with a
+-2.232149	UNK with the
+-2.102948	the xelnaga </s>
+-2.227029	<s> yagdra has
+-2.227029	<s> yagdras pack
+-1.958245	<s> you UNK
+-1.782154	<s> you are
+-1.833307	<s> you have
+-1.736397	<s> you must
+-1.891298	<s> you will
+-2.113107	UNK you </s>
+-2.238046	UNK you a
+-2.227029	and you will
+-2.227029	as you must
+-2.22617	consume you </s>
+-2.22617	for you </s>
+-2.22617	forgotten you broken
+-2.227887	if you survive
+-2.108057	<s> your UNK
+-2.232996	<s> your essence
+-2.232996	<s> your leader
+-2.009451	UNK your UNK
+-2.22617	from your UNK
+-2.22617	have your revenge
+-2.22617	in your hands
+-2.102091	is your UNK
+-2.22617	of your UNK
+-2.22617	to your UNK
+-2.227029	upon your essence
+-2.227029	<s> zeratul </s>
+-2.22617	are zerg </s>
+-2.227029	broken zerg remained
+-1.770852	primal zerg </s>
+-2.026124	primal zerg UNK
+-2.026124	primal zerg are
+-2.247973	primal zerg factions
+-2.247973	primal zerg forces
+-2.247973	primal zerg gathering
+-1.933656	the zerg </s>
+-2.234686	the zerg UNK
+-2.234686	the zerg evolved
+
+\end\

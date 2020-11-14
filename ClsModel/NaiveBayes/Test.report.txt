@@ -1,0 +1,2 @@
+Human Recall:0.642 Precision:0.831 F1:0.724 Accuracy:0.713
+NotHuman Recall:0.815 Precision:0.616 F1:0.701 Accuracy:0.713

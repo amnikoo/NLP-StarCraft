@@ -1,0 +1,16 @@
+<s>|dogs|0.38461538461538464
+dogs|chase|0.4
+chase|cats|0.2
+cats|</s>|0.3
+dogs|UNK|0.2
+UNK|</s>|0.6666666666666666
+<s>|cats|0.23076923076923078
+cats|UNK|0.2
+chase|birds|0.3
+birds|</s>|0.3333333333333333
+cats|chase|0.2
+chase|the|0.2
+the|cats|0.25
+<s>|the|0.15384615384615385
+the|birds|0.25
+birds|UNK|0.2222222222222222
